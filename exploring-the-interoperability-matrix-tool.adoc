@@ -1,0 +1,135 @@
+---
+sidebar: _sidebar
+permalink: interoperability-matrix-tool-overview.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+= Exploring the Interoperability Matrix Tool
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+[.lead]
+The Interoperability Matrix Tool (IMT) is a web-based application you use to search for compatibility and supported configurations for your NetApp products.
+
+You can perform the following tasks:
+[cols=2*,options="header",cols="25,75"]
+|===
+|Using this...
+|You can perform these tasks...
+|Home page
+|Search using *ONTAP SAN Host Solutions, Solution Search, List and Find*, and *Advanced Search* for viewing compatibility.
+Provides a direct link to the *Training* videos and the *Active IQ Interop Advisor*.
+|ONTAP SAN Host Solutions
+|Check compatibility for ONTAP version and Flash/Fabric storage version combinations.
+|Solution Search |Search for solution and add criteria to check compatibility.
+|List and Find
+|Know where the component is used in various configurations and across the solutions.
+|Advanced Search
+|Search for components and add criteria to check compatibility.
+|Subscriptions |View *Storage Solution, Category, or Component* configurations you have previously subscribed.
+|Notifications |View IMT update notifications.
+|Saved Search |Open searches you have previously saved.
+|Can't Find Config |Use to report a configuration you cannot find in IMT.
+|Toolbox
+|Access tools depending on your role as *Customer, Partner, or Internal NetApp* employee.
+|Reports
+|Export configurations for a solution using the *Complete Daily Exports* report or export end
+of version support components using the *Component EOVS Summary* report.
+|Preference
+|Create a list of favorite *List and Find* categories. These categories appear at the top of the *Component Explorer* in *List and Find*.
+|Help
+|Click *What's New* to view the latest release notes for the IMT.
+Click *Online Help* to view this Interoperability Matrix Tool help set.
+Click *Training* to view videos exploring how to use the Interoperability Matrix Tool, check the https://login.netapp.com/ssologinext/login.jsp?resource_url=https%3A%2F%2Flearningcenter.netapp.com%2Fdmsv2%2FSSORedirectionService%3Fsource%3Dbrainshark%26onReturnUrl%3Dhttps%25253a%25252f%25252fwww.brainshark.com%25252fbr[NetApp Learning Center^].
+To report a problem or provide feedback for the Interoperability Matrix Tool, click the *Report a Problem* link.
+Click *FAQ* to view the frequently asked questions and answers about IMT.
+Click *Data Initiative*, if available, to see the planned clean up of the IMT database.
+Click *About IMT* to view the version and copyright statement.
+Click *Known Issues* to see reported and unresolved errors in the product.
+|Take a tour |View a guided tour around the IMT.
+|<Your name> |Click to *logout* of the IMT.
+|===
+
+NOTE: If you resize the window, all of the pages become responsive.
+
+=== Using Subscription
+The *Subscription* link allows you to subscribe to *Storage Solution, Category, or Component*. If you have subscribed to a particular storage solution, category, or component, you will receive an email only if changes are made in the subscribed solutions, categories, or components.
+
+You will receive emails for the following subscriptions:
+
+
+. Storage Solution: When the changes are made in the status update, categories associated or disassociated, and configurations added or deleted.
+. Category: When the components are added or deleted from the category.
+. Component: When the changes are made in the display name of the component or state of the component.
++
+NOTE: You will receive an email depending on the frequency type you select. The two frequency types are as follows:
++
+* Immediate: You will receive an email immediately when any changes are made to the subscribed solutions, categories, or components.
+* Digest: You will receive an accumulated email every seven days reflecting all the changes that are made to the subscribed solutions, categories, or components.
+
+
+=== Using Notifications
+The *Notifications* menu displays your current notifications.
+
+=== Saved Search capabilities
+You can load different solutions or configurations using the *Saved Search* menu, which enables you to navigate to previously saved search results, recent search results, and saved configurations.
+
+The *Search Criteria* tab holds your saved searches. On this tab, you can share searches or view searches that others have shared with you. The *Configuration* tab holds your saved configurations. On this tab you can share configurations or view configurations that others have shared with you.
+
+The *Recent Search* tab holds the last 30 sets of search criteria, from the most recent to the oldest. It also lists the *Search Flow* that indicates the originating page, which can be *List and Find, Solution Explorer, or Advanced Search*. The criteria is saved automatically. This page also lists the *Last Modified Date* of a saved or recent search. You can *Load* a search from the list to view the criteria or configurations respectively.
+
+=== Using Can't Find Config?
+If you cannot find the configuration you need, you can report the problem to the support team using the *CAN'T FIND CONFIG?* feature.
+
+Open the *Can't Find Config?* menu to report a problem. Complete and send the form for assistance.
+
+=== Tools available in Toolbox
+The *Toolbox* tab shows you a list of useful tools divided into three user categories. A link is displayed for each tool.
+
+* Customers
+** Active IQ
+** Config Advisor
+** ConfigEdge
+** Hardware Universe
+** Active IQ Interop Advisor
+** NetApp Public Website
+** NetApp Support Site
+** One Collect
+** Unified Parser
+* Partners
+** Field Portal
+** LatX
+** QuoteEdge
+** SmartSolve
+** Synergy
+** System Performance Modeler
+** Tech Refresh Tool
+* Internal to NetApp
+** Agile
+** BURT
+** EPIC
+
+=== Solution reports
+You can view and download Excel or PDF versions of solution reports using the *Reports >  Complete Daily Exports* feature. You can also download the Excel version of the *Component EOVS Summary*, which lists components that have reached end of version support.
+
+=== Working with preferences
+The *Preferences List and Find Category Preferences* menu opens the *List and Find Category Preferences* page, where you can save your favorite categories to the top of the *List and Find Component Explorer* list.
+
+==== About this task
+You can use the *List and Find Category Preferences* page to select your favorite categories. These categories appear on the top of the *List and Find Component Explorer* list and are boxed in red.
+
+==== Steps
+. Click *Preferences List and Find Category Preferences* on the home page.
+The *List and Find Category Preferences* page opens.
+. Select the categories you want to save as your favorites. You can scroll through the list or
+search for categories in the *Search Categories* field.
+You can select as many categories as you need.
+. Click *Save* to keep your preferences.
+If needed, you can click *Reset* to clear the existing preferences list.
+. To view your preferences, click *Home* and then click *List and Find*. Your favorite categories appear at the top of the *Component Explorer*, outlined in red.
