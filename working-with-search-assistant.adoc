@@ -1,0 +1,22 @@
+---
+sidebar: _sidebar
+permalink: interoperability-matrix-tool-overview.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+
+= Working with search assistant
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+
+[.lead]
+*Search Assistant* provides suggestions to explore the compatible configurations depending on the search criteria that you enter. The *Search Assistant* section displays the commonly used categories from which you can select components to include in the search criteria. Depending on the component you select, the search assistant displays the compatible components and solutions.
+
+In case you have entered an incorrect search criteria and the Interoperability Matrix Tool (IMT) cannot find any results, the *Search Assistant* displays the suggestions to correct the search criteria.

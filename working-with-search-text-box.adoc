@@ -1,0 +1,20 @@
+---
+sidebar: _sidebar
+permalink: interoperability-matrix-tool-overview.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+
+=  Working with search text box
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+
+[.lead]
+You can search for components, solutions, categories and configurations using the search text box. Depending on the text you enter, the search text box displays possible matches which you can include in the search criteria.

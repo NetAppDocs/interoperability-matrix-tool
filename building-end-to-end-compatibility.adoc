@@ -1,0 +1,50 @@
+---
+sidebar: _sidebar
+permalink: interoperability-matrix-tool-overview.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+
+= Building end-to-end compatibility across products
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+
+[.lead]
+You can use Interoperability Matrix Tool to build an end-to-end compatibility view across
+products.
+The following shows the workflow:
+Viewing policies and guidelines
+The Policies & Guidelines link opens the Policies and Guidelines page for the selected solution.
+The Policies and Guidelines page describes all of the current information and guidance concerning
+the solution.
+Steps
+1. Click Policies & Guidelines on the Playground page.
+The Policies and Guidelines page opens.
+2. Review the latest news, guidance, policy information and copyright for the solution.
+On the Playground page, you can change the solution to view other policies and guidelines
+specific to it.
+3. Close the page and return to the Playground page.
+Using What If
+You can explore all possible configurations that are supported with your search criteria. You can
+use What If to upgrade or downgrade a component for a selected configuration and explore the
+compatibility.
+If you cannot find the configuration you want, click Feedback to report a problem. For more
+information, see Reporting an issue.
+The Active IQ Interop Advisor tool for determining compatibility
+The Active IQ Interop Advisor tool allows you to generate a compatibility report when you
+search using specific criteria.
+You can search by any of the following criteria:
+• Serial number
+• Cluster ID
+• OneCollect job ID
+You can find the previous search criteria information in MyAutoSupport.
+Reporting an issue
+If you encounter an issue, then you can report the problem to the support and feedback team using
+the Report a problem feature.

@@ -1,0 +1,22 @@
+---
+sidebar: _sidebar
+permalink: interoperability-matrix-tool-overview.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+
+= Finding compatible Windows Server host for your products
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+
+[.lead]
+You can use Interoperability Matrix Tool to view the compatible Windows Server hosts for your
+products.
+The following shows the workflow:

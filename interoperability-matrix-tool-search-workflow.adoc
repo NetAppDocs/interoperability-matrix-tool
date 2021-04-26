@@ -1,0 +1,20 @@
+---
+sidebar: _sidebar
+permalink: interoperability-matrix-tool-overview.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+
+= Interoperability Matrix Tool search workflow
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+
+[.lead]
+As you start using Interoperability Matrix Tool, it is important that you understand some of the general use cases explained using the workflows.

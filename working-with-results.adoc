@@ -1,0 +1,23 @@
+---
+sidebar: _sidebar
+permalink: interoperability-matrix-tool-overview.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+
+= Working with results
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+
+[.lead]
+You can view and export the results for the configurations that meet your product requirements.
+From the Results page, you can build an end-to-end view by choosing a related solution which is
+compatible with the selected configuration.
+NOTE: If you do not see the results you expect, clear the filters.

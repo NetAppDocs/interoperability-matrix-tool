@@ -1,0 +1,23 @@
+---
+sidebar: _sidebar
+permalink: interoperability-matrix-tool-overview.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+
+= Using Refine Search Criteria
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+
+[.lead]
+Refine Search Criteria allows you to explore compatible configurations for your product. By
+selecting components from different categories, you can narrow down the configurations results to
+the desired configurations for your product.
+NOTE: The keywords Rack and Blade are displayed only with the components in 4.x.

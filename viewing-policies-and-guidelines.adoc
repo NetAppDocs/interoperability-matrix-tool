@@ -1,0 +1,29 @@
+---
+sidebar: _sidebar
+permalink: interoperability-matrix-tool-overview.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+
+= Viewing policies and guidelines
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+
+[.lead]
+The Policies & Guidelines link opens the Policies and Guidelines page for the selected solution.
+The Policies and Guidelines page describes all of the current information and guidance concerning
+the solution.
+Steps
+1. Click Policies & Guidelines on the Playground page.
+The Policies and Guidelines page opens.
+2. Review the latest news, guidance, policy information and copyright for the solution.
+On the Playground page, you can change the solution to view other policies and guidelines
+specific to it.
+3. Close the page and return to the Playground page.

@@ -1,0 +1,24 @@
+---
+sidebar: _sidebar
+permalink: interoperability-matrix-tool-overview.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+
+= Using What If
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+
+[.lead]
+You can explore all possible configurations that are supported with your search criteria. You can
+use What If to upgrade or downgrade a component for a selected configuration and explore the
+compatibility.
+If you cannot find the configuration you want, click Feedback to report a problem. For more
+information, see Reporting an issue
