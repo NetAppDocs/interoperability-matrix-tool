@@ -1,0 +1,52 @@
+---
+sidebar: _sidebar
+permalink: interoperability-matrix-tool-overview.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+= Working with ONTAP SAN Host Solutions search
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+Check compatibility for ONTAP version and Flash or Fabric storage version combinations. You can further refine your compatibility search for each relevant components.
+
+=== About this task
+You can quickly check the compatibility between your Flash or Fabric storage devices on your storage area network (SAN) with the ONTAP version you want to use and other relevant
+components. You can choose between Expert view or Novice
+view.
+
+
+NOTE: Click *Set as default* to automatically open a ONTAP SAN Host Solutions search
+whenever you open the IMT.
+
+=== Steps
+1. Click *ONTAP SAN Host Solutions* from the home page.
+2. Select the view you want to use:
+a. Click *Expert view* to see advanced criteria options.
+b. Click *Guided view* to see simplified and guided criteria options.
+3. In *Novice view*, select the search criteria options as they display.
+a. Click *Skip* to move to the next component without making a selection. You can return to
+the component by clicking *Unskip* as needed.
+b. After the first five selections, click *Show More* to continue refining your search criteria.
+c. When done, click View Results to see the supported configurations for your search criteria.
+4. In *Expert view*, select the search criteria you want to use for the various components. We
+recommend you move from left to right as each selection will refine the remaining criteria. You
+do not have to make a selection for each component.
+a. When done, click *View Results* to see the supported configurations for your search criteria.
+5. You can also do the following as part of the ONTAP SAN Host Solutions:
+a. Click the book icon to view the policy and guidelines applicable to your selection.
+b. Click the chain icon to generate a sharable URL for your selections that you can share with
+others.
+c. Select the undo icon to clear all of you selections and start again.
+6. From the results screen, you can do the following:
+a. View the details, alerts, and information notices about your configuration.
+b. Click the star icon to make this search a favorite. Name and describe the configuration. This
+becomes a saved search, viewable from the *Saved Search* menu. You can also subscribe to
+the configuration here, which will notify you when changes are made. If you subscribe, you
+will also see this listed under the *Subscriptions* menu.
+c. Hover over the *Build End to End View With* to find additional supported solutions.
+d. Click *What if* to change components and explore other compatibility options.

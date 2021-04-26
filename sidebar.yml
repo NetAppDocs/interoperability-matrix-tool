@@ -1,8 +1,33 @@
 entries:
   - title: Interoperability Matrix Tool overview
     url: /interoperability-matrix-tool-overview.html
+    entries:
+
   - title: Performing Common Searches
     url: /performing-common-searches.html
     entries:
       - title: Working with ONTAP SAN Host Solutions search
         url: /working-with-ontap-san-host-solutions-search.html
+      - title: Working with Solution Search
+        url: /working-with-solution-search.html
+      - title: Working with list and find
+        url: /working-with-list-and-find.html
+      - title: Working with Advanced Search
+        url: /working-with-advanced-search.html
+  - title: Exploring the Interoperability Matrix Tool
+    url: /exploring-the-interoperability-matrix-tool.html
+    entries:
+    - title: Using Subscription
+      url: /using-subscription.html
+    - title: Using Notifications
+      url: /using-notifications.html
+    - title: Saved Search Capabilites
+      url: /saved-search-capabilities.html
+    - title: Using Can't Find Config
+      url: /using-cannot-find-config.html
+    - title: Tools available in Toolbox
+      url: /tools-available-in-toolbox.html
+    - title: Solution reports
+      url: /solution-reports.html
+    - title: Working with preferences
+      url: /working-with-preferences.html

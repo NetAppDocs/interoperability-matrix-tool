@@ -1,0 +1,26 @@
+---
+sidebar: _sidebar
+permalink: interoperability-matrix-tool-overview.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+= Working with Advanced Search
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+
+[.lead]
+You can search for different components using *Advanced Search* and add or remove components from your search criteria. You can use the search text box within the *Advanced Search* window to search for components. You can use the following filters as needed:
+
+* Select *Do not show Limited Support components* to prevent seeing components with limited
+support in the results.
+* Select *Do not show EOVS components* to prevent seeing components with end-of-version
+support in the results.
+
+From this page, you can also view the *Component Explorer, Load saved criteria or configurations*, or use the *Search Assistant*.
