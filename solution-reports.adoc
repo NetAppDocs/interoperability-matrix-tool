@@ -1,0 +1,18 @@
+---
+sidebar: _sidebar
+permalink: interoperability-matrix-tool-overview.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+= Solution reports
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+[.lead]
+You can view and download Excel or PDF versions of solution reports using the *Reports >  Complete Daily Exports* feature. You can also download the Excel version of the *Component EOVS Summary*, which lists components that have reached end of version support.

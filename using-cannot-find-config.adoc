@@ -1,0 +1,20 @@
+---
+sidebar: _sidebar
+permalink: interoperability-matrix-tool-overview.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+= Using Can't Find Config?
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+[.lead]
+If you cannot find the configuration you need, you can report the problem to the support team using the *CAN'T FIND CONFIG?* feature.
+
+Open the *Can't Find Config?* menu to report a problem. Complete and send the form for assistance.
