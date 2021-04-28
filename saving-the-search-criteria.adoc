@@ -1,0 +1,37 @@
+---
+sidebar: _sidebar
+permalink: interoperability-matrix-tool-overview.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+
+= Saving the search criteria
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+
+[.lead]
+On the *Refine Search Criteria* page, you can choose to save or update the search criteria to retrieve it later.
+
+== Before you begin
+You must have already added solutions and components on the first page to save the criteria for future reference.
+
+== Steps
+. Click *Save Criteria* on the *Refine Search Criteria* page.
+. Enter the *Criteria Name* and add information in the *Description* fields.
+The *Criteria Name* can be alphanumeric and you can add up to 20 characters. The
+*Description* field can take up to 100 alphanumeric characters. The Interoperability Matrix Tool does not allow duplicate names for saving criteria. *Criteria Name* is mandatory.
+3. Click *Update Criteria* to add filters or criteria to be included as part of the saved criteria.
+4. Click *Save*.
+The *Save Criteria* link changes to *Update Criteria* after you save the criteria. You can save a maximum of 10 search criteria.
+
+== Result
+When you click *Saved Search*, a *Saved Criteria* pop-up is displayed. The *Recent Search* tab displays your most recent searches.
+
+Each recent saved search is uniquely identified by its timestamp. You can click the timestamp to go to the *Refine Search Criteria* page.

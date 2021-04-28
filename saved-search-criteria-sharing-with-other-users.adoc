@@ -1,0 +1,65 @@
+---
+sidebar: _sidebar
+permalink: interoperability-matrix-tool-overview.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+
+= Saved Search criteria sharing with other users
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+
+[.lead]
+From the *Refine Search Criteria* page, you can share your *Saved Search* criteria with other users.
+
+The following are the three different methods for saving and sharing the search criteria:
+
+* Sharing the criteria while saving.
+* Sharing the criteria after saving. Viewing shared criteria
+* Sharing the criteria while saving
+
+== Sharing the criteria while saving
+From the Refine Search Criteria page, you can share the search criteria while saving.
+
+=== Before you begin
+
+You must add the solutions and components on the first page to share the criteria while saving.
+
+=== Steps
+. Select the Share checkbox to share the Saved Search criteria.
+. Enter the Username in the textbox for user search and click Add Users.
+Note: If the Username does not exist, validation message is displayed.
+. You can look up while using the search user option and submit to share criteria.
+
+== Sharing the criteria after saving
+From the Refine Search Criteria page, you can share the search criteria after saving.
+
+=== Before you begin
+You must add the Saved Search solutions and components on the first page to share the criteria after saving.
+
+=== Steps
+
+. Click Saved Search option from the home page.
+. Click Share to share the criteria with others.
+. Enter the Username in the textbox to search the users and click Submit.
+
+== Viewing shared criteria
+
+=== Before you begin
+
+You must save the solutions and components in the Saved Search.
+
+=== Steps
+. You can view the criteria that you shared with other users by setting the Saved Search option
+as default.
+. Select Username from the Shared By column to view the shared criteria.
+. An email notification will be sent to the shared users notifying about the share.
+
+NOTE: The update to the original criteria will have no bearing on the criteria that is shared. They are deemed to be separate entities.

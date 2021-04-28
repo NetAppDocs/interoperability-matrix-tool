@@ -1,0 +1,28 @@
+---
+sidebar: _sidebar
+permalink: interoperability-matrix-tool-overview.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+
+= Removing configuration from saved tags
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+
+[.lead]
+You can remove or update the saved configuration that you do not require.
+
+== About this task
+If you have saved configuration from results, you can remove it if you no longer require it for reference.
+
+== Steps
+. Click the yellow star icon to remove or update the saved configuration.
+. Click Remove to delete the saved configuration.
+After clicking the remove button in pop up, the star icon changes from yellow to white.

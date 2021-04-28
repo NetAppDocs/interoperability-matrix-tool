@@ -1,0 +1,28 @@
+---
+sidebar: _sidebar
+permalink: interoperability-matrix-tool-overview.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+
+= Editing saved criteria
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+
+[.lead]
+You can edit the saved search criteria that you saved earlier. You can add any new components to the saved criteria or remove the component from existing saved criteria.
+
+== Before you begin
+You must load the saved criteria for editing it.
+
+== Steps
+. Load the saved criteria, click the saved criteria link.
+. Click the *Refine Search Criteria* link.
+You can add or remove the criteria from saved criteria.

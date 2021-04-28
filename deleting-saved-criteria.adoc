@@ -1,0 +1,29 @@
+---
+sidebar: _sidebar
+permalink: interoperability-matrix-tool-overview.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+
+= Deleting saved criteria
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+
+[.lead]
+You can delete the saved search criteria.
+
+== About this task
+You must have the name of the saved criteria in order to delete the saved criteria.
+
+== Steps
+. Click the delete icon *X* under the *Action* column.
+The pop up is displayed asking you whether or not you want to delete the saved criteria.
+. Click *Yes* to delete saved criteria.
+. Click *No* to retain saved criteria.

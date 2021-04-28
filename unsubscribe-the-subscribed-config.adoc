@@ -1,0 +1,30 @@
+---
+sidebar: _sidebar
+permalink: interoperability-matrix-tool-overview.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+
+= Unsubscribing the subscribed configurations
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+
+[.lead]
+You can unsubscribe the configuration from the Results page if you do want to receive any more
+updates.
+
+== Before you begin
+
+You must have subscribed to the configurations from the Result page.
+
+== Choices
+* In the *Results* page, click star to unsubscribe the subscribed configuration.
+If you remove the configuration from the favorite list, the configuration is automatically
+unsubscribed

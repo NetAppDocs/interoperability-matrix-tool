@@ -1,0 +1,20 @@
+---
+sidebar: _sidebar
+permalink: interoperability-matrix-tool-overview.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+
+= Defining and entering the search criteria
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+
+[.lead]
+You can define your search criteria using a combination of components, solutions or categories. Interoperability Matrix Tool allows you to enter a search criteria by adding components, solutions, or categories. You can enter a search criteria using the search text box, solution explorer, or component explorer.

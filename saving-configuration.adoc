@@ -1,0 +1,37 @@
+---
+sidebar: _sidebar
+permalink: interoperability-matrix-tool-overview.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+
+= Saving configuration
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+
+[.lead]
+You can save configurations with any name of your choice for a particular solution. This helps you to retrieve the configurations later without remembering the complicated configuration ID.
+
+== Before you begin
+You can easily retrieve the desired configuration later by looking for the name that you had specified.
+
+== About this task
+If you want to refer to the configuration later, you can save the configuration with any name of
+your choice.
+
+== Steps
+. In the *Results* page, click star to save the configuration.
+After you save the configuration, the star turns yellow. You can save a maximum of 20
+configurations.
+. In the *Tag Configuration* dialog box, enter the name and description to bookmark the
+configuration for reference.
+The saved configuration name is displayed on the configuration details link. You can add
+multiple configurations to a particular tag. A tag is unique to a single solution. Different users can use the same tag name.
+. Select the tag name from the drop-down arrow to add configurations to an already saved tab.

@@ -1,0 +1,33 @@
+---
+sidebar: _sidebar
+permalink: interoperability-matrix-tool-overview.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+
+= Deleting tag names
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+
+[.lead]
+You can delete the entire tag for saved configurations.
+
+== About this task
+Saved configurations can be deleted by removing the tag name. When you delete the tag name, all
+of the configurations associated with those tags will also be deleted.
+
+== Steps
+. Click Favorites.
+. From Saved Criteria dialog box, click Configurations tab.
+. Click delete icon X under Action column.
+The pop up is displayed asking you whether or not you want to delete saved tags and its
+associated configurations.
+. Click Yes to delete tags and its associated configurations.
+. Click No to retain tags and its associated configurations.

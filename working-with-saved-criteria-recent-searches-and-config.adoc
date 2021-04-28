@@ -1,0 +1,20 @@
+---
+sidebar: _sidebar
+permalink: /work-with-saved-criteria-recent-search-and-config.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+
+= Working with saved criteria, recent searches, and configurations
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+
+[.lead]
+You can save and update the search criteria and configurations. You can load, edit, and delete the saved criteria and configurations.

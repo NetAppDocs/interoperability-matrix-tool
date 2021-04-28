@@ -1,0 +1,34 @@
+---
+sidebar: _sidebar
+permalink: interoperability-matrix-tool-overview.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+
+= Viewing recent search criteria
+
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+
+[.lead]
+On the Welcome to the IMT page, you can load Saved Search criteria to display your recent searches.
+
+== Before you begin
+
+You must have saved your recent searches.
+
+== About this task
+
+== Steps
+. Click *Saved Search*
+. Select the *Recent Search* tab to view the recently saved searches.
+Your recent searches are displayed.
+. Select the *Search criteria* tab to view your specific saved search criteria.
+Your saved criteria is displayed.

@@ -1,0 +1,34 @@
+---
+sidebar: _sidebar
+permalink: interoperability-matrix-tool-overview.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+
+= Loading the saved configuration
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+
+[.lead]
+You can load the previously saved configurations from the home page. You can view the tag name, description, solution name of the saved configuration.
+
+== Before you begin
+You can load the specific configuration by looking for the name that you have specified for that
+particular configuration.
+
+== About this task
+If you have already saved the configuration, you can load them later at any time.
+
+== Steps
+. On the home page, click *Saved Search* option to load the saved configuration.
+. In the *Saved Configuration* tab, click configuration.
+. A mouse hover over the saved configuration displays the configuration name.
+. Click the *Tag Name* and load the configuration.
+. Click *View Details* link to go to the Results page.
