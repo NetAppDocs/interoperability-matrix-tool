@@ -1,0 +1,27 @@
+---
+sidebar: sidebar
+permalink: subscribing-to-storage-solutions-categories-or-categories.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+
+= Subscribing to Storage Solutions, Categories, or Components
+
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+
+[.lead]
+You can subscribe to single or multiple storage solutions, categories, or components of your choice.
+
+The *Subscription* tab allows you to subscribe to the following subscriptions:
+
+* Subscribing to Storage Solutions
+* Subscribing to Categories
+* Subscribing to Components

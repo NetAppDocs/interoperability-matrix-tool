@@ -1,0 +1,37 @@
+---
+sidebar: sidebar
+permalink: subscribing-to-components.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+
+= Subscribing to Components
+
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+
+[.lead]
+You can subscribe to single or multiple components of your choice.
+
+== About this task
+You will receive an email notification when changes are made in the display name of the component or state of the component.
+
+== Steps
+. Click the *Subscription* link from the header menu.
+. In the subscription window, select the *Component* tab.
+. To subscribe for the component of your choice, select the checkbox for the *Attribute Updated*
+option.
+. In the *Frequency* field, select *Immediate* or *Digest*.
++
+NOTE: The default selection is *Immediate*.
+
+. Click *Subscribe* to get the subscriptions for the components that you have subscribed.
++
+NOTE: You can click *Reset* to clear all of the selections in the *Component* tab.
