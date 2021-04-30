@@ -1,0 +1,28 @@
+---
+sidebar: sidebar
+permalink: export-config-results.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+
+= Exporting configuration results
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+
+[.lead]
+You can export the configuration results from the *Results* page, using the *Export* feature. The configuration results export contains details of the storage solution, search criteria, configuration details, and any specific alerts or additional information. You can export the configuration results to an Excel spreadsheet or a PDF.
+
+== About this task
+The filename format of the Excel sheet that includes the configuration results is IMT_solutionshortname_timestamp.xls.
+
+== Steps
+. On the *Results* page, from the *Export* drop-down menu, you can choose to export the current solution or the end-to-end view of the configuration.
+. Depending on your requirement, click *Current solution* or *End to end view*. You can export a maximum of 3000 rows. Previously, you could export up to 1000 rows, but this limit has increased. You should use a filter to reduce the results. Optionally, you can use the *Complete Daily Export* feature to get the complete results.
+. You can save the Excel spreadsheet or PDF to your local machine.

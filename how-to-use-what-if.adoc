@@ -1,0 +1,32 @@
+---
+sidebar: _sidebar
+permalink: how-to-use-what-if.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+
+= How to use What If
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+
+[.lead]
+
+*What If* allows you to explore all possible supported configurations that are supported. You can use *What If* feature to upgrade or downgrade a component in a selected configuration and explore the compatibility. In order to view all the supported configurations after you upgrade or downgrade a component, you can use the *Export* option to export the configuration details to an Excel worksheet or PDF.
+
+After you select a specific component to upgrade or downgrade in the *What If* window, you can view if the selected component is compatible with other components in the configuration or if there are no matching configurations. In case there are no matching configurations, you must consider expanding the initial criteria to derive more configurations.
+
+The *What If* window is divided into two panes:
+
+* Upper pane indicates if a selected component matches any valid configurations.
+* Lower pane displays the various categories and the respective component versions.
+
+If you cannot find the configuration you want, click *Feedback* to report a problem.
+
+For more information, see [url Reporting an issue^].

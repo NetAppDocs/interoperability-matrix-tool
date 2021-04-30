@@ -1,0 +1,20 @@
+---
+sidebar: _sidebar
+permalink: understanding-and-using-imt-results.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+
+= Understanding and using Interoperability Matrix Tool results
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+
+[.lead]
+Interoperability Matrix Tool allows you to view and export the results for the configurations that meet your requirements. From the *Results* page, you can build an end-to-end view by choosing a related solution which is compatible with the selected configuration. Additionally, you can use the *What If* feature to upgrade or downgrade a component within a configuration.
