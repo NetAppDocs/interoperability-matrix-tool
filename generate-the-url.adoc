@@ -1,0 +1,29 @@
+---
+sidebar: _sidebar
+permalink: interoperability-matrix-tool-overview.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+
+= Generating the URL
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+
+[.lead]
+In the Refine Search Criteria page, you can generate a URL for compatibility. You can embed
+the generated URL in other tools, upload it in the NetApp Support Site, or share it through an
+email. The generated URL can be directly uploaded into the browser.
+Steps
+1. In the Refine Search Criteria page, select the components to filter down the results.
+2. Click Generate URL.
+3. Copy the URL from the Url Share window.
+4. Click Ok.
+NOTE: You can use the URL that you have generated. The URL will show the components
+and the solutions that you have added to the search criteria.

@@ -1,0 +1,31 @@
+---
+sidebar: _sidebar
+permalink: interoperability-matrix-tool-overview.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+
+= Applying filters to categories
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+
+[.lead]
+In the Refine Search Criteria page, you can apply filters by selecting components from different
+categories. By applying filters, you can add components to the search criteria and narrow down the
+configuration results.
+Steps
+1. Select the components from the desired categories on the Refine Search Criteria page,
+depending on your requirement
+Within each category, you can search for specific components and select the required
+component.
+2. Optional: Select multiple components from different categories to narrow down the
+configuration results.
+Depending on the compatibility of the components selected, some of the components might not
+be available within the categories.
