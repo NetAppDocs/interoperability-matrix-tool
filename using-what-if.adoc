@@ -1,6 +1,6 @@
 ---
-sidebar: _sidebar
-permalink: interoperability-matrix-tool-overview.html
+sidebar: sidebar
+permalink: using-what-if.html
 keywords: cable,..
 summary:  Determine ..
 ---
@@ -20,5 +20,6 @@ summary:  Determine ..
 You can explore all possible configurations that are supported with your search criteria. You can
 use What If to upgrade or downgrade a component for a selected configuration and explore the
 compatibility.
+
 If you cannot find the configuration you want, click Feedback to report a problem. For more
-information, see Reporting an issue
+information, see *Reporting an issue*.

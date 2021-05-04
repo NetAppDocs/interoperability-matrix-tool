@@ -1,6 +1,6 @@
 ---
-sidebar: _sidebar
-permalink: interoperability-matrix-tool-overview.html
+sidebar: sidebar
+permalink: finding-specific-config-and-checking-for-product-upgrade.html
 keywords: cable,..
 summary:  Determine ..
 ---
@@ -17,6 +17,4 @@ summary:  Determine ..
 
 
 [.lead]
-You can use Interoperability Matrix Tool to view a specific configuration to upgrade or downgrade
-a component in your product configuration.
-The following shows the workflow:
+You can use Interoperability Matrix Tool to view a specific configuration to upgrade or downgrade a component in your product configuration. The following shows the workflow:

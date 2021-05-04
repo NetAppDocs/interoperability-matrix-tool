@@ -1,6 +1,6 @@
 ---
-sidebar: _sidebar
-permalink: interoperability-matrix-tool-overview.html
+sidebar: sidebar
+permalink: the-activeiq-interop-advisor-tool.html
 keywords: cable,..
 summary:  Determine ..
 ---
@@ -17,10 +17,12 @@ summary:  Determine ..
 
 
 [.lead]
-The Active IQ Interop Advisor tool allows you to generate a compatibility report when you
-search using specific criteria.
+The Active IQ Interop Advisor tool allows you to generate a compatibility report when you search using specific criteria.
+
 You can search by any of the following criteria:
-• Serial number
-• Cluster ID
-• OneCollect job ID
-You can find the previous search criteria information in MyAutoSupport.
+
+* Serial number
+* Cluster ID
+* OneCollect job ID
+
+You can find the previous search criteria information in *MyAutoSupport*.

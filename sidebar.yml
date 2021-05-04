@@ -1,8 +1,6 @@
 entries:
   - title: Interoperability Matrix Tool overview
     url: /interoperability-matrix-tool-overview.html
-    entries:
-
   - title: Performing Common Searches
     url: /performing-common-searches.html
     entries:
@@ -17,17 +15,52 @@ entries:
   - title: Exploring the Interoperability Matrix Tool
     url: /exploring-the-interoperability-matrix-tool.html
     entries:
-    - title: Using Subscription
-      url: /using-subscription.html
-    - title: Using Notifications
-      url: /using-notifications.html
-    - title: Saved Search Capabilites
-      url: /saved-search-capabilities.html
-    - title: Using Can't Find Config
-      url: /using-cannot-find-config.html
-    - title: Tools available in Toolbox
-      url: /tools-available-in-toolbox.html
-    - title: Solution reports
-      url: /solution-reports.html
-    - title: Working with preferences
-      url: /working-with-preferences.html
+      - title: Using Subscription
+        url: /using-subscription.html
+      - title: Using Notifications
+        url: /using-notifications.html
+      - title: Saved Search Capabilites
+        url: /saved-search-capabilities.html
+      - title: Using Can't Find Config
+        url: /using-cannot-find-config.html
+      - title: Tools available in Toolbox
+        url: /tools-available-in-toolbox.html
+      - title: Solution reports
+        url: /solution-reports.html
+      - title: Working with preferences
+        url: /working-with-preferences.html
+  - title: Interoperability Matrix Tool search workflow
+    url: /interoperability-matrix-tool-search-workflow.html
+    entries:
+      - title: Working with search assistant
+        url: /working-with-search-assistant.html
+      - title: Working with search text box
+        url: /working-with-search-text-box.html
+      - title: Using Refine Search Criteria
+        url: /using-refine-search-criteria.html
+      - title: Finding compatible host operating system for your products
+        url: /finding-compatible-host-os.html
+      - title: Finding compatible Windows Server host for your products
+        url: /finding-compatible-windows-server.html
+
+      - title: Finding compatibility with HBA cards
+        url: /finding-compatible-with-hba-cards.html
+      - title: Finding a specific configuration and checking for product upgrade or downgrade supportability
+        url: /finding-specific-config-and-checking-for-product-upgrade.html
+      - title: Working with results
+        url: /working-with-results.html
+      - title: Building end-to-end compatibility across products
+        url: /building-end-to-end-compatibility.html
+      - title: Viewing policies and guidelines
+        url: /viewing-policies-and-guidelines.html
+      - title: Using What If
+        url: /using-what-if.html
+      - title: The Active IQ Interop Advisor tool for determining compatibility
+        url: /viewing-policies-and-guidelines.html
+      - title: Reporting an issue
+        url: /reporting-an-issue.html
+
+
+
+  - title: Working with saved criteria, recent searches, and configurations
+    url: /work-with-saved-criteria-recent-search-and-config.html
