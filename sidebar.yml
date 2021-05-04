@@ -76,14 +76,12 @@ entries:
          url: /saved-search-criteria-sharing-with-other-users.html
       -  title: Loading the saved criteria
          url: /loading-the-saved-criteria.html
-
       -  title: Editing saved criteria
          url: /editing-saved-criteria.html
       -  title: Deleting saved criteria
          url: /deleting-saved-criteria.html
       -  title: Saving configuration
          url: /saving-configuration.html
-
       -  title: Subscribing to configurations
          url: /subscribing-to-config.html
       -  title: Unsubscribing the subscribed configurations
@@ -98,3 +96,16 @@ entries:
          url: /saving-a-recent-search.html
       -  title: Viewing recent search criteria
          url: /viewing-recent-search-criteria.html
+  - title: Finding the compatibility using Refine Search Criteria
+    url: /working-with-saved-criteria-recent-searches-and-config.html
+  - title: Understanding and using Interoperability Matrix Tool results
+    url: /working-with-saved-criteria-recent-searches-and-config.html
+  - title: How to use What If
+    url: /working-with-saved-criteria-recent-searches-and-config.html
+  - title: Subscribing to Storage Solutions, Categories, or Components
+    url: /working-with-saved-criteria-recent-searches-and-config.html
+  - title: Troubleshooting Interoperability Matrix Tool issues
+    url: /working-with-saved-criteria-recent-searches-and-config.html
+  - title: Copyright and trademark
+    url: /working-with-saved-criteria-recent-searches-and-config.html
+  
