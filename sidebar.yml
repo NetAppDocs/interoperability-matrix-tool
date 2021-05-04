@@ -42,7 +42,6 @@ entries:
         url: /finding-compatible-host-os.html
       - title: Finding compatible Windows Server host for your products
         url: /finding-compatible-windows-server.html
-
       - title: Finding compatibility with HBA cards
         url: /finding-compatible-with-hba-cards.html
       - title: Finding a specific configuration and checking for product upgrade or downgrade supportability
@@ -59,8 +58,43 @@ entries:
         url: /viewing-policies-and-guidelines.html
       - title: Reporting an issue
         url: /reporting-an-issue.html
-
-
-
+  - title: Defining and entering the search criteria
+    url: /defining-and-entering-the-search-criteria.html
+    entries:
+      -  title: Adding components to search criteria
+         url: /add-components-to-search-criteria.html
+      -  title: Adding solutions to search criteria
+         url: /add-solutions-to-search-criteria.html
+      -  title: Adding configuration names to search criteria
+         url: /add-config-names-to-search-criteria.html
   - title: Working with saved criteria, recent searches, and configurations
-    url: /work-with-saved-criteria-recent-search-and-config.html
+    url: /working-with-saved-criteria-recent-searches-and-config.html
+    entries:
+      -  title: Saving the search criteria
+         url: /saving-the-search-criteria.html
+      -  title: Saved Search criteria sharing with other users
+         url: /saved-search-criteria-sharing-with-other-users.html
+      -  title: Loading the saved criteria
+         url: /loading-the-saved-criteria.html
+
+      -  title: Editing saved criteria
+         url: /editing-saved-criteria.html
+      -  title: Deleting saved criteria
+         url: /deleting-saved-criteria.html
+      -  title: Saving configuration
+         url: /saving-configuration.html
+
+      -  title: Subscribing to configurations
+         url: /subscribing-to-config.html
+      -  title: Unsubscribing the subscribed configurations
+         url: /unsubscribe-the-subscribed-config.html
+      -  title: Loading the saved configuration
+         url: /loading-the-saved-config.html
+      -  title: Removing configuration from saved tags
+         url: /removing-config-from-saved-tags.html
+      -  title: Deleting tag names
+         url: /deleting-tag-names.html
+      -  title: Saving a recent search
+         url: /saving-a-recent-search.html
+      -  title: Viewing recent search criteria
+         url: /viewing-recent-search-criteria.html
