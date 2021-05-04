@@ -97,15 +97,42 @@ entries:
       -  title: Viewing recent search criteria
          url: /viewing-recent-search-criteria.html
   - title: Finding the compatibility using Refine Search Criteria
-    url: /working-with-saved-criteria-recent-searches-and-config.html
+    url: /finding-the-compatibility-using-the-refine-search-criteria.html
+    entries:
+      - title: The Refine Search Criteria page for verifying compatibility
+        url: /refine-serach-page-to-verify-compatibility.html
+      - title: Applying filters to categories
+        url: /
+      - title: Modifying the search criteria
+        url: /
+      - title: Generating the URL
+        url: /
   - title: Understanding and using Interoperability Matrix Tool results
-    url: /working-with-saved-criteria-recent-searches-and-config.html
+    url: /understanding-and-using-imt-results.html
+    entries:
+      - title: Supported configuration searches
+        url: /supported-config-searches.html
+      - title: Using row compare
+        url: /using-row-compare.html
+      - title: Creating an end-to-end view for a selected configuration
+        url: /create-end-to-end-view-for-selected-config.html
+      - title: Exporting configuration results
+        url: /export-config-results.html
   - title: How to use What If
-    url: /working-with-saved-criteria-recent-searches-and-config.html
+    url: /how-to-use-what-if.html
+    entries:
+      - title: Selecting a component to upgrade or downgrade
+        url: /select-component-to-upgrade-or-downgrade.html
   - title: Subscribing to Storage Solutions, Categories, or Components
-    url: /working-with-saved-criteria-recent-searches-and-config.html
+    url: /subscribing-to-storage-solutions-categories-or-categories.html
+    entries:
+      -  title: Subscribing to Storage Solutions
+         url: /subscribing-to-storage-solutions.html
+      -  title: Subscribing to Categories
+         url: /subscribing-to-categories.html
+      -  title: Subscribing to Components
+         url: /subscribing-to-components.html
   - title: Troubleshooting Interoperability Matrix Tool issues
-    url: /working-with-saved-criteria-recent-searches-and-config.html
+    url: /troubleshooting-interoperability-matrix-tool-issues.html
   - title: Copyright and trademark
-    url: /working-with-saved-criteria-recent-searches-and-config.html
-  
+    url: /copyright-and-trademark.html

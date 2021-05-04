@@ -1,5 +1,5 @@
 ---
-sidebar: _sidebar
+sidebar: sidebar
 permalink: how-to-use-what-if.html
 keywords: cable,..
 summary:  Determine ..

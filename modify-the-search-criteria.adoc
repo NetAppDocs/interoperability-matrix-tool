@@ -1,6 +1,6 @@
 ---
-sidebar: _sidebar
-permalink: interoperability-matrix-tool-overview.html
+sidebar: sidebar
+permalink: modify-the-search-criteria.html
 keywords: cable,..
 summary:  Determine ..
 ---
@@ -17,10 +17,9 @@ summary:  Determine ..
 
 
 [.lead]
-From the Refine Search Criteria’ page, you can choose to modify the search criteria to add a
-solution, component, or category to the criteria.
-Steps
-1. In the Refine Search Criteria’ page, click Change Criteria.
-2. In the search criteria page, you can add a solution, component, or category using the search
-text box.
-3. Click Next, to view the compatible configurations in the Refine Search Criteria’ page.
+From the *Refine Search Criteria* page, you can choose to modify the search criteria to add a solution, component, or category to the criteria.
+
+== Steps
+. In the *Refine Search Criteria* page, click *Change Criteria*.
+. In the search criteria page, you can add a solution, component, or category using the search text box.
+. Click *Next*, to view the compatible configurations in the *Refine Search Criteria* page.

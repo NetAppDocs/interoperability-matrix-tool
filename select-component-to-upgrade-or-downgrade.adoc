@@ -1,5 +1,5 @@
 ---
-sidebar: _sidebar
+sidebar: sidebar
 permalink: select-component-to-upgrade-or-downgrade.html
 keywords: cable,..
 summary:  Determine ..

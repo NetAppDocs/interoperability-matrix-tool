@@ -1,5 +1,5 @@
 ---
-sidebar: _sidebar
+sidebar: sidebar
 permalink: copyright-and-trademark.html
 keywords: cable,..
 summary:  Determine ..

@@ -1,6 +1,6 @@
 ---
-sidebar: _sidebar
-permalink: interoperability-matrix-tool-overview.html
+sidebar: sidebar
+permalink: refine-serach-page-to-verify-compatibility.html
 keywords: cable,..
 summary:  Determine ..
 ---
@@ -17,33 +17,19 @@ summary:  Determine ..
 
 
 [.lead]
-The Interoperability Matrix Tool allows you to explore the compatible configurations for your
-product from the Refine Search Criteria page. You can narrow down the configuration results
-from this page to the desired configurations for your product.
-You can navigate to the Refine Search Criteria page from the initial search criteria page, only if the
-criteria you entered has supported configurations. The Refine Search Criteria page is divided into
-two panes:
-• Search Criteria: Displays the solutions, components, and filters added to the search criteria.
-You can modify the initial search criteria to view the required configuration results. You can
-check Change Criteria to go back to the Search Criteria page and modify the initial search
-criteria.
-You can check the Dynamic Filtering tab to view the compatibility between components
-immediately. You can uncheck the Dynamic Filtering tab to add multiple components together
-and, click Update count. You can check Try a different method tab to navigate to the home
-page.
-• Refine Search Criteria: Displays the list of components under different categories. The
-categories listed in this pane are dependent on the search criteria and the compatible
-configurations.
-◦ If you have included a solution in the initial search criteria, you can select components
-from that specific category on the Refine Search Criteria page as well as components from
-other categories.
-◦ If you have included specific components in the initial search criteria, you cannot deselect
-the components included in the initial search criteria on the Refine Search Criteria page, but
-you can select additional components from other categories.
-In each category, you can use the filter icon to display the search text box and search for a
-specific component. If you want reset or clear the component selections in the Search Criteria
-pane, click Clear All.
-Depending on the components you select from the different categories, you will notice the number
-of configuration results might vary. The more components you select, the more the Interoperability
-Matrix Tool narrows down the search results and allows you to view the desired configuration for
-your product.
+The Interoperability Matrix Tool allows you to explore the compatible configurations for your product from the *Refine Search Criteria* page. You can narrow down the configuration results from this page to the desired configurations for your product.
+
+You can navigate to the *Refine Search Criteria* page from the initial search criteria page, only if the criteria you entered has supported configurations. The *Refine Search Criteria* page is divided into two panes:
+
+* *Search Criteria*: Displays the solutions, components, and filters added to the search criteria. You can modify the initial search criteria to view the required configuration results. You can check *Change Criteria* to go back to the *Search Criteria* page and modify the initial search criteria.
+You can check the *Dynamic Filtering* tab to view the compatibility between components immediately. You can uncheck the *Dynamic Filtering* tab to add multiple components together and, click *Update* count. You can check *Try a different method* tab to navigate to the home page.
+* *Refine Search Criteria*: Displays the list of components under different categories. The categories listed in this pane are dependent on the search criteria and the compatible configurations.
+
+** If you have included a solution in the initial search criteria, you can select components from that specific category on the Refine *Search Criteria* page as well as components from other categories.
+
+** If you have included specific components in the initial search criteria, you cannot deselect the components included in the initial search criteria on the *Refine Search Criteria* page, but you can select additional components from other categories.
+
+In each category, you can use the filter icon to display the search text box and search for a specific component. If you want reset or clear the component selections in the *Search Criteria* pane, click *Clear All*.
+
+
+Depending on the components you select from the different categories, you will notice the number of configuration results might vary. The more components you select, the more the Interoperability Matrix Tool narrows down the search results and allows you to view the desired configuration for your product.
