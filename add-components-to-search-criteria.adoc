@@ -1,0 +1,42 @@
+---
+sidebar: sidebar
+permalink: add-components-to-search-criteria.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+
+= Adding components to search criteria
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+
+[.lead]
+You can add components to your search criteria using the search text box or the Advanced Search.
+
+== About this task
+If you know which components you want to add to the search criteria, you can enter the component names in the search text box. You can use the *Advanced Search* if you are not sure which components you want to add to the search criteria.
+
+If you want to clear the components included in the search criteria, you can click *Clear All* in the top-right corner.
+
+== Steps
+. In the Interoperability Matrix Tool home page, enter the component name in the search textbox to view the possible matches for the component.
+.. Click *Add* to include the component to the search criteria.
+.. Click *Add* As to include the components of multiple categories to the search criteria.
+.. If you click *Show All Matches*, IMT displays the *Advanced Search* using which you can include more components to the search criteria.
+. Optional. You can include a component to the search criteria using the *Advanced Search*.
+.. Click *Advanced Search*.
+.. In the *Advanced Search* window, select a category or solution from the left pane.
+.. In the right pane, identify the component to be added to the search criteria and click *Add*.
+.. Enter keywords in the *Advanced Search* window.
+
+You can activate keywords as a search option. If activated, then you can search one or more rows using keywords that are associated with those rows. You can also use the search text box within the *Advanced Search* window to search for a specific component. To remove a component added using the *Advanced Search*, you can click *Remove* in the right pane.
+
+== Result
+As you include components to the search criteria, the components are displayed in the right pane
+under *Search Criteria*.

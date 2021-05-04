@@ -1,0 +1,27 @@
+---
+sidebar: sidebar
+permalink: add-config-names-to-search-criteria.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+
+= Adding configuration names to search criteria
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+
+[.lead]
+You can add configuration names to your search criteria using the search text box.
+
+== Before you begin
+You must have the configuration name details, in order to search for compatible configurations. For example, 20150316-114603946 is a configuration name.
+
+== Steps
+. In the search box, enter configuration name to view the possible matches.
+. Click *Add* to include the configuration name to the search criteria.

@@ -1,0 +1,20 @@
+---
+sidebar: sidebar
+permalink: reporting-an-issue.html
+keywords: cable,..
+summary:  Determine ..
+---
+
+
+
+= Reporting an issue
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+
+[.lead]
+If you encounter an issue, then you can report the problem to the support and feedback team using the *Report a problem* feature.
