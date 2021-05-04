@@ -1,12 +1,9 @@
 ---
-permalink: index.html
 sidebar: sidebar
+permalink: index.html
 keywords: cable,..
 summary:  Determine ..
 ---
-
-
-
 = Interoperability Matrix Tool overview
 :icons: font
 :imagesdir: ./media/
