@@ -1,6 +1,6 @@
 ---
-sidebar: _sidebar
-permalink: interoperability-matrix-tool-overview.html
+sidebar: sidebar
+permalink: defining-and-entering-the-search-criteria.html
 keywords: cable,..
 summary:  Determine ..
 ---

@@ -1,6 +1,6 @@
 ---
-sidebar: _sidebar
-permalink: interoperability-matrix-tool-overview.html
+sidebar: sidebar
+permalink: saving-the-search-criteria.html
 keywords: cable,..
 summary:  Determine ..
 ---
@@ -27,8 +27,8 @@ You must have already added solutions and components on the first page to save t
 . Enter the *Criteria Name* and add information in the *Description* fields.
 The *Criteria Name* can be alphanumeric and you can add up to 20 characters. The
 *Description* field can take up to 100 alphanumeric characters. The Interoperability Matrix Tool does not allow duplicate names for saving criteria. *Criteria Name* is mandatory.
-3. Click *Update Criteria* to add filters or criteria to be included as part of the saved criteria.
-4. Click *Save*.
+. Click *Update Criteria* to add filters or criteria to be included as part of the saved criteria.
+. Click *Save*.
 The *Save Criteria* link changes to *Update Criteria* after you save the criteria. You can save a maximum of 10 search criteria.
 
 == Result

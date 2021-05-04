@@ -1,6 +1,6 @@
 ---
-sidebar: _sidebar
-permalink: /work-with-saved-criteria-recent-search-and-config.html
+sidebar: sidebar
+permalink: working-with-saved-criteria-recent-searches-and-config.html
 keywords: cable,..
 summary:  Determine ..
 ---

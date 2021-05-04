@@ -1,5 +1,5 @@
 ---
-sidebar: _sidebar
+sidebar: sidebar
 permalink: add-solutions-to-search-criteria.html
 keywords: cable,..
 summary:  Determine ..
@@ -18,15 +18,20 @@ summary:  Determine ..
 
 [.lead]
 You can add solutions to your search criteria using the search text box or the Solution Search.
-About this task
-If you are aware of the specific solutions to be added to the search criteria, you can enter the
-solution names in the search text box. You can use the Solution Search if you are not sure of the
+
+== About this task
+
+If you are aware of the specific solutions to be added to the search criteria, you can enter the solution names in the search text box.
+
+You can use the Solution Search if you are not sure of the
 solution to be added to the search criteria.
-If you want to clear the solutions included in the search criteria, you can click Clear All in the topright corner.
-Steps
-1. In the Interoperability Matrix Tool home page, enter the solution name in the search text box to
+If you want to clear the solutions included in the search criteria, you can click Clear All in the top-right corner.
+
+== Steps
+
+. In the Interoperability Matrix Tool home page, enter the solution name in the search text box to
 view the possible matches.
-a. Click Add to include the solution to the search criteria.
+.. Click Add to include the solution to the search criteria.
 2. Optional. You can include a solution to the search criteria using the Solution Search.
 a. Click Solution Search.
 b. In the Solution Search field, identify the solution to be added to the search criteria and
