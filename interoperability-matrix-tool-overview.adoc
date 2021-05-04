@@ -1,6 +1,6 @@
 ---
-sidebar: _sidebar
 permalink: interoperability-matrix-tool-overview.html
+sidebar: sidebar
 keywords: cable,..
 summary:  Determine ..
 ---
@@ -8,10 +8,7 @@ summary:  Determine ..
 
 
 = Interoperability Matrix Tool overview
-:hardbreaks:
-:nofooter:
 :icons: font
-:linkattrs:
 :imagesdir: ./media/
 
 
@@ -46,7 +43,7 @@ You can view the results in the *Result* page. Using this tool, you can search f
 
 You can accomplish the following tasks:
 
-[cols=2*,options="header",cols="35,65"]
+[cols=2*,options="header", cols="35,65"]
 |===
 |Using this page...
 |You can perform these tasks...
