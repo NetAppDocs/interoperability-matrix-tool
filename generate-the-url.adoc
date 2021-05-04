@@ -17,13 +17,13 @@ summary:  Determine ..
 
 
 [.lead]
-In the Refine Search Criteria page, you can generate a URL for compatibility. You can embed the generated URL in other tools, upload it in the NetApp Support Site, or share it through an email. The generated URL can be directly uploaded into the browser.
+In the *Refine Search Criteria* page, you can generate a URL for compatibility. You can embed the generated URL in other tools, upload it in the NetApp Support Site, or share it through an email. The generated URL can be directly uploaded into the browser.
 
 == Steps
 
-. In the Refine Search Criteria page, select the components to filter down the results.
-. Click Generate URL.
+. In the *Refine Search Criteria* page, select the components to filter down the results.
+. Click *Generate URL*.
 . Copy the URL from the URL Share window.
-. Click Ok.
+. Click *Ok*.
 NOTE: You can use the URL that you have generated. The URL will show the components
 and the solutions that you have added to the search criteria.

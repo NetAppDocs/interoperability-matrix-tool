@@ -102,11 +102,11 @@ entries:
       - title: The Refine Search Criteria page for verifying compatibility
         url: /refine-serach-page-to-verify-compatibility.html
       - title: Applying filters to categories
-        url: /
+        url: /apply-filters-to-categories.html
       - title: Modifying the search criteria
-        url: /
+        url: /modify-the-search-criteria.html
       - title: Generating the URL
-        url: /
+        url: /generate-the-url.html
   - title: Understanding and using Interoperability Matrix Tool results
     url: /understanding-and-using-imt-results.html
     entries:
