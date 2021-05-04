@@ -1,6 +1,6 @@
 ---
-sidebar: _sidebar
-permalink: interoperability-matrix-tool-overview.html
+sidebar: sidebar
+permalink: using-cannot-find-config.html
 keywords: cable,..
 summary:  Determine ..
 ---

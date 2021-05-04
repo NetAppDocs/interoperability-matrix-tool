@@ -1,6 +1,6 @@
 ---
-sidebar: _sidebar
-permalink: interoperability-matrix-tool-overview.html
+sidebar: sidebar
+permalink: exploring-the-interoperability-matrix-tool.html
 keywords: cable,..
 summary:  Determine ..
 ---
@@ -18,7 +18,7 @@ summary:  Determine ..
 The Interoperability Matrix Tool (IMT) is a web-based application you use to search for compatibility and supported configurations for your NetApp products.
 
 You can perform the following tasks:
-[cols=2*,options="header",cols="25,75"]
+[cols=2*,options="header", cols="25,75"]
 |===
 |Using this...
 |You can perform these tasks...
