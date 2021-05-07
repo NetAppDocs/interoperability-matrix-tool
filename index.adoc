@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar
 permalink: index.html
-keywords: cable,..
-summary:  Determine ..
+keywords: interoperability matrix tool, ONTAP SAN Host Solutions,
+summary:  'The NetApp Interoperability Matrix Tool (IMT) is a web-based application. IMT enables you to search for configurations of NetApp products and components that meet the standards and requirements specified by NetApp.'
 ---
 = Interoperability Matrix Tool overview
 :icons: font
@@ -30,17 +30,17 @@ NOTE: N stands for the latest version.
 +
 NOTE: The Interoperability Matrix Tool accepts URL links with criteria to simplify certain use cases. When you click a link from another tool to open the IMT, you might land on a playground page, rather than the home page, with a solution and certain components pre-selected.
 
-== Getting started with Interoperability Matrix Tool
+== Get started with Interoperability Matrix Tool
 
 Interoperability Matrix Tool (IMT) is a web-based application that you use to search compatibility for your products using different solutions, configurations, components, and categories.
 
-For easy navigation and clarity, this tool is divided into three pages: *Enter Criteria*, *Refine Search Criteria*, and *Results*. You must enter the search criteria on the first page. Based on your search criteria, you can view the compatibility for your product in the *Refine Search Criteria* page. This topic will give a quick run through of how to use IMT.
+For easy navigation and clarity, this tool is divided into three pages: *Enter Criteria*, *Refine Search Criteria*, and *Results*. You must enter the search criteria on the first page. Based on your search criteria, you can view the compatibility of your product in the *Refine Search Criteria* page. This topic will give a quick run through of how to use IMT.
 
-You can view the results in the *Result* page. Using this tool, you can search for components, make selections, build criteria, and view the compatibilities for your product.
+You can view the results in the *Result* page. Using this tool, you can search for components, make selections, build criteria, and view the compatibilities of your product.
 
 You can accomplish the following tasks:
 
-[cols=2*,options="header", cols="35,65"]
+[cols=2*,options="header", cols="25,65"]
 |===
 |Using this page...
 |You can perform these tasks...
@@ -49,15 +49,21 @@ You can accomplish the following tasks:
 |Refine Search Criteria
 |Find more definitive yes or no answer to compatible solution, component, configuration, and category for your product.
 You have an option to change the initial criteria that you entered on the first page using *Change Criteria* or *Try a different method*.
+
 Apply filters to the components in each category to find the best suitable configuration for
 your product.
-Remove the filters that you applied using *Clear All* or the undo icon.
+
+Remove the filters that you applied using *Clear All* or the *undo* icon.
 |Results
-|After clicking *Continue*, the > icon, or the splitter on the second page, view the *Results* page. You can view the components, notes, and history details of a configuration, sorting the search results, viewing the search criteria that you have selected, modifying the search criteria, filtering the search results, and exporting search results to a Microsoft Excel sheet.
+|After clicking *Continue*, the *>* icon, or the splitter on the second page, view the *Results* page.
+
+You can view the components, notes, and history details of a configuration, sort the search results, view the search criteria that you have selected, modify the search criteria, filter the search results, and export search results to a Microsoft Excel sheet.
 |===
 
-== Using the Interoperability Matrix Tool home page
-The Interoperability Matrix Tool (IMT) home page enables you to use *ONTAP SAN Host Solutions*, *Solution Search, List and Find*, and Advanced Search. You can set any of these options as your default search using the *Set as default* star. When you click any one of the
+== Use the Interoperability Matrix Tool home page
+The Interoperability Matrix Tool (IMT) home page enables you to use *ONTAP SAN Host Solutions*, *Solution Search, List and Find*, and *Advanced Search*.
+
+You can set any of these options as your default search using the *Set as default* star. When you click any one of the
 options, the relevant page opens to explore the compatible configurations.
 
-NOTE: To find previously saved searches, you can use the *Saved Search* menu. If you cannot find the configuration you need, click the *Can't Find Config?* menu and report the problem.
+NOTE: To find previously saved searches, you can use the *Saved Search* menu. If you cannot find the configuration you need, click the xref:using-cannot-find-config.adoc[Can't Find Config?] menu and report the problem.
