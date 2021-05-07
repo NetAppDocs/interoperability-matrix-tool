@@ -1,26 +1,21 @@
 ---
 sidebar: sidebar
 permalink: working-with-advanced-search.html
-keywords: cable,..
-summary:  Determine ..
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, storage, area, network, advanced, search
+summary:  'You can search for different components using *Advanced Search* and add or remove components from your search criteria.'
 ---
 
 
-= Working with Advanced Search
-:hardbreaks:
-:nofooter:
+= Work with Advanced Search
 :icons: font
-:linkattrs:
 :imagesdir: ./media/
 
-
-
 [.lead]
-You can search for different components using *Advanced Search* and add or remove components from your search criteria. You can use the search text box within the *Advanced Search* window to search for components. You can use the following filters as needed:
+You can search for different components using the *Advanced Search* to add or remove components from your search criteria. You can use the search text box within the *Advanced Search* window to search for components.
 
-* Select *Do not show Limited Support components* to prevent seeing components with limited
-support in the results.
-* Select *Do not show EOVS components* to prevent seeing components with end-of-version
-support in the results.
+You can use the following filters as needed:
+
+* Select *Do not show Limited Support components* to prevent seeing components with limited support in the results.
+* Select *Do not show EOVS components* to prevent seeing components with end-of-version support in the results.
 
 From this page, you can also view the *Component Explorer, Load saved criteria or configurations*, or use the *Search Assistant*.

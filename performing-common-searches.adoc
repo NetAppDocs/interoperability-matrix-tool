@@ -1,28 +1,22 @@
 ---
 sidebar: sidebar
 permalink: performing-common-searches.html
-keywords: cable,..
-summary:  Determine ..
+keywords: interoperability matrix tool, ONTAP SAN Host Solutions, Active IQ Advisor
+summary:  'Use the cards on the home page of the Interoperability Matrix Tool (IMT) to perform common searches, including the ONTAP SAN Host Solutions, Solution Search, List and Find, and Advanced Search.'
 ---
 
-
-= Performing common searches
-:hardbreaks:
-:nofooter:
+= Perform common searches
 :icons: font
-:linkattrs:
 :imagesdir: ./media/
 
-
-
 [.lead]
-Use the cards on the home page of the Interoperability Matrix Tool (IMT) to perform common searches, including the ONTAP SAN Host Solutions, Solution Search, List and Find, and Advanced Search.
+Use the cards on the home page of the Interoperability Matrix Tool (IMT) to perform common searches, including the *ONTAP SAN Host Solutions*, *Solution Search*, *List and Find*, and *Advanced Search*.
 
 When you open the IMT, you see the most common search types on the home page:
 
-* ONTAP SAN Host Solutions
-* Solution Search
-* List and Find
-* Advanced Search
+* *ONTAP SAN Host Solutions*
+* *Solution Search*
+* *List and Find*
+* *Advanced Search*
 
-You can also watch training videos or open the Active IQ Advisor from the home page.
+You can also watch training videos or open the https://www.netapp.com/services/support/active-iq/#:~:text=NetApp%C2%AE%20Active%20IQ%C2%AE,availability%2C%20security%2C%20and%20performance[Active IQ Advisor] from the home page.

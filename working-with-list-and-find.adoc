@@ -1,32 +1,25 @@
 ---
 sidebar: sidebar
 permalink: working-with-list-and-find.html
-keywords: cable,..
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, storage, area, network, list, find
 summary:  Determine ..
 ---
 
-
-= Working with list and find
-:hardbreaks:
-:nofooter:
+= Work with List and Find
 :icons: font
-:linkattrs:
 :imagesdir: ./media/
-
-
 
 [.lead]
 In the *List and Find* component work area you can view the best possible configurations for your components.
 
 == About this task
-Use the *Component Explorer* panel on the left to view configurations for selected components. The panel on the right displays the solutions; each tab represents a storage solution and the number of configurations that use the selected components. If the green *Logic* toggle button on the *List and Find Component Workarea* is set to OR, you can search for solutions that have configurations containing single components. If the green *Logic* toggle button is set to AND, you can search for solutions that have configurations containing all the selected components. If multiple components are selected within the same component type, the button is set to OR.
+Use the *Component Explorer* panel on the left to view configurations for selected components. The panel on the right displays the solutions; each tab represents a storage solution and the number of configurations that use the selected components. If the green *Logic* toggle button on the *List and Find Component Workarea* is set to OR, you can search for solutions that have configurations containing single components. If the green *Logic* toggle button is set to *AND*, you can search for solutions that have configurations containing all the selected components. If multiple components are selected within the same component type, the button is set to *OR*.
 
 == Steps
-1. Click *List and Find* on the home page.
-2. Search for a component name in the *Component Explorer* or expand the selection to add components to the *List and Find Component Workarea*.
+. Click *List and Find* on the home page.
+. Search for a component name in the *Component Explorer* or expand the selection to add components to the *List and Find Component Workarea*.
 
 NOTE: You can select specific enabled solutions after adding a component to the *List and Find Component Workarea* before clicking *Next*. You can also export a maximum of 3000 rows for one solution at a time in an Excel spreadsheet or PDF.
 
-3. Click *Next* to view where the components are used in configurations across multiple solutions on the *Results* page.
-+
+. Click *Next* to view where the components are used in configurations across multiple solutions on the *Results* page.
 The most compatible configuration for your list of components is displayed.
