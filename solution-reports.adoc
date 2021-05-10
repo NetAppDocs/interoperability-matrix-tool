@@ -1,18 +1,12 @@
 ---
 sidebar: sidebar
 permalink: solution-reports.html
-keywords: cable,..
-summary:  Determine ..
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, component, EOVS, Summary
+summary:  'You can view and download Excel or PDF versions of solution reports.'
 ---
-
-
 = Solution reports
-:hardbreaks:
-:nofooter:
 :icons: font
-:linkattrs:
 :imagesdir: ./media/
-
 
 [.lead]
 You can view and download Excel or PDF versions of solution reports using the *Reports >  Complete Daily Exports* feature. You can also download the Excel version of the *Component EOVS Summary*, which lists components that have reached end of version support.

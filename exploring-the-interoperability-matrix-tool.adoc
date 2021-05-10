@@ -1,16 +1,12 @@
 ---
 sidebar: sidebar
 permalink: exploring-the-interoperability-matrix-tool.html
-keywords: cable,..
-summary:  Determine ..
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, storage, area, network,
+summary:  'The Interoperability Matrix Tool (IMT) is a web-based application you use to search for compatibility and supported configurations for your NetApp products.'
 ---
 
-
-= Exploring the Interoperability Matrix Tool
-:hardbreaks:
-:nofooter:
+= Explore the Interoperability Matrix Tool
 :icons: font
-:linkattrs:
 :imagesdir: ./media/
 
 
@@ -45,12 +41,17 @@ of version support components using the *Component EOVS Summary* report.
 |Create a list of favorite *List and Find* categories. These categories appear at the top of the *Component Explorer* in *List and Find*.
 |Help
 |Click *What's New* to view the latest release notes for the IMT.
+
 Click *Online Help* to view this Interoperability Matrix Tool help set.
+
 Click *Training* to view videos exploring how to use the Interoperability Matrix Tool, check the https://login.netapp.com/ssologinext/login.jsp?resource_url=https%3A%2F%2Flearningcenter.netapp.com%2Fdmsv2%2FSSORedirectionService%3Fsource%3Dbrainshark%26onReturnUrl%3Dhttps%25253a%25252f%25252fwww.brainshark.com%25252fbr[NetApp Learning Center^].
-To report a problem or provide feedback for the Interoperability Matrix Tool, click the *Report a Problem* link.
-Click *FAQ* to view the frequently asked questions and answers about IMT.
+
+To report a problem or provide feedback for the Interoperability Matrix Tool, click the *Report a Problem* link. Click *FAQ* to view the frequently asked questions and answers about IMT.
+
 Click *Data Initiative*, if available, to see the planned clean up of the IMT database.
+
 Click *About IMT* to view the version and copyright statement.
+
 Click *Known Issues* to see reported and unresolved errors in the product.
 |Take a tour |View a guided tour around the IMT.
 |<Your name> |Click to *logout* of the IMT.
