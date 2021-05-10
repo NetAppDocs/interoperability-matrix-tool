@@ -1,20 +1,12 @@
 ---
 sidebar: sidebar
 permalink: reporting-an-issue.html
-keywords: cable,..
-summary:  Determine ..
+keywords: lash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions
+summary:  'If you encounter an issue, then you can report the problem to the support and feedback team.'
 ---
-
-
-
-= Reporting an issue
-:hardbreaks:
-:nofooter:
+= Report an issue
 :icons: font
-:linkattrs:
 :imagesdir: ./media/
-
-
 
 [.lead]
 If you encounter an issue, then you can report the problem to the support and feedback team using the *Report a problem* feature.

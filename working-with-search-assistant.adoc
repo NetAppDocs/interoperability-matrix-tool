@@ -1,20 +1,12 @@
 ---
 sidebar: sidebar
 permalink: working-with-search-assistant.html
-keywords: cable,..
-summary:  Determine ..
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, search, assistant
+summary:  'You can use the search assistant which provides you the suggestions to explore the compatible configurations depending on the search criteria.'
 ---
-
-
-
-= Working with search assistant
-:hardbreaks:
-:nofooter:
+= Work with search assistant
 :icons: font
-:linkattrs:
 :imagesdir: ./media/
-
-
 
 [.lead]
 *Search Assistant* provides suggestions to explore the compatible configurations depending on the search criteria that you enter. The *Search Assistant* section displays the commonly used categories from which you can select components to include in the search criteria. Depending on the component you select, the search assistant displays the compatible components and solutions.

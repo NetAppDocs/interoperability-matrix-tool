@@ -1,23 +1,17 @@
 ---
 sidebar: sidebar
 permalink: finding-compatible-host-os.html
-keywords: cable,..
-summary:  Determine ..
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, workflow, host, os
+summary:  'You can use Interoperability Matrix Tool to view the supported host operating systems that are compatible with your product.'
 ---
-
-
-
-= Finding compatible host operating system for your products
+= Find compatible host operating system for your products
 :hardbreaks:
 :nofooter:
 :icons: font
 :linkattrs:
 :imagesdir: ./media/
 
-
-
 [.lead]
-
 You can use Interoperability Matrix Tool to view the supported host operating systems that are compatible with your product.
 
 The following shows the workflow:

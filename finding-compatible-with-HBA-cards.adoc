@@ -1,28 +1,20 @@
 ---
 sidebar: sidebar
 permalink: finding-compatible-with-hba-cards.html
-keywords: cable,..
-summary:  Determine ..
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, workflow, compatible, hba, cards
+summary:  'You can use Interoperability Matrix Tool to view the supported host operating system for a configuration like Cisco UCS P81E card on FCoE.'
 ---
-
-
-
-= Finding compatibility with HBA cards
-:hardbreaks:
-:nofooter:
+= Find compatibility with HBA cards
 :icons: font
-:linkattrs:
 :imagesdir: ./media/
-
-
 
 [.lead]
 You can use Interoperability Matrix Tool to view the supported host operating system for a configuration like Cisco UCS P81E card on FCoE.
 
 HBA works in two modes:
 
-* Search HBA component by name: Enter the name of the component in the search box. The search box result drop-down list displays all matching components.
-* Search HBA component by property values: You can search for an HBA component by entering the property values of the component, such as Vendors, Specs, and so on. The keyword that you use is highlighted in the search results.
+* *Search HBA component by name*: Enter the name of the component in the search box. The search box result drop-down list displays all matching components.
+* *Search HBA component by property values*: You can search for an HBA component by entering the property values of the component, such as Vendors, Specs, and so on. The keyword that you use is highlighted in the search results.
 
 When you specify the properties, you can confirm the compatibility with your card. For example, multiple Emulex Light Pulse LP 11000 HBA components have the same bus value, but different firmware values are displayed.
 

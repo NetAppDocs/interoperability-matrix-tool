@@ -1,20 +1,12 @@
 ---
 sidebar: sidebar
 permalink: working-with-search-text-box.html
-keywords: cable,..
-summary:  Determine ..
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions
+summary:  'You can search for components, solutions, categories and configurations using the search text box. Depending on the text you enter, the search text box displays possible matches which you can include in the search criteria.'
 ---
-
-
-
-=  Working with search text box
-:hardbreaks:
-:nofooter:
+=  Work with search text box
 :icons: font
-:linkattrs:
 :imagesdir: ./media/
-
-
 
 [.lead]
 You can search for components, solutions, categories and configurations using the search text box. Depending on the text you enter, the search text box displays possible matches which you can include in the search criteria.
