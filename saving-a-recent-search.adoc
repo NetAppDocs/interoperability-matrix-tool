@@ -1,25 +1,16 @@
 ---
 sidebar: sidebar
 permalink: saving-a-recent-search.html
-keywords: cable,..
-summary:  Determine ..
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, Active IQ, Interop, Advisor, tool
+summary:  'From the Welcome to the IMT page, you can save your recent searches to preserve the criteria for later searches.'
 ---
 
-
-
-= Saving a recent search
-
-:hardbreaks:
-:nofooter:
+= Save a recent search
 :icons: font
-:linkattrs:
 :imagesdir: ./media/
 
-
-
 [.lead]
-From the Welcome to the IMT page, you can save your recent searches to preserve the criteria for
-later searches.
+From the Welcome to the IMT page, you can save your recent searches to preserve the criteria for later searches.
 
 == Steps
 . Click *Solution Search* or *Advanced Search*.

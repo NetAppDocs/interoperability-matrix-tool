@@ -1,20 +1,13 @@
 ---
 sidebar: sidebar
 permalink: saving-configuration.html
-keywords: cable,..
-summary:  Determine ..
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, Active IQ, Interop, Advisor, tool
+summary:  'You can save configurations with any name of your choice for a particular solution.'
 ---
 
-
-
-= Saving configuration
-:hardbreaks:
-:nofooter:
+= Save configuration
 :icons: font
-:linkattrs:
 :imagesdir: ./media/
-
-
 
 [.lead]
 You can save configurations with any name of your choice for a particular solution. This helps you to retrieve the configurations later without remembering the complicated configuration ID.
@@ -30,8 +23,6 @@ your choice.
 . In the *Results* page, click star to save the configuration.
 After you save the configuration, the star turns yellow. You can save a maximum of 20
 configurations.
-. In the *Tag Configuration* dialog box, enter the name and description to bookmark the
-configuration for reference.
-The saved configuration name is displayed on the configuration details link. You can add
-multiple configurations to a particular tag. A tag is unique to a single solution. Different users can use the same tag name.
+. In the *Tag Configuration* dialog box, enter the name and description to bookmark the configuration for reference.
+The saved configuration name is displayed on the configuration details link. You can add multiple configurations to a particular tag. A tag is unique to a single solution. Different users can use the same tag name.
 . Select the tag name from the drop-down arrow to add configurations to an already saved tab.

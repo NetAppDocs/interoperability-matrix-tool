@@ -1,20 +1,12 @@
 ---
 sidebar: sidebar
 permalink: saving-the-search-criteria.html
-keywords: cable,..
-summary:  Determine ..
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, Active IQ, Interop, Advisor, tool
+summary:  'On the Refine Search Criteria page, you can choose to save or update the search criteria to retrieve it later.'
 ---
-
-
-
-= Saving the search criteria
-:hardbreaks:
-:nofooter:
+= Save the search criteria
 :icons: font
-:linkattrs:
 :imagesdir: ./media/
-
-
 
 [.lead]
 On the *Refine Search Criteria* page, you can choose to save or update the search criteria to retrieve it later.
@@ -22,7 +14,8 @@ On the *Refine Search Criteria* page, you can choose to save or update the searc
 == Before you begin
 You must have already added solutions and components on the first page to save the criteria for future reference.
 
-== Steps
+== Step
+
 . Click *Save Criteria* on the *Refine Search Criteria* page.
 . Enter the *Criteria Name* and add information in the *Description* fields.
 The *Criteria Name* can be alphanumeric and you can add up to 20 characters. The

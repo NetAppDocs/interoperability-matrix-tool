@@ -1,24 +1,16 @@
 ---
 sidebar: sidebar
 permalink: viewing-recent-search-criteria.html
-keywords: cable,..
-summary:  Determine ..
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, Active IQ, Interop, Advisor, tool
+summary:  'On the Welcome to the IMT page, you can load Saved Search criteria to display your recent searches.'
 ---
 
-
-
-= Viewing recent search criteria
-
-:hardbreaks:
-:nofooter:
+= View recent search criteria
 :icons: font
-:linkattrs:
 :imagesdir: ./media/
 
-
-
 [.lead]
-On the Welcome to the IMT page, you can load Saved Search criteria to display your recent searches.
+On the *Welcome to the IMT* page, you can load Saved Search criteria to display your recent searches.
 
 == Before you begin
 
@@ -27,7 +19,7 @@ You must have saved your recent searches.
 == About this task
 
 == Steps
-. Click *Saved Search*
+. Click *Saved Search*.
 . Select the *Recent Search* tab to view the recently saved searches.
 Your recent searches are displayed.
 . Select the *Search criteria* tab to view your specific saved search criteria.

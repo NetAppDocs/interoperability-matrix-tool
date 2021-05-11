@@ -1,27 +1,19 @@
 ---
 sidebar: sidebar
 permalink: loading-the-saved-config.html
-keywords: cable,..
-summary:  Determine ..
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, Active IQ, Interop, Advisor, tool
+summary:  'You can load the previously saved configurations from the home page. You can view the tag name, description, solution name of the saved configuration.'
 ---
 
-
-
-= Loading the saved configuration
-:hardbreaks:
-:nofooter:
+= Load the saved configuration
 :icons: font
-:linkattrs:
 :imagesdir: ./media/
-
-
 
 [.lead]
 You can load the previously saved configurations from the home page. You can view the tag name, description, solution name of the saved configuration.
 
 == Before you begin
-You can load the specific configuration by looking for the name that you have specified for that
-particular configuration.
+You can load the specific configuration by looking for the name that you have specified for that particular configuration.
 
 == About this task
 If you have already saved the configuration, you can load them later at any time.

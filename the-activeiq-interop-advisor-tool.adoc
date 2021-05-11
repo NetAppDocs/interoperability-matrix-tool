@@ -5,7 +5,7 @@ keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN
 summary:  'The Active IQ Interop Advisor tool allows you to generate a compatibility report when you search using specific criteria.'
 ---
 
-= The Active IQ Interop Advisor tool for determining compatibility
+= The Active IQ Interop Advisor tool to determine compatibility
 :icons: font
 :imagesdir: ./media/
 
