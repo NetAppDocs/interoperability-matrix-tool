@@ -1,23 +1,15 @@
 ---
 sidebar: sidebar
 permalink: add-components-to-search-criteria.html
-keywords: cable,..
-summary:  Determine ..
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, Active IQ, Interop, Advisor, tool
+summary:  'You can add components to your search criteria using the search text box or the Advanced Search.'
 ---
-
-
-
-= Adding components to search criteria
-:hardbreaks:
-:nofooter:
+= Add components to search criteria
 :icons: font
-:linkattrs:
 :imagesdir: ./media/
 
-
-
 [.lead]
-You can add components to your search criteria using the search text box or the Advanced Search.
+You can add components to your search criteria using the search text box or the *Advanced Search*.
 
 == About this task
 If you know which components you want to add to the search criteria, you can enter the component names in the search text box. You can use the *Advanced Search* if you are not sure which components you want to add to the search criteria.

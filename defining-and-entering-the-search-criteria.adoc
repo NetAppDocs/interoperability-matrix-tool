@@ -1,20 +1,13 @@
 ---
 sidebar: sidebar
 permalink: defining-and-entering-the-search-criteria.html
-keywords: cable,..
-summary:  Determine ..
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, Active IQ, Interop, Advisor, tool
+summary:  'You can define your search criteria using a combination of components, solutions or categories.'
 ---
 
-
-
-= Defining and entering the search criteria
-:hardbreaks:
-:nofooter:
+= Define and enter the search criteria
 :icons: font
-:linkattrs:
 :imagesdir: ./media/
-
-
 
 [.lead]
 You can define your search criteria using a combination of components, solutions or categories. Interoperability Matrix Tool allows you to enter a search criteria by adding components, solutions, or categories. You can enter a search criteria using the search text box, solution explorer, or component explorer.
