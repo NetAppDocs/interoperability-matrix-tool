@@ -1,11 +1,11 @@
 ---
 sidebar: sidebar
 permalink: apply-filters-to-categories.html
-keywords: interoperability matrix tool,
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, Active IQ, Interop, Advisor, tool
 summary:  'In the Refine Search Criteria page, you can apply filters by selecting components from different categories. By applying filters, you can add components to the search criteria and narrow down the configuration results.'
 ---
 
-= Applying filters to categories
+= Apply filters to categories
 :icons: font
 :imagesdir: ./media/
 
