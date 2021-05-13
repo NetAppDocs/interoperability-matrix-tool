@@ -16,4 +16,4 @@ You can use Interoperability Matrix Tool to view the supported host operating sy
 
 The following shows the workflow:
 
-image::/media/pg12_imt.png[]
+image::pg12_imt.png[]

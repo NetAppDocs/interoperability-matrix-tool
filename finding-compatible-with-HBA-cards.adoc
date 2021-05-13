@@ -30,4 +30,4 @@ You must review the following considerations about the HBA search:
 
 The following shows the workflow:
 
-image::/media/pg15_imt.png[]
+image::pg15_imt.png[]
