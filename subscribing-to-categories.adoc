@@ -1,21 +1,16 @@
 ---
 sidebar: sidebar
 permalink: subscribing-to-categories.html
-keywords: cable,..
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, storage, area, network,
 summary:  Determine ..
 ---
-
-
-
-= Subscribing to Categories
+= Subscribe to Categories
 
 :hardbreaks:
 :nofooter:
 :icons: font
 :linkattrs:
 :imagesdir: ./media/
-
-
 
 [.lead]
 You can subscribe to single or multiple categories of your choice.
