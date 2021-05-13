@@ -1,20 +1,13 @@
 ---
 sidebar: sidebar
 permalink: supported-config-searches.html
-keywords: cable,..
-summary:  Determine ..
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, Active IQ, Interop, Advisor, tool
+summary: 'Interoperability Matrix Tool (IMT) makes it easy for you to view the results for supported configurations.'
 ---
 
-
-
 = Supported configuration searches
-:hardbreaks:
-:nofooter:
 :icons: font
-:linkattrs:
 :imagesdir: ./media/
-
-
 
 [.lead]
 Interoperability Matrix Tool (IMT) makes it easy for you to view the results for supported configurations. You can perform multiple tasks, such as modifying, filtering, or exporting the results and viewing or modifying the search criteria.
