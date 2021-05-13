@@ -13,4 +13,4 @@ You can use Interoperability Matrix Tool to view a specific configuration to upg
 
 The following shows the workflow:
 
-image::./media/pg16_imt.png[]
+image:/media/pg16_imt.png[workflow to view a specific confguration to upgrade or downgrade]
