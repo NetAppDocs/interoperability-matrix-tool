@@ -29,3 +29,5 @@ You must review the following considerations about the HBA search:
 * It is optional to select properties. In such a scenario, all components with the selected property is added to the search criteria.
 
 The following shows the workflow:
+
+image::/media/pg15_imt.png[]

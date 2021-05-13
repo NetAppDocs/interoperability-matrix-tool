@@ -13,3 +13,5 @@ products.'
 You can use Interoperability Matrix Tool to view the compatible Windows Server hosts for your products.
 
 The following shows the workflow:
+
+image::/media/pg13_imt.png[]

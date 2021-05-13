@@ -15,3 +15,5 @@ summary:  'You can use Interoperability Matrix Tool to build an end-to-end compa
 You can use Interoperability Matrix Tool to build an end-to-end compatibility view across products.
 
 The following shows the workflow:
+
+image::/media/pg17_imt.png[]
