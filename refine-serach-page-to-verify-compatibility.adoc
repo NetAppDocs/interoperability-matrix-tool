@@ -5,7 +5,7 @@ keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN
 summary:  'The Interoperability Matrix Tool allows you to explore the compatible configurations for your product from the *Refine Search Criteria* page.'
 ---
 
-= The Refine Search Criteria page for verifying compatibility
+= The Refine Search Criteria page to verify compatibility
 :icons: font
 :imagesdir: ./media/
 
