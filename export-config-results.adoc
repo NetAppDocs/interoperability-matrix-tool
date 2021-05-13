@@ -13,7 +13,7 @@ summary:  'You can export the configuration results from the *Results* page, usi
 You can export the configuration results from the *Results* page, using the *Export* feature. The configuration results export contains details of the storage solution, search criteria, configuration details, and any specific alerts or additional information. You can export the configuration results to an Excel spreadsheet or a PDF.
 
 == About this task
-The filename format of the Excel sheet that includes the configuration results is IMT_solutionshortname_timestamp.xls.
+The filename format of the Excel sheet that includes the configuration results is `IMT_solutionshortname_timestamp.xls`.
 
 == Steps
 . On the *Results* page, from the *Export* drop-down menu, you can choose to export the current solution or the end-to-end view of the configuration.

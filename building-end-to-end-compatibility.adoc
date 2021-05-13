@@ -16,4 +16,4 @@ You can use Interoperability Matrix Tool to build an end-to-end compatibility vi
 
 The following shows the workflow:
 
-image::/media/pg17_imt.png[]
+image::pg17_imt.png[]
