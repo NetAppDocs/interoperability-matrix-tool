@@ -16,6 +16,7 @@ In the *List and Find* component work area you can view the best possible config
 Use the *Component Explorer* panel on the left to view configurations for selected components. The panel on the right displays the solutions; each tab represents a storage solution and the number of configurations that use the selected components. If the green *Logic* toggle button on the *List and Find Component Workarea* is set to OR, you can search for solutions that have configurations containing single components. If the green *Logic* toggle button is set to *AND*, you can search for solutions that have configurations containing all the selected components. If multiple components are selected within the same component type, the button is set to *OR*.
 
 == Steps
+
 . Click *List and Find* on the home page.
 . Search for a component name in the *Component Explorer* or expand the selection to add components to the *List and Find Component Workarea*.
 +
