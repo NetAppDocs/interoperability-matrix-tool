@@ -18,8 +18,11 @@ Use the *Component Explorer* panel on the left to view configurations for select
 == Steps
 . Click *List and Find* on the home page.
 . Search for a component name in the *Component Explorer* or expand the selection to add components to the *List and Find Component Workarea*.
++
 
 NOTE: You can select specific enabled solutions after adding a component to the *List and Find Component Workarea* before clicking *Next*. You can also export a maximum of 3000 rows for one solution at a time in an Excel spreadsheet or PDF.
+
++
 
 . Click *Next* to view where the components are used in configurations across multiple solutions on the *Results* page.
 The most compatible configuration for your list of components is displayed.

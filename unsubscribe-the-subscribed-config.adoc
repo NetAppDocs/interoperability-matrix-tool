@@ -23,5 +23,4 @@ You must have subscribed to the configurations from the Result page.
 
 == Choices
 * In the *Results* page, click star to unsubscribe the subscribed configuration.
-If you remove the configuration from the favorite list, the configuration is automatically
-unsubscribed
+If you remove the configuration from the favorite list, the configuration is automatically unsubscribed.

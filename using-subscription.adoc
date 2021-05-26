@@ -20,6 +20,6 @@ You will receive emails for the following subscriptions:
 . *Component*: When the changes are made in the display name of the component or state of the component.
 +
 NOTE: You will receive an email depending on the frequency type you select. The two frequency types are as follows:
-
++
 * Immediate: You will receive an email immediately when any changes are made to the subscribed solutions, categories, or components.
 * Digest: You will receive an accumulated email every seven days reflecting all the changes that are made to the subscribed solutions, categories, or components.

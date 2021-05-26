@@ -15,6 +15,6 @@ summary:  'You can get help and find more information through various resources,
 You can get help and find more information through various resources, documentation, and forums.
 
 * https://docs.netapp.com/ontap-9/index.jsp[Documentation^] – Release Notes and Guides for this release and previous releases.
-* https://www.youtube.com/user/NetAppTechCommTV/[NetApp TechCommTV^] – NetApp videos.
-* https://www.netapp.com/[NetApp resources^] – Technical Reports and Knowledgebase Articles.
-* https://community.netapp.com/[NetApp Community^] – NetApp product and solutions forums.
+* https://www.youtube.com/playlist?list=PLdXI3bZJEw7moxyCCpO4p4G-73NN6q4RH[NetApp training on YouTube^] – NetApp videos.
+* https://www.netapp.com/[NetApp resources^] – Technical Reports and Knowledgebase Articles. Consider searching for "IMT".
+* https://community.netapp.com/[NetApp Community^] – NetApp product and solutions forums. Consider searching for "IMT".

@@ -17,5 +17,6 @@ In the *Refine Search Criteria* page, you can generate a URL for compatibility. 
 . Click *Generate URL*.
 . Copy the URL from the URL Share window.
 . Click *Ok*.
+
 NOTE: You can use the URL that you have generated. The URL will show the components
 and the solutions that you have added to the search criteria.
