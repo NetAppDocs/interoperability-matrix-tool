@@ -11,12 +11,14 @@ summary:  'You can add components to your search criteria using the search text 
 [.lead]
 You can add components to your search criteria using the search text box or the *Advanced Search*.
 
-== About this task
+.About this task
+
 If you know which components you want to add to the search criteria, you can enter the component names in the search text box. You can use the *Advanced Search* if you are not sure which components you want to add to the search criteria.
 
 If you want to clear the components included in the search criteria, you can click *Clear All* in the top-right corner.
 
-== Steps
+.Steps
+
 . In the Interoperability Matrix Tool home page, enter the component name in the search textbox to view the possible matches for the component.
 .. Click *Add* to include the component to the search criteria.
 .. Click *Add* As to include the components of multiple categories to the search criteria.
