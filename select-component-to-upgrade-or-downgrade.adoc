@@ -12,7 +12,7 @@ summary:  'You can use What If feature in the *Results* page, to upgrade or down
 [.lead]
 You can use *What If* feature in the *Results* page, to upgrade or downgrade a component in your product configuration. You can change the components and explore the compatibility.
 
-== Steps
+.Steps
 
 . Click *What If* to view the components you can upgrade or downgrade to modify the selected configuration.
 . Click a category to view the available components for upgrade or downgrade.

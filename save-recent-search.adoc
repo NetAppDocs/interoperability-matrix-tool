@@ -1,27 +1,21 @@
 ---
-sidebar: _sidebar
+sidebar: sidebar
 permalink: interoperability-matrix-tool-overview.html
-keywords: cable,..
-summary:  Determine ..
+keywords: imt, interoperability, matrix, tool,
+summary:  'You can save your recent searches to preserve the criteria for later searches.'
 ---
 
-
-
 = Saving a recent search
-:hardbreaks:
-:nofooter:
 :icons: font
-:linkattrs:
 :imagesdir: ./media/
 
-
-
 [.lead]
-From the Welcome to the IMT page, you can save your recent searches to preserve the criteria for
-later searches.
-Steps
-1. Click Solution Search or Advanced Search.
-2. Select search criteria.
-3. Select Skip to Results or click Next to refine your search criteria and then navigate to the
-View Supported Configurations (results) page.
+From the Welcome to the IMT page, you can save your recent searches to preserve the criteria for later searches.
+
+.Steps
+
+. Click Solution Search or Advanced Search.
+. Select search criteria.
+. Select Skip to Results or click Next to refine your search criteria and then navigate to the View Supported Configurations (results) page.
+
 A popup dialog informs you that your criteria is automatically saved.

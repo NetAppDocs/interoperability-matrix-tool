@@ -5,10 +5,7 @@ keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN
 summary:  'You can get help and find more information through various resources, documentation, and forums.'
 ---
 = Get more information
-:hardbreaks:
-:nofooter:
 :icons: font
-:linkattrs:
 :imagesdir: ./media/
 
 [.lead]

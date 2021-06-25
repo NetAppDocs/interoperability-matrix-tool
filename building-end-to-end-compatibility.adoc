@@ -5,10 +5,7 @@ keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN
 summary:  'You can use Interoperability Matrix Tool to build an end-to-end compatibility view across products.'
 ---
 = Build end-to-end compatibility across products
-:hardbreaks:
-:nofooter:
 :icons: font
-:linkattrs:
 :imagesdir: ./media/
 
 [.lead]

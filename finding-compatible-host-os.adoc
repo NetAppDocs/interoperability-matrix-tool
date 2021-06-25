@@ -5,10 +5,7 @@ keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN
 summary:  'You can use Interoperability Matrix Tool to view the supported host operating systems that are compatible with your product.'
 ---
 = Find compatible host operating system for your products
-:hardbreaks:
-:nofooter:
 :icons: font
-:linkattrs:
 :imagesdir: ./media/
 
 [.lead]

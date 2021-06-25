@@ -5,12 +5,8 @@ keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN
 summary:  'If you cannot find the configuration you need, you can report the problem to the support team using the CAN'T FIND CONFIG feature.'
 ---
 
-
 = Use Can't Find Config
-:hardbreaks:
-:nofooter:
 :icons: font
-:linkattrs:
 :imagesdir: ./media/
 
 
