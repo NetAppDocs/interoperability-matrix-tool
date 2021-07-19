@@ -21,4 +21,4 @@ The *What If* window is divided into two panes:
 
 If you cannot find the configuration you want, click *Feedback* to report a problem.
 
-For more information, see link:reporting-an-issue.adoc[Reporting an issue^].
+For more information, see link:reporting-an-issue.html[Report an issue].
