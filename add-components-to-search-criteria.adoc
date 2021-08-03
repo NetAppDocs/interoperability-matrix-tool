@@ -32,5 +32,4 @@ If you want to clear the components included in the search criteria, you can cli
 You can activate keywords as a search option. If activated, then you can search one or more rows using keywords that are associated with those rows. You can also use the search text box within the *Advanced Search* window to search for a specific component. To remove a component added using the *Advanced Search*, you can click *Remove* in the right pane.
 
 == Result
-As you include components to the search criteria, the components are displayed in the right pane
-under *Search Criteria*.
+As you include components to the search criteria, the components are displayed in the right pane under *Search Criteria*.

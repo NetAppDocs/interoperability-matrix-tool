@@ -19,4 +19,4 @@ When you open the IMT, you see the most common search types on the home page:
 * *List and Find*
 * *Advanced Search*
 
-You can also watch training videos or open the https://www.netapp.com/services/support/active-iq/#:~:text=NetApp%C2%AE%20Active%20IQ%C2%AE,availability%2C%20security%2C%20and%20performance[Active IQ Advisor] from the home page.
+You can also watch https://www.youtube.com/playlist?list=PLdXI3bZJEw7moxyCCpO4p4G-73NN6q4RH[training videos] or open the https://www.netapp.com/services/support/active-iq/#:~:text=NetApp%C2%AE%20Active%20IQ%C2%AE,availability%2C%20security%2C%20and%20performance[Active IQ Advisor] from the home page.

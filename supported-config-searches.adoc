@@ -14,7 +14,7 @@ Interoperability Matrix Tool (IMT) makes it easy for you to view the results for
 
 In the *Results* page, IMT displays multiple supported configurations depending on the search criteria you have entered. You can view the complete configuration details for a specific configuration by clicking the configuration name or ID (for example, 20150202-204717518).
 
-[cols=2*,options="header", cols="35,65"]
+[cols=2*,options="header", cols="~,~"]
 |===
 |Field name |Description
 |Skip to Results |Allows you to skip the *Refine Search Criteria* page and go directly to the *Results* page.
@@ -25,8 +25,7 @@ In the *Results* page, IMT displays multiple supported configurations depending 
 |Info |Provides additional information about the configuration.
 |History |Provides history of the configuration contents. The configuration contents are highlighted in green when the details are added, in blue when the details are updated, in red with the strike-off mark when the details are removed, and in black when there are no changes in the details.
 |Build End To End View With
-|Allows you to build an end-to-end view by choosing a related solution which is compatible
-with the selected configuration.
+|Allows you to build an end-to-end view by choosing a related solution which is compatible with the selected configuration.
 |What If |Allows you to upgrade or downgrade a component in a selected configuration.
 |Print |Allows you to print the configuration details.
 |Policies and Guidelines

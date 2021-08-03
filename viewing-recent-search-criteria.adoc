@@ -16,9 +16,8 @@ On the *Welcome to the IMT* page, you can load Saved Search criteria to display 
 
 You must have saved your recent searches.
 
-== About this task
-
 == Steps
+
 . Click *Saved Search*.
 . Select the *Recent Search* tab to view the recently saved searches.
 Your recent searches are displayed.

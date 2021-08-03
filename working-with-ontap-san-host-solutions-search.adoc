@@ -31,7 +31,7 @@ NOTE: Click the *Set as default* option to automatically open a *ONTAP SAN Host 
 . You can also do the following as part of the *ONTAP SAN Host Solutions*:
 .. Click the book icon to view the policy and guidelines applicable to your selection.
 .. Click the chain icon to generate a sharable URL for your selections that you can share with others.
-.. Select the undo icon to clear all of you selections and start again.
+.. Select the undo icon to clear all of your selections and start again.
 . From the results screen, you can do the following:
 .. View the details, alerts, and information notices about your configuration.
 .. Click the star icon to make this search a favorite. Name and describe the configuration. This becomes a saved search, viewable from the *Saved Search* menu. You can also subscribe to the configuration here, which will notify you when changes are made. If you subscribe, you will also see this listed under the *Subscriptions* menu.

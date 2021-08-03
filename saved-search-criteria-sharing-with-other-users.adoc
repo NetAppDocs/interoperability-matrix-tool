@@ -14,9 +14,9 @@ From the *Refine Search Criteria* page, you can share your *Saved Search* criter
 
 The following are the three different methods for saving and sharing the search criteria:
 
-* <<Share the criteria while saving>>.
-* <<Share the criteria after saving>>.
-* <<View shared criteria>>.
+* <<Share the criteria while saving>>
+* <<Share the criteria after saving>>
+* <<View shared criteria>>
 
 == Share the criteria while saving
 From the Refine Search Criteria page, you can share the search criteria while saving.
@@ -26,9 +26,14 @@ From the Refine Search Criteria page, you can share the search criteria while sa
 You must add the solutions and components on the first page to share the criteria while saving.
 
 === Steps
+
 . Select the Share checkbox to share the Saved Search criteria.
 . Enter the Username in the textbox for user search and click Add Users.
-Note: If the Username does not exist, validation message is displayed.
++
+[NOTE]
+If the Username does not exist, validation message is displayed.
+
++
 . You can look up while using the search user option and submit to share criteria.
 
 == Share the criteria after saving

@@ -19,7 +19,9 @@ You will receive an email notification when components are added or deleted from
 . In the subscription window, select the *Category* tab.
 . For the category of your choice, select the checkbox for the Components added or deleted option.
 . In the *Frequency* field, select *Immediate* or *Digest*.
-Note: The default selection is "Immediate".
++
+NOTE: The default selection is *Immediate*.
++
 . Click *Subscribe* to get subscriptions for the categories that you have subscribed.
 
-NOTE: You can click Reset to clear all of the selections in the Category tab.
+NOTE: You can click *Reset* to clear all of the selections in the Category tab.

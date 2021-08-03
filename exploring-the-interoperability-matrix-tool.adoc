@@ -44,7 +44,7 @@ of version support components using the *Component EOVS Summary* report.
 
 Click *Online Help* to view this Interoperability Matrix Tool help set.
 
-Click *Training* to view videos exploring how to use the Interoperability Matrix Tool, check the https://login.netapp.com/ssologinext/login.jsp?resource_url=https%3A%2F%2Flearningcenter.netapp.com%2Fdmsv2%2FSSORedirectionService%3Fsource%3Dbrainshark%26onReturnUrl%3Dhttps%25253a%25252f%25252fwww.brainshark.com%25252fbr[NetApp Learning Center^].
+Click *Training* to view videos exploring how to use the Interoperability Matrix Tool, check the https://www.youtube.com/playlist?list=PLdXI3bZJEw7moxyCCpO4p4G-73NN6q4RH[NetApp Learning Center^].
 
 To report a problem or provide feedback for the Interoperability Matrix Tool, click the *Report a Problem* link. Click *FAQ* to view the frequently asked questions and answers about IMT.
 
