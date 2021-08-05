@@ -1,0 +1,13 @@
+---
+sidebar: sidebar
+permalink: understanding-and-using-imt-results.html
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, Active IQ, Interop, Advisor, tool
+summary:  'Interoperability Matrix Tool allows you to view and export the results for the configurations that meet your requirements.'
+---
+
+= Understand and use Interoperability Matrix Tool results
+:icons: font
+:imagesdir: ./media/
+
+[.lead]
+Interoperability Matrix Tool allows you to view and export the results for the configurations that meet your requirements. From the *Results* page, you can build an end-to-end view by choosing a related solution which is compatible with the selected configuration. Additionally, you can use the *What If* feature to upgrade or downgrade a component within a configuration.

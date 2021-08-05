@@ -1,0 +1,25 @@
+---
+sidebar: sidebar
+permalink: using-subscription.html
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, storage, area, network,
+summary:  'The Subscription link allows you to subscribe to Storage Solution, Category, or Component. If you have subscribed to a particular storage solution, category, or component, you will receive an email only if changes are made in the subscribed solutions, categories, or components.'
+---
+
+= Use Subscription
+:icons: font
+:imagesdir: ./media/
+
+
+[.lead]
+The *Subscription* link allows you to subscribe to *Storage Solution, Category, or Component*. If you have subscribed to a particular storage solution, category, or component, you will receive an email only if changes are made in the subscribed solutions, categories, or components.
+
+You will receive emails for the following subscriptions:
+
+. *Storage Solution*: When the changes are made in the status update, categories associated or disassociated, and configurations added or deleted.
+. *Category*: When the components are added or deleted from the category.
+. *Component*: When the changes are made in the display name of the component or state of the component.
++
+NOTE: You will receive an email depending on the frequency type you select. The two frequency types are as follows:
++
+* Immediate: You will receive an email immediately when any changes are made to the subscribed solutions, categories, or components.
+* Digest: You will receive an accumulated email every seven days reflecting all the changes that are made to the subscribed solutions, categories, or components.

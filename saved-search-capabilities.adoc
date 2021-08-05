@@ -1,0 +1,19 @@
+---
+sidebar: sidebar
+permalink: saved-search-capabilities.html
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, storage, area, network, search, criteria, solution , explorer
+summary:  'You can load different solutions or configurations using the *Saved Search* menu, which enables you to navigate to previously saved search results, recent search results, and saved configurations.'
+---
+
+= Saved search capabilities
+:icons: font
+:imagesdir: ./media/
+
+
+[.lead]
+You can load different solutions or configurations using the *Saved Search* menu, which enables you to navigate to previously saved search results, recent search results, and saved configurations.
+
+The *Search Criteria* tab holds your saved searches. On this tab, you can share searches or view searches that others have shared with you.
+The *Configuration* tab holds your saved configurations. On this tab you can share configurations or view configurations that others have shared with you.
+
+The *Recent Search* tab holds the last 30 sets of search criteria, from the most recent to the oldest. It also lists the *Search Flow* that indicates the originating page, which can be *List and Find, Solution Explorer, or Advanced Search*. The criteria is saved automatically. This page also lists the *Last Modified Date* of a saved or recent search. You can *Load* a search from the list to view the criteria or configurations respectively.

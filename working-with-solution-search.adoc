@@ -1,0 +1,56 @@
+---
+sidebar: sidebar
+permalink: working-with-solution-search.html
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, storage, area, network,
+summary:  'You can search for different storage solutions, and add or remove solutions from your search criteria. You can use the search text box within the Solution Search page to search for a specific solution. Frequently accessed solutions are displayed in the Solution Search field.'
+---
+
+= Work with Solution Search
+:icons: font
+:imagesdir: ./media/
+
+[.lead]
+You can search for different storage solutions, and add or remove solutions from your search criteria. You can use the search text box within the *Solution Search* page to search for a specific solution. Frequently accessed solutions are displayed in the *Solution Search* field.
+
+== About this task
+The *Solution Search* page includes a *Solution Catalog* tab and a *Mapping Assistant* tab. In the *Mapping Assistant* tab, you can see the category of a selected solution by selecting either *Map by Category* or *Map by Solution*.
+
+=== Solution Catalog
+On the *Solution Catalog* tab, you can *Filter Solutions* using the filter bar.
+
+You can also select the *Include PVR Required, EOS, and Obsolete configurations* if you want to include such configurations.
+
+=== Mapping Assistant
+The following are the two types of work area modes:
+
+* *Map by Category*: You can select a category from the listed categories, and to enable all of the solutions containing the selected category, with valid solutions at the top of the list. You can add single or multiple enabled solutions of your choice. You can use the *Search Categories* text box to search for a specific category.
+* *Map by Solution*: You can select a solution from the listed solutions, and to enable all of the solutions containing the selected solution, with valid solutions at the top of the list. You can add single or multiple enabled solutions of your choice. You can use the *Search Solutions* text box to search for a specific category.
+
+You can also select the *Include PVR Required, EOS, and Obsolete configurations* if you want to include such configurations.
+
+When done, you can see the items you have selected under the *Selected Storage Solutions*. *Click View Refine Search Criteria* or *Skip to Results*.
+
+=== Guided Search
+*Guided Search* is enabled when you select a solution. The  *Guided Search* provides a guided workflow to refine a criteria further.
+
+== Steps
+. Click the *Solution search* from the home page.
+. Select the view you want to use:
+.. Click the *Expert view* to see advanced criteria options.
+.. Click the *Guided view* to see simplified and guided criteria options.
+. In the *Novice view*, select the search criteria options as they display:
+.. Click *Skip* to move to the next component without making a selection. You can return to the component by clicking *Unskip* as needed.
+.. After the first five selections, click *Show More* to continue refining your search criteria. You can return to the previous view by clicking *Show Less*.
+.. When done, click *View Results* to see the supported configurations for your search criteria.
+. In *Expert view*, select the search criteria you want to use for the various components. We recommend you move from left to right as each selection will refine the remaining criteria. You do not have to make a selection for each component.
+.. When done, click *View Results* to see the supported configurations for your search criteria.
+. You can also do the following as part of *Solution Search*:
+.. Click the book icon to view the policy and guidelines applicable to your selection.
+.. Click the chain icon to generate a sharable URL for your selections that you can share with
+others.
+.. Select the undo icon to clear all of you selections and start again.
+. From the results screen, you can do the following:
+.. View the details, alerts, and information notices about your configuration.
+.. Click the star icon to make this search a favorite. Name and describe the configuration. This becomes a saved search, viewable from the Saved Search menu. You can also subscribe to the configuration here, which will notify you when changes are made. If you subscribe, you will also see this listed under the *Subscriptions* menu.
+.. Hover over the *Build End to End View With* to find additional supported solutions.
+.. Click *What if* to change components and explore other compatibility options.

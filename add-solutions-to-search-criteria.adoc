@@ -1,0 +1,34 @@
+---
+sidebar: sidebar
+permalink: add-solutions-to-search-criteria.html
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, Active IQ, Interop, Advisor, tool
+summary:  'You can add solutions to your search criteria using the search text box or the Solution Search.'
+---
+= Add solutions to search criteria
+:icons: font
+:imagesdir: ./media/
+
+[.lead]
+You can add solutions to your search criteria using the search text box or the *Solution Search*.
+
+== About this task
+
+If you are aware of the specific solutions to be added to the search criteria, you can enter the solution names in the search text box.
+You can use the *Solution Search* if you are not sure of the solution to be added to the search criteria.
+
+If you want to clear the solutions included in the search criteria, you can click *Clear All* in the top-right corner.
+
+=== Steps
+
+. In the Interoperability Matrix Tool home page, enter the solution name in the search text box to view the possible matches.
+.. Click *Add* to include the solution to the search criteria.
+. Optional. You can include a solution to the search criteria using the *Solution Search*.
+.. Click *Solution Search*.
+.. In the *Solution Search* field, identify the solution to be added to the search criteria and click *Add*.
+.. If needed, you can enable the *Include PVR Required, EOS* and *Obsolete configurations* check box.
+This check box includes Product Variance Request, End of version Support, and obsolete items in the results.
+
+You can use the search text box within the *Solution Search* window to search for a specific solution. To remove a solution added using the *Solution Search*, click *Remove* in the top pane.
+
+=== Result
+As you include solutions to the search criteria, the solutions are displayed in the right pane under *Search Criteria*.

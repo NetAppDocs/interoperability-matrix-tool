@@ -1,0 +1,20 @@
+---
+sidebar: sidebar
+permalink: removing-config-from-saved-tags.html
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, Active IQ, Interop, Advisor, tool
+summary: 'You can remove or update the saved configuration that you do not require.'
+---
+= Remove configuration from saved tags
+:icons: font
+:imagesdir: ./media/
+
+[.lead]
+You can remove or update the saved configuration that you do not require.
+
+== About this task
+If you have saved configuration from results, you can remove it if you no longer require it for reference.
+
+== Steps
+. Click the yellow star icon to remove or update the saved configuration.
+. Click *Remove* to delete the saved configuration.
+After clicking the remove button in pop up, the star icon changes from yellow to white.

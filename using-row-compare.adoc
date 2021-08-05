@@ -1,0 +1,24 @@
+---
+sidebar: sidebar
+permalink: using-row-compare.html
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, Active IQ, Interop, Advisor, tool
+summary:  'Many rows contain very similar information in Interoperability Matrix Tool and it can become a tedious manual process for you to find the difference between the rows.'
+---
+
+= Use row compare
+:icons: font
+:imagesdir: ./media/
+
+[.lead]
+Many rows contain very similar information in Interoperability Matrix Tool and it can become a tedious manual process for you to find the difference between the rows. Interoperability Matrix Tool provides a feature to compare two rows.
+
+== About this task
+In the Results page, each solution hosts Add to compare button or an icon on the configuration card header.
+
+== Steps
+. To add configuration for compare, click *Configuration Component Compare* icon.
+You can select a maximum of two configurations to compare.
+. Click *Configuration Component Compare* button to compare two rows.
+
+== Result
+The differences are highlighted in *Bold* font on the layover display box. The components are grouped under respective component types. Components that are same across both the rows will be of normal font. You will not be able to compare rows across two solutions.

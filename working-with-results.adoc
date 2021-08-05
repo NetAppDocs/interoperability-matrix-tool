@@ -1,0 +1,16 @@
+---
+sidebar: sidebar
+permalink: working-with-results.html
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions
+summary:  'ou can view and export the results for the configurations that meet your product requirements.'
+---
+= Work with results
+:icons: font
+:imagesdir: ./media/
+
+[.lead]
+You can view and export the results for the configurations that meet your product requirements.
+
+From the *Results* page, you can build an end-to-end view by choosing a related solution which is compatible with the selected configuration.
+
+NOTE: If you do not see the results you expect, clear the filters.

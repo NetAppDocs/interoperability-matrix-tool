@@ -1,0 +1,25 @@
+---
+sidebar: sidebar
+permalink: working-with-preferences.html
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, list, find, component, explorer
+summary:  'You can use the preferences list and find category preferences to save your favorite categories.'
+---
+= Work with preferences
+:icons: font
+:imagesdir: ./media/
+
+[.lead]
+The *Preferences List and Find Category Preferences* menu opens the *List and Find Category Preferences* page, where you can save your favorite categories to the top of the *List and Find Component Explorer* list.
+
+== About this task
+You can use the *List and Find Category Preferences* page to select your favorite categories. These categories appear on the top of the *List and Find Component Explorer* list and are boxed in red.
+
+== Steps
+. Click *Preferences List and Find Category Preferences* on the home page.
+The *List and Find Category Preferences* page opens.
+. Select the categories you want to save as your favorites. You can scroll through the list or
+search for categories in the *Search Categories* field.
+You can select as many categories as you need.
+. Click *Save* to keep your preferences.
+If needed, you can click *Reset* to clear the existing preferences list.
+. To view your preferences, click *Home* and then click *List and Find*. Your favorite categories appear at the top of the *Component Explorer*, outlined in red.
