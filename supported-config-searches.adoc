@@ -1,0 +1,39 @@
+---
+sidebar: sidebar
+permalink: supported-config-searches.html
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, Active IQ, Interop, Advisor, tool
+summary: 'Interoperability Matrix Tool (IMT) makes it easy for you to view the results for supported configurations.'
+---
+
+= Supported configuration searches
+:icons: font
+:imagesdir: ./media/
+
+[.lead]
+Interoperability Matrix Tool (IMT) makes it easy for you to view the results for supported configurations. You can perform multiple tasks, such as modifying, filtering, or exporting the results and viewing or modifying the search criteria.
+
+In the *Results* page, IMT displays multiple supported configurations depending on the search criteria you have entered. You can view the complete configuration details for a specific configuration by clicking the configuration name or ID (for example, 20150202-204717518).
+
+[cols=2*,options="header", cols="~,~"]
+|===
+|Field name |Description
+|Skip to Results |Allows you to skip the *Refine Search Criteria* page and go directly to the *Results* page.
+|Configuration name or ID
+|The configuration name or ID is a unique identifier that is assigned to a specific configuration. You can click the configuration name to view all the configuration details. The status of the configurations are displayed along with the configuration name.
+|Details |Provides information about the compatible components and categories for a specific configuration.
+|Alerts |Provides important information about the configuration; for example, release notes, information on deployment, recommendations, and so on.
+|Info |Provides additional information about the configuration.
+|History |Provides history of the configuration contents. The configuration contents are highlighted in green when the details are added, in blue when the details are updated, in red with the strike-off mark when the details are removed, and in black when there are no changes in the details.
+|Build End To End View With
+|Allows you to build an end-to-end view by choosing a related solution which is compatible with the selected configuration.
+|What If |Allows you to upgrade or downgrade a component in a selected configuration.
+|Print |Allows you to print the configuration details.
+|Policies and Guidelines
+|Helps you understand more about the policies and guidelines which are applicable for a selected configuration.
+If there are any new changes added in the policies and guidelines, the changes are highlighted in yellow and are applicable for 30 days. If any policies and guidelines are removed, then the changes are strike out. If there are any changes in the *Policies and Guidelines* field, it will be indicated by an icon "NEW" in red.
+|Filter |Allows you to search for configurations that were modified during a particular period by providing appropriate date range in the *Last Modified Between* and *And* fields.
+|Notes |Provides notes associated with the configuration.
+|Row Compare |Allows you to compare two rows with the configuration.
+|===
+
+The search results are displayed with the configuration details for each result. Each row of the search result displays the details of a configuration that belongs to the currently selected storage solution. The configuration rows in the *End of Support* state appears in gray and the status next to configuration name is mentioned as *EOS* or *PVR*.

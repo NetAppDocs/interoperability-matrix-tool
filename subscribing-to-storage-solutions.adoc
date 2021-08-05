@@ -1,0 +1,40 @@
+---
+sidebar: sidebar
+permalink: subscribing-to-storage-solutions.html
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, storage, area, network
+summary:  'You can subscribe to single or multiple storage solutions of your choice.'
+---
+
+= Subscribe to Storage Solutions
+:icons: font
+:imagesdir: ./media/
+
+[.lead]
+You can subscribe to single or multiple storage solutions of your choice.
+
+== About this task
+
+The two types of subscription are as follows:
+
+. *Immediate*: You will receive an email immediately when there are any changes made to the subscribed solution.
+. *Digest*: You will receive an accumulated email within seven days reflecting all the changes that are made to the subscribed solutions.
+
+== Steps
+
+. Click the *Subscription* link from the header menu.
+. In the *Subscription* window, select the *Storage Solution* tab.
+. For storage solutions of your choice, select checkboxes for the *Solution status update, Categories associated or disassociated, or Configurations added or deleted* options.
++
+You will receive emails for the following instances:
+
+* When the status of the solutions is changed or updated.
+* When some categories are added or deleted from the solution
+* When some configurations are added or deleted from the solution
+
+. In the *Frequency* field, either select *Immediate* or *Digest*.
++
+NOTE: The default selection is *Immediate*.
+
+. Click *Subscribe* to subscribe for solutions that you have selected.
++
+NOTE: You can click *Reset* to clear all of the selections in the *Storage Solution* tab.

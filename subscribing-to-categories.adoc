@@ -1,0 +1,27 @@
+---
+sidebar: sidebar
+permalink: subscribing-to-categories.html
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, storage, area, network,
+summary:  'You can subscribe to single or multiple categories of your choice.'
+---
+= Subscribe to Categories
+:icons: font
+:imagesdir: ./media/
+
+[.lead]
+You can subscribe to single or multiple categories of your choice.
+
+== About this task
+You will receive an email notification when components are added or deleted from a category.
+
+== Steps
+. Click the *Subscription* link from the header menu.
+. In the subscription window, select the *Category* tab.
+. For the category of your choice, select the checkbox for the Components added or deleted option.
+. In the *Frequency* field, select *Immediate* or *Digest*.
++
+NOTE: The default selection is *Immediate*.
++
+. Click *Subscribe* to get subscriptions for the categories that you have subscribed.
+
+NOTE: You can click *Reset* to clear all of the selections in the Category tab.

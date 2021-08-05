@@ -1,0 +1,14 @@
+---
+sidebar: sidebar
+permalink: working-with-search-assistant.html
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, search, assistant
+summary:  'You can use the search assistant which provides you the suggestions to explore the compatible configurations depending on the search criteria.'
+---
+= Work with search assistant
+:icons: font
+:imagesdir: ./media/
+
+[.lead]
+*Search Assistant* provides suggestions to explore the compatible configurations depending on the search criteria that you enter. The *Search Assistant* section displays the commonly used categories from which you can select components to include in the search criteria. Depending on the component you select, the search assistant displays the compatible components and solutions.
+
+In case you have entered an incorrect search criteria and the Interoperability Matrix Tool (IMT) cannot find any results, the *Search Assistant* displays the suggestions to correct the search criteria.

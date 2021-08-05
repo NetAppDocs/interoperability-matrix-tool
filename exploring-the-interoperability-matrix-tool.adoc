@@ -1,0 +1,60 @@
+---
+sidebar: sidebar
+permalink: exploring-the-interoperability-matrix-tool.html
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, storage, area, network,
+summary:  'The Interoperability Matrix Tool (IMT) is a web-based application you use to search for compatibility and supported configurations for your NetApp products.'
+---
+
+= Explore the Interoperability Matrix Tool
+:icons: font
+:imagesdir: ./media/
+
+
+[.lead]
+The Interoperability Matrix Tool (IMT) is a web-based application you use to search for compatibility and supported configurations for your NetApp products.
+
+You can perform the following tasks:
+[cols=2*,options="header", cols="25,75"]
+|===
+|Using this...
+|You can perform these tasks...
+|Home page
+|Search using *ONTAP SAN Host Solutions, Solution Search, List and Find*, and *Advanced Search* for viewing compatibility.
+Provides a direct link to the *Training* videos and the *Active IQ Interop Advisor*.
+|ONTAP SAN Host Solutions
+|Check compatibility for ONTAP version and Flash/Fabric storage version combinations.
+|Solution Search |Search for solution and add criteria to check compatibility.
+|List and Find
+|Know where the component is used in various configurations and across the solutions.
+|Advanced Search
+|Search for components and add criteria to check compatibility.
+|Subscriptions |View *Storage Solution, Category, or Component* configurations you have previously subscribed.
+|Notifications |View IMT update notifications.
+|Saved Search |Open searches you have previously saved.
+|Can't Find Config |Use to report a configuration you cannot find in IMT.
+|Toolbox
+|Access tools depending on your role as *Customer, Partner, or Internal NetApp* employee.
+|Reports
+|Export configurations for a solution using the *Complete Daily Exports* report or export end
+of version support components using the *Component EOVS Summary* report.
+|Preference
+|Create a list of favorite *List and Find* categories. These categories appear at the top of the *Component Explorer* in *List and Find*.
+|Help
+|Click *What's New* to view the latest release notes for the IMT.
+
+Click *Online Help* to view this Interoperability Matrix Tool help set.
+
+Click *Training* to view videos exploring how to use the Interoperability Matrix Tool, check the https://www.youtube.com/playlist?list=PLdXI3bZJEw7moxyCCpO4p4G-73NN6q4RH[NetApp Learning Center^].
+
+To report a problem or provide feedback for the Interoperability Matrix Tool, click the *Report a Problem* link. Click *FAQ* to view the frequently asked questions and answers about IMT.
+
+Click *Data Initiative*, if available, to see the planned clean up of the IMT database.
+
+Click *About IMT* to view the version and copyright statement.
+
+Click *Known Issues* to see reported and unresolved errors in the product.
+|Take a tour |View a guided tour around the IMT.
+|<Your name> |Click to *logout* of the IMT.
+|===
+
+NOTE: If you resize the window, all of the pages become responsive.

@@ -1,0 +1,22 @@
+---
+sidebar: sidebar
+permalink: deleting-saved-criteria.html
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, Active IQ, Interop, Advisor, tool
+summary: 'You can delete the saved search criteria.'
+---
+
+= Delete saved criteria
+:icons: font
+:imagesdir: ./media/
+
+[.lead]
+You can delete the saved search criteria.
+
+== About this task
+You must have the name of the saved criteria in order to delete the saved criteria.
+
+== Steps
+. Click the delete icon *X* under the *Action* column.
+The pop up is displayed asking you whether or not you want to delete the saved criteria.
+. Click *Yes* to delete saved criteria.
+. Click *No* to retain saved criteria.

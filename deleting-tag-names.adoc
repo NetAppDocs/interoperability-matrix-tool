@@ -1,0 +1,24 @@
+---
+sidebar: sidebar
+permalink: deleting-tag-names.html
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, Active IQ, Interop, Advisor, tool
+summary:  'Saved configurations can be deleted by removing the tag name.'
+---
+
+= Delete tag names
+:icons: font
+:imagesdir: ./media/
+
+[.lead]
+You can delete the entire tag for saved configurations.
+
+== About this task
+Saved configurations can be deleted by removing the tag name. When you delete the tag name, all of the configurations associated with those tags will also be deleted.
+
+== Steps
+. Click *Favorites*.
+. From *Saved Criteria* dialog box, click *Configurations* tab.
+. Click delete icon X under *Action* column.
+The pop up is displayed asking you whether or not you want to delete saved tags and its associated configurations.
+. Click *Yes* to delete tags and its associated configurations.
+. Click *No* to retain tags and its associated configurations.

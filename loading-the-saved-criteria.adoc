@@ -1,0 +1,24 @@
+---
+sidebar: sidebar
+permalink: loading-the-saved-criteria.html
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, Active IQ, Interop, Advisor, tool
+summary:  'From the home page, you can choose to either search for components or load the previously saved criteria.'
+---
+
+= Load the saved criteria
+:icons: font
+:imagesdir: ./media/
+
+[.lead]
+From the home page, you can choose to either search for components or load the previously saved criteria.
+
+== Before you begin
+You must have saved the search criteria on the home page.
+
+== About this task
+You can click *Saved Search* to load all of the criteria that you saved earlier.
+
+== Steps
+. Click *Saved Search* on the first page.
+. Click *Criteria* or *Configuration* tab to load the saved criteria or configuration.
+After you select the criteria name, the criteria will load in the search criteria panel.

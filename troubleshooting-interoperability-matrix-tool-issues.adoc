@@ -1,0 +1,27 @@
+---
+sidebar: sidebar
+permalink: troubleshooting-interoperability-matrix-tool-issues.html
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, Active IQ, Interop, Advisor, tool
+summary:  'You should be aware of some common Interoperability Matrix Tool issues.'
+---
+
+= Troubleshoot Interoperability Matrix Tool issues
+:icons: font
+:imagesdir: ./media/
+
+[.lead]
+You should be aware of some common Interoperability Matrix Tool issues.
+[cols=2*,options="header"]
+|===
+|Problems |Workaround
+|Interoperability Matrix Tool fails to load |You must clear the browser cache, open a new browser and try logging in to IMT.
+|Interoperability Matrix Tool hangs |This might be a network issue, you can try refreshing your browser.
+|PI not inferring the desired solution |You must select the appropriate solution from the *Solution Catalog* or select a specific component.
+|Unable to select different properties in *Refine Search Criteria* for HBA configuration
+|You must uncheck the HBA component and select a property.
+|Daily report generation displays 404 error |Daily cron jobs run at 22:00 Hrs PST and for a 30 minute duration, the reports will not be available.
+|Login authentication failure for first time login to Interoperability Matrix Tool
+|You must synchronize your login credentials for Interoperability Matrix Tool.
+|Newly added components are not displayed |Wait four hours; the components will get updated
+automatically.
+|===

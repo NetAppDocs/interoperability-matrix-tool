@@ -1,0 +1,20 @@
+---
+sidebar: sidebar
+permalink: select-component-to-upgrade-or-downgrade.html
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, storage, area, network,
+summary:  'You can use What If feature in the *Results* page, to upgrade or downgrade a component in your product configuration. You can change the components and explore the compatibility.'
+---
+
+= Select a component to upgrade or downgrade
+:icons: font
+:imagesdir: ./media/
+
+[.lead]
+You can use *What If* feature in the *Results* page, to upgrade or downgrade a component in your product configuration. You can change the components and explore the compatibility.
+
+.Steps
+
+. Click *What If* to view the components you can upgrade or downgrade to modify the selected configuration.
+. Click a category to view the available components for upgrade or downgrade.
+. In the available options window, you can search for a specific component version and select it.
+. If the selected component is a valid configuration and compatible with your earlier configuration, then the compatibility message is displayed. You can now export the results to view all the supported configurations.
