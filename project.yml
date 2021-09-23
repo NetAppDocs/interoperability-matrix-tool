@@ -1,0 +1,139 @@
+sidebar:
+  entries:
+    - title: Interoperability Matrix Tool overview
+      url: /index.html
+    - title: Perform Common Searches
+      url: /performing-common-searches.html
+      entries:
+        - title: Work with ONTAP SAN Host Solutions search
+          url: /working-with-ontap-san-host-solutions-search.html
+        - title: Work with Solution Search
+          url: /working-with-solution-search.html
+        - title: Work with List and Find
+          url: /working-with-list-and-find.html
+        - title: Work with Advanced Search
+          url: /working-with-advanced-search.html
+    - title: Explore the Interoperability Matrix Tool
+      url: /exploring-the-interoperability-matrix-tool.html
+      entries:
+        - title: Use Subscription
+          url: /using-subscription.html
+        - title: Use Notifications
+          url: /using-notifications.html
+        - title: Saved Search Capabilities
+          url: /saved-search-capabilities.html
+        - title: Use Can't Find Config
+          url: /use-cannot-find-config.html
+        - title: Tools available in Toolbox
+          url: /tools-available-in-toolbox.html
+        - title: Solution reports
+          url: /solution-reports.html
+        - title: Work with preferences
+          url: /working-with-preferences.html
+    - title: Interoperability Matrix Tool search workflow
+      url: /interoperability-matrix-tool-search-workflow.html
+      entries:
+        - title: Work with search assistant
+          url: /working-with-search-assistant.html
+        - title: Work with search text box
+          url: /working-with-search-text-box.html
+        - title: Use Refine Search Criteria
+          url: /using-refine-search-criteria.html
+        - title: Find compatible host operating system for your products
+          url: /finding-compatible-host-os.html
+        - title: Find compatible Windows Server host for your products
+          url: /finding-compatible-windows-server.html
+        - title: Find compatibility with HBA cards
+          url: /finding-compatible-with-hba-cards.html
+        - title: Find a specific configuration and checking for product upgrade or downgrade supportability
+          url: /finding-specific-config-and-checking-for-product-upgrade.html
+        - title: Work with results
+          url: /working-with-results.html
+        - title: Build end-to-end compatibility across products
+          url: /building-end-to-end-compatibility.html
+        - title: View policies and guidelines
+          url: /viewing-policies-and-guidelines.html
+        - title: Use What If
+          url: /using-what-if.html
+        - title: The Active IQ Interop Advisor tool to determine compatibility
+          url: /the-activeiq-interop-advisor-tool.html
+        - title: Report an issue
+          url: /reporting-an-issue.html
+    - title: Define and enter the search criteria
+      url: /defining-and-entering-the-search-criteria.html
+      entries:
+        -  title: Add components to search criteria
+           url: /add-components-to-search-criteria.html
+        -  title: Add solutions to search criteria
+           url: /add-solutions-to-search-criteria.html
+        -  title: Add configuration names to search criteria
+           url: /add-config-names-to-search-criteria.html
+    - title: Work with saved criteria, recent searches, and configurations
+      url: /working-with-saved-criteria-recent-searches-and-config.html
+      entries:
+        -  title: Save the search criteria
+           url: /saving-the-search-criteria.html
+        -  title: Saved Search criteria sharing with other users
+           url: /saved-search-criteria-sharing-with-other-users.html
+        -  title: Load the saved criteria
+           url: /loading-the-saved-criteria.html
+        -  title: Edit saved criteria
+           url: /editing-saved-criteria.html
+        -  title: Delete saved criteria
+           url: /deleting-saved-criteria.html
+        -  title: Save configuration
+           url: /saving-configuration.html
+        -  title: Subscribe to configurations
+           url: /subscribing-to-config.html
+        -  title: Unsubscribe the subscribed configurations
+           url: /unsubscribe-the-subscribed-config.html
+        -  title: Load the saved configuration
+           url: /loading-the-saved-config.html
+        -  title: Remove configuration from saved tags
+           url: /removing-config-from-saved-tags.html
+        -  title: Delete tag names
+           url: /deleting-tag-names.html
+        -  title: Save a recent search
+           url: /saving-a-recent-search.html
+        -  title: View recent search criteria
+           url: /viewing-recent-search-criteria.html
+    - title: Find the compatibility using Refine Search Criteria
+      url: /finding-the-compatibility-using-the-refine-search-criteria.html
+      entries:
+        - title: The Refine Search Criteria page to verify compatibility
+          url: /refine-serach-page-to-verify-compatibility.html
+        - title: Apply filters to categories
+          url: /apply-filters-to-categories.html
+        - title: Modify the search criteria
+          url: /modify-the-search-criteria.html
+        - title: Generate the URL
+          url: /generate-the-url.html
+    - title: Understand and use Interoperability Matrix Tool results
+      url: /understanding-and-using-imt-results.html
+      entries:
+        - title: Supported configuration searches
+          url: /supported-config-searches.html
+        - title: Use row compare
+          url: /using-row-compare.html
+        - title: Create an end-to-end view for a selected configuration
+          url: /create-end-to-end-view-for-selected-config.html
+        - title: Export configuration results
+          url: /export-config-results.html
+    - title: How to use What If
+      url: /how-to-use-what-if.html
+      entries:
+        - title: Select a component to upgrade or downgrade
+          url: /select-component-to-upgrade-or-downgrade.html
+    - title: Subscribe to Storage Solutions, Categories, or Components
+      url: /subscribing-to-storage-solutions-categories-or-categories.html
+      entries:
+        -  title: Subscribe to Storage Solutions
+           url: /subscribing-to-storage-solutions.html
+        -  title: Subscribe to Categories
+           url: /subscribing-to-categories.html
+        -  title: Subscribe to Components
+           url: /subscribing-to-components.html
+    - title: Troubleshoot Interoperability Matrix Tool issues
+      url: /troubleshooting-interoperability-matrix-tool-issues.html
+    - title: Get more information
+      url: /get-more-information.html
