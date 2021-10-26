@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+    
+    
+  
+
+  
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/add-components-to-search-criteria.html</loc>
+      
+      <lastmod>2021-08-03T11:29:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/add-config-names-to-search-criteria.html</loc>
+      
+      <lastmod>2021-05-11T16:47:30+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/add-solutions-to-search-criteria.html</loc>
+      
+      <lastmod>2021-05-11T16:47:30+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/apply-filters-to-categories.html</loc>
+      
+      <lastmod>2021-05-13T10:32:02+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/building-end-to-end-compatibility.html</loc>
+      
+      <lastmod>2021-06-25T10:01:07+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/create-end-to-end-view-for-selected-config.html</loc>
+      
+      <lastmod>2021-05-13T10:37:27+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/defining-and-entering-the-search-criteria.html</loc>
+      
+      <lastmod>2021-05-11T16:47:30+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/deleting-saved-criteria.html</loc>
+      
+      <lastmod>2021-05-11T17:13:25+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/deleting-tag-names.html</loc>
+      
+      <lastmod>2021-05-11T17:13:25+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/editing-saved-criteria.html</loc>
+      
+      <lastmod>2021-05-11T17:13:25+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/exploring-the-interoperability-matrix-tool.html</loc>
+      
+      <lastmod>2021-08-03T11:29:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/export-config-results.html</loc>
+      
+      <lastmod>2021-05-13T12:51:46+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/finding-compatible-host-os.html</loc>
+      
+      <lastmod>2021-06-25T10:01:07+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/finding-compatible-windows-server.html</loc>
+      
+      <lastmod>2021-05-13T12:38:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/finding-compatible-with-hba-cards.html</loc>
+      
+      <lastmod>2021-05-13T12:38:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/finding-specific-config-and-checking-for-product-upgrade.html</loc>
+      
+      <lastmod>2021-05-13T12:22:35+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/finding-the-compatibility-using-the-refine-search-criteria.html</loc>
+      
+      <lastmod>2021-05-13T10:32:02+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/generate-the-url.html</loc>
+      
+      <lastmod>2021-05-26T15:25:37+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/get-more-information.html</loc>
+      
+      <lastmod>2021-06-25T10:01:07+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/how-to-use-what-if.html</loc>
+      
+      <lastmod>2021-07-19T10:01:31+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/</loc>
+      
+      <lastmod>2021-05-07T11:31:06+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/interoperability-matrix-tool-search-workflow.html</loc>
+      
+      <lastmod>2021-05-10T11:10:28+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/loading-the-saved-config.html</loc>
+      
+      <lastmod>2021-05-11T17:13:25+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/loading-the-saved-criteria.html</loc>
+      
+      <lastmod>2021-05-11T17:13:25+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/modify-the-search-criteria.html</loc>
+      
+      <lastmod>2021-05-13T10:32:02+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/performing-common-searches.html</loc>
+      
+      <lastmod>2021-08-03T11:29:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/refine-serach-page-to-verify-compatibility.html</loc>
+      
+      <lastmod>2021-05-13T11:23:25+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/removing-config-from-saved-tags.html</loc>
+      
+      <lastmod>2021-05-11T17:13:25+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/reporting-an-issue.html</loc>
+      
+      <lastmod>2021-05-10T11:10:28+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/interoperability-matrix-tool-overview.html</loc>
+      
+      <lastmod>2021-06-25T10:01:07+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/saved-search-capabilities.html</loc>
+      
+      <lastmod>2021-08-03T11:29:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/saved-search-criteria-sharing-with-other-users.html</loc>
+      
+      <lastmod>2021-08-03T11:29:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/saving-a-recent-search.html</loc>
+      
+      <lastmod>2021-05-11T17:13:25+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/saving-configuration.html</loc>
+      
+      <lastmod>2021-05-11T17:13:25+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/saving-the-search-criteria.html</loc>
+      
+      <lastmod>2021-06-25T10:01:07+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool//search.html</loc>
+      
+      <lastmod>2021-10-26T20:56:47+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/select-component-to-upgrade-or-downgrade.html</loc>
+      
+      <lastmod>2021-06-25T10:01:07+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/solution-reports.html</loc>
+      
+      <lastmod>2021-05-10T10:44:12+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/subscribing-to-categories.html</loc>
+      
+      <lastmod>2021-08-03T11:29:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/subscribing-to-components.html</loc>
+      
+      <lastmod>2021-05-13T10:46:46+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/subscribing-to-config.html</loc>
+      
+      <lastmod>2021-05-11T17:13:25+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/subscribing-to-storage-solutions-categories-or-categories.html</loc>
+      
+      <lastmod>2021-05-13T10:46:46+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/subscribing-to-storage-solutions.html</loc>
+      
+      <lastmod>2021-05-13T10:46:46+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/supported-config-searches.html</loc>
+      
+      <lastmod>2021-08-03T11:29:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/the-activeiq-interop-advisor-tool.html</loc>
+      
+      <lastmod>2021-05-11T17:13:25+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/tools-available-in-toolbox.html</loc>
+      
+      <lastmod>2021-07-05T16:23:17+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/troubleshooting-interoperability-matrix-tool-issues.html</loc>
+      
+      <lastmod>2021-05-26T15:25:37+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/understanding-and-using-imt-results.html</loc>
+      
+      <lastmod>2021-05-13T10:37:27+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/unsubscribe-the-subscribed-config.html</loc>
+      
+      <lastmod>2021-08-03T11:29:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/use-cannot-find-config.html</loc>
+      
+      <lastmod>2021-06-28T10:35:31+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/using-notifications.html</loc>
+      
+      <lastmod>2021-05-10T10:44:12+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/using-refine-search-criteria.html</loc>
+      
+      <lastmod>2021-08-03T11:29:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/using-row-compare.html</loc>
+      
+      <lastmod>2021-05-13T10:37:27+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/using-subscription.html</loc>
+      
+      <lastmod>2021-05-26T15:25:37+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/using-what-if.html</loc>
+      
+      <lastmod>2021-05-10T11:10:28+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/viewing-policies-and-guidelines.html</loc>
+      
+      <lastmod>2021-05-10T11:10:28+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/viewing-recent-search-criteria.html</loc>
+      
+      <lastmod>2021-08-03T11:29:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/working-with-advanced-search.html</loc>
+      
+      <lastmod>2021-05-07T11:31:06+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/working-with-list-and-find.html</loc>
+      
+      <lastmod>2021-05-26T20:17:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/working-with-ontap-san-host-solutions-search.html</loc>
+      
+      <lastmod>2021-08-03T11:29:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/working-with-preferences.html</loc>
+      
+      <lastmod>2021-05-10T10:44:12+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/working-with-results.html</loc>
+      
+      <lastmod>2021-08-03T11:29:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/working-with-saved-criteria-recent-searches-and-config.html</loc>
+      
+      <lastmod>2021-05-11T17:13:25+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/working-with-search-assistant.html</loc>
+      
+      <lastmod>2021-05-10T11:10:28+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/working-with-search-text-box.html</loc>
+      
+      <lastmod>2021-05-10T11:10:28+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/us-en/interoperability-matrix-tool/working-with-solution-search.html</loc>
+      
+      <lastmod>2021-05-07T11:31:06+00:00</lastmod>
+      
+    </url>
+  
+
+  
+  
+</urlset>

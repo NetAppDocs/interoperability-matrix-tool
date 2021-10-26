@@ -1,0 +1,1116 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head class="at-element-marker">
+  <title>Unsubscribe the subscribed configurations</title>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge,chrome=1">
+  <meta http-equiv="language" content="en">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta property="og:title" content="Unsubscribe the subscribed configurations" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://docs.netapp.com/us-en/interoperability-matrix-tool/unsubscribe-the-subscribed-config.html" />
+	<meta property="og:description" content="You can unsubscribe the configuration from the Results page if you do want to receive any more updates." />
+  <meta property="og:image" content="https://docs.netapp.com/us-en/interoperability-matrix-tool/images/logo-tophat-social.png" />
+  <meta property="og:image:alt" content="NetApp Logo" />
+  <meta name="format-detection" content="telephone=no">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="encoding" content="utf-8">
+  <meta http-equiv="nss-type" content="Product Documentation"/>
+  <meta http-equiv="nss-subtype" content="User Guide"/>
+  
+  <meta name="description" content="You can unsubscribe the configuration from the Results page if you do want to receive any more updates.">
+  <meta name="keywords" content=" flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, Active IQ, Interop, Advisor, tool">
+  
+  
+
+  <!-- Icons -->
+  <link rel="icon" href="/us-en/interoperability-matrix-tool/images/favicon.ico" type="image/x-icon">
+
+  <!-- RSS Feed -->
+  
+
+  <!-- CSS Definitions: NetApp CSS should be defined after generic css -->
+
+  <!-- Elastic Search -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/searchkit/0.10.0/theme.css">
+
+  <!-- Controls AsciiDoctor Admonition Blocks -->
+  <link rel="stylesheet" type="text/css" href="/us-en/interoperability-matrix-tool/css/font-awesome.min.css">
+
+  <!-- Controls the shadow effect for search dropdown menu -->
+  <link rel="stylesheet" href="/us-en/interoperability-matrix-tool/css/boxshadowproperties.css">
+
+  <!-- NetApp CSS controls the technical content -->
+  <link rel="stylesheet" type="text/css" href="/us-en/interoperability-matrix-tool/css/netapp.css">
+
+  <!-- WWW CSS Content -->
+  <link rel="stylesheet" type="text/css" href="/us-en/interoperability-matrix-tool/css/www-luci-dotcom.min.css">
+  <link rel="stylesheet" type="text/css" href="/us-en/interoperability-matrix-tool/css/www-netapp-dotcom.css">
+  <link rel="stylesheet" href="/us-en/interoperability-matrix-tool/css/www-netapp-library-critical.min.css" media="all" >
+  <link rel="stylesheet" href="/us-en/interoperability-matrix-tool/css/www-netapp-library-non-critical.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="stylesheet" href="/us-en/interoperability-matrix-tool/css/www-netapp-library-global-header-footer.min.css">
+
+  <!-- NetApp IE Customizations -->
+  <link rel="stylesheet" href='/us-en/interoperability-matrix-tool/css/na-utility.css' type='text/css'>
+  <link rel="stylesheet" href='/us-en/interoperability-matrix-tool/css/na-sidebar.css' type='text/css'>
+  <link rel='stylesheet' href='/us-en/interoperability-matrix-tool/css/clouddocs.css' type='text/css'>
+  <link rel='stylesheet' href='/us-en/interoperability-matrix-tool/css/na-pagenav.css' type='text/css'>
+
+  
+  <link rel="stylesheet" href="/us-en/interoperability-matrix-tool/css/landing-page.css" type="text/css">
+  <link rel="stylesheet" href="/us-en/interoperability-matrix-tool/css/tabbed-blocks.css" type="text/css">
+  <link rel="stylesheet" href='/us-en/interoperability-matrix-tool/css/product-family.css' type="text/css">
+  
+
+  
+  <link rel='stylesheet' href='/us-en/interoperability-matrix-tool/css/na-feature.css' type='text/css'>
+  
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+  <!-- Used to import Promise for IE. Required for SearchKit -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bluebird/3.3.5/bluebird.min.js"></script>
+  
+    <script src='/us-en/interoperability-matrix-tool/js/na-search.js'></script>
+  
+
+  
+  <script src='/us-en/interoperability-matrix-tool/js/na-pagenav.js'></script>
+  
+
+  <link rel='stylesheet' href='/us-en/interoperability-matrix-tool/css/prism.css' type='text/css'>
+  <link rel='stylesheet' href='/us-en/interoperability-matrix-tool/css/prism-netapp.css' type='text/css'>
+
+
+  <script src='/us-en/interoperability-matrix-tool/js/na-utility.js'></script>
+  <script src='/us-en/interoperability-matrix-tool/js/clouddocs.js'></script>
+  <script>
+  if (document.location.hostname === "docs.netapp.com") {
+    var head = document.getElementsByTagName('head')[0];
+    var adobe = document.createElement("script");
+    adobe.type = "text/javascript";
+    adobe.src = "//assets.adobedtm.com/60287eadf1ee/c284da483c83/launch-e9ff3acac59f.min.js";
+    head.appendChild(adobe);
+  }
+  </script>
+  <script src='/us-en/interoperability-matrix-tool/js/jquery.navgoco.min.js'></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+  <script src='/us-en/interoperability-matrix-tool/js/toc.js'></script>
+  <script src='/us-en/interoperability-matrix-tool/js/customscripts.js'></script>
+
+  <script>
+      $(document).ready(function() {
+          
+          var collapseOnInit = true;
+          
+
+          var navSettings = {
+              "caretHtml": '',
+              "accordion": collapseOnInit,
+              "openClass": 'active', // open
+              "save": false, // leave false or nav highlighting doesn't work right
+              "cookie": {
+                  "name": 'navgoco',
+                  "expires": false,
+                  "path": '/'
+              },
+              "slide": {
+                  "duration": 400,
+                  "easing": 'swing'
+              }
+          };
+
+          // Initialize navgoco with default options
+          $("#mysidebar").navgoco(navSettings);
+          
+
+          $("#collapseAll").click(function(e) {
+              e.preventDefault();
+              $("#mysidebar").navgoco('toggle', false);
+          });
+
+          $("#expandAll").click(function(e) {
+              e.preventDefault();
+              $("#mysidebar").navgoco('toggle', true);
+          });
+
+      });
+
+  </script>
+  <script>
+      $(document).ready(function() {
+          $("#tg-sb-link").click(function() {
+              $("#tg-sb-sidebar").toggle();
+              $("#tg-sb-content").toggleClass('col-md-9');
+              $("#tg-sb-content").toggleClass('col-md-12');
+              $("#tg-sb-icon").toggleClass('fa-toggle-on');
+              $("#tg-sb-icon").toggleClass('fa-toggle-off');
+          });
+      });
+  </script><script async src="https://www.googletagmanager.com/gtag/js?id=UA-81697994-3"></script>
+  <script>
+  if (document.location.hostname === "docs.netapp.com") {
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-81697994-3');
+  }
+  </script>
+  <script src='/us-en/interoperability-matrix-tool/js/product-family.js'></script>
+</head>
+
+
+  <body class role="document">
+    <div id="page" class="n-off-canvas-menu">
+      <div class="n-off-canvas-menu__menu"><!--TODO: Add offcanvas code --></div>
+      <div class="n-off-canvas-menu__content-wrap">
+        <header class="site-header" id="banner">
+  <!-- Start top_hat -->
+  <div class="n-top-hat">
+    <div class="n-container">
+      <div class="n-top-hat__cross-property-nav">
+        <ul class="n-top-hat__list">
+          <li class="n-top-hat__list-item">
+            <a href="https://www.netapp.com/products-a-z/" class="n-top-hat__link">Product and Solutions</a>
+          </li>
+          <li class="n-top-hat__list-item">
+            <a href="https://www.netapp.com/support-and-training/netapp-university/" class="n-top-hat__link">Support and Training</a>
+          </li>
+          <li class="n-top-hat__list-item">
+            <a href="https://cloud.netapp.com" class="n-top-hat__link">Cloud Central</a>
+          </li>
+          <li class="n-top-hat__list-item">
+            <a href="https://community.netapp.com/" class="n-top-hat__link">Community</a>
+          </li>
+          <li class="n-top-hat__list-item">
+            <a href="https://blog.netapp.com/" class="n-top-hat__link">Blog</a>
+          </li>
+          <li class="n-top-hat__list-item">
+            <a href="https://customers.netapp.com/en/" class="n-top-hat__link">Customer Stories</a>
+          </li>
+          <li class="n-top-hat__list-item">
+            <a href="https://www.netapp.com/us/contact-us/index.aspx" target="_self" class="n-top-hat__link" data-ntap-ui="contact-us">Contact</a>
+          </li>
+        </ul>
+      </div>
+      <div class="n-top-hat__utils">
+        <ul class="n-top-hat__list">
+          <li class="n-top-hat__list-item">
+            <a href="https://www.netapp.com/us/contact-us/index.aspx" target="_self" class="n-top-hat__link" data-ntap-ui="contact-us">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <!-- End top_hat -->
+
+  <!-- Start property bar -->
+  <style>
+    .n-property-navigation-bar__menus--desktop-experience .n-menu--mega__default-content__heading span {
+    color: #34B0FF;
+    }
+  </style>
+  <div class="n-property-bar " data-ntap-ui="sticky-nav">
+    <div class="n-property-bar__inner-wrap">
+      <div class="n-property-bar__menu-toggle">
+        <a href="#" class="n-property-bar__menu-toggle-link">
+          <span class="n-property-bar__menu-toggle-text">Menu</span>
+          <svg class="n-icon-bars n-property-bar__menu-toggle-icon" aria-labelledby="title">
+            <title>bars</title>
+            <use xlink:href="/us-en/interoperability-matrix-tool/common/svg/sprite.svg#bars"></use>
+          </svg>
+        </a>
+      </div>
+      <div class="n-property-bar__property-mark ">
+        <a href="https://www.netapp.com" class="n-property-bar__property-link">
+          <div class="n-property-bar__logo">
+            <svg class="n-icon-netapp-mark n-icon-netapp-mark n-property-bar__netapp-mark-icon" aria-labelledby="title">
+              <title>netapp-mark</title>
+              <use xlink:href="/us-en/interoperability-matrix-tool/common/svg/sprite.svg#netapp-mark"></use>
+            </svg>
+            <svg class="n-icon-netapp-logo n-property-bar__logo-svg" aria-labelledby="title">
+              <title>netapp-logo</title>
+              <use xlink:href="/us-en/interoperability-matrix-tool/common/svg/sprite.svg#netapp-logo"></use>
+            </svg>
+          </div>
+        </a>
+      </div>
+
+      
+      <div class="search-property-bar">
+        <div id="search-demo-container" class="searchbox n-property-bar__search">
+          <div id="react-search" 
+          data-search-html="/us-en/interoperability-matrix-tool/search.html"
+          data-type="widget" 
+          data-placeholder="Search Documentation" 
+          data-no-results-found="No results were found for {query}" 
+          data-did-you-mean="Search for {suggestion}." 
+          data-no-results-found-did-you-mean="No results found for {query}. Did you mean {suggestion}?" 
+          data-results-found="{hitCount} results found"  
+          data-sk-es-pf-indexes=""></div>
+          <button class="n-property-bar__search-toggle-button" type="button">
+            <svg class="n-icon-search n-property-bar__search-toggle-button-icon" aria-labelledby="title">
+              <title>search</title>
+              <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/us-en/interoperability-matrix-tool/common/svg/sprite.svg#search"></use>
+            </svg>
+          </button>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+  <div class="n-property-bar__toolbar">
+    <!-- Start Language Selector --><!-- End Language Selector -->
+
+    <div class="n-property-bar__cta"></div>
+  </div>
+  <script>
+    $(function(){
+        var currentLocalization = $('html').attr('lang');
+
+        var localizationsDictionary = {
+            "en-CA" : "https://www.netapp.com/search/index.aspx?for_cr=canada&",
+            "en-IN" : "https://www.netapp.com/search/index.aspx?for_cr=india&",
+            "nl-NL" : "https://www.netapp.com/search/index.aspx?for_cr=netherlands&",
+            "ru-RU" : "https://www.netapp.com/search/index.aspx?for_cr=russia&",
+            "sv-SE" : "https://www.netapp.com/search/index.aspx?for_cr=sweden&",
+            "it-IT" : "https://www.netapp.com/search/index.aspx?for_cr=italy&",
+            "he-IL" : "https://www.netapp.com/search/index.aspx?for_cr=israel&",
+            "ko-KR" : "https://www.netapp.com/search/index.aspx?for_cr=korea&",
+            "zh-TW" : "https://www.netapp.com/search/index.aspx?for_cr=taiwan&",
+            "en-GB" : "https://www.netapp.com/search/index.aspx?for_cr=unitedkingdom&",
+            "en-SG" : "https://www.netapp.com/search/index.aspx?for_cr=asean&",
+            "en-AU" : "https://www.netapp.com/search/index.aspx?for_cr=australia&",
+            "pt-BR" : "https://www.netapp.com/search/index.aspx?for_cr=brasil&",
+            "de-CH" : "https://www.netapp.com/search/index.aspx?for_cr=switzerland&",
+            "es-MX" : "https://www.netapp.com/search/index.aspx?for_cr=mexico&"
+        };
+
+        if($('html').hasClass('ntap-whitelisted') && localizationsDictionary.hasOwnProperty(currentLocalization)) {
+            $('.n-property-bar__property-link').attr('href', '/');
+        }
+    });
+  </script>
+  <!-- End property bar -->
+</header>
+
+        <div class="ie-utility">
+  <div class="ie-menu">
+    <div class="n-breadcrumb">
+      <ul class="n-breadcrumb__list">
+        <li class="n-breadcrumb__list-item">
+          <a href="https://www.netapp.com">Home</a>
+        </li>
+        <li class="n-breadcrumb__list-item">
+          <a href="https://docs.netapp.com">Documentation</a>
+        </li>
+        
+
+        <li class="n-breadcrumb__list-item">
+          <a href="/us-en/interoperability-matrix-tool/">Interoperability&nbsp;Matrix&nbsp;Tool</a>
+        </li>
+        <li class="n-breadcrumb__list-item">
+          Unsubscribe the subscribed configurations
+        </li>
+      </ul>
+    </div>
+
+    <div style="clear: both"></div><!-- Main needs to have height -->
+  </div>
+</div>
+
+
+        <main id="n-main-content" class="n-main-content">
+          <!-- Start Documentation Content -->
+<div class="ie-main">
+  <!-- Sidebar Column -->
+  
+  <div class="col-md-3" >
+      <div class="n-pdf-header">
+  <a id="toggleButtonPdf" class="n-pdf-button" type="button">PDFs<span>
+    </span>
+  </a>
+</div>
+<ul id="toggleContainerPdf" class="n-pdf-body" style="display:none;"><div class="n-pdf-section">
+      <span class="n-pdf-section-title">Site</span>
+    </div>
+    <li>
+      <a target="_blank" href="/us-en/interoperability-matrix-tool/pdfs/fullsite-sidebar/Interoperability_Matrix_Tool_overview.pdf" >
+        <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="20" height="20"/>
+        Interoperability Matrix Tool overview
+      </a>
+    </li>
+
+
+
+    
+      <span class="subfolders" style="display:none;">
+        
+          <div class="n-pdf-section">
+            <span class="n-pdf-section-title">
+              Sections
+            </span>
+          </div>
+        
+        <li>
+          <a target="_blank" 
+            
+              href="/us-en/interoperability-matrix-tool/pdfs/sidebar/Perform_Common_Searches.pdf" 
+            
+          >
+            <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="20" height="20"/>
+            Perform Common Searches
+          </a>
+        </li>
+        <span>
+          
+
+
+
+
+
+
+
+
+
+
+          
+        </span>
+      </span>
+    
+
+  
+
+
+
+    
+      <span class="subfolders" style="display:none;">
+        
+          <div class="n-pdf-section">
+            <span class="n-pdf-section-title">
+              Sections
+            </span>
+          </div>
+        
+        <li>
+          <a target="_blank" 
+            
+              href="/us-en/interoperability-matrix-tool/pdfs/sidebar/Explore_the_Interoperability_Matrix_Tool.pdf" 
+            
+          >
+            <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="20" height="20"/>
+            Explore the Interoperability Matrix Tool
+          </a>
+        </li>
+        <span>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+        </span>
+      </span>
+    
+
+  
+
+
+
+    
+      <span class="subfolders" style="display:none;">
+        
+          <div class="n-pdf-section">
+            <span class="n-pdf-section-title">
+              Sections
+            </span>
+          </div>
+        
+        <li>
+          <a target="_blank" 
+            
+              href="/us-en/interoperability-matrix-tool/pdfs/sidebar/Interoperability_Matrix_Tool_search_workflow.pdf" 
+            
+          >
+            <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="20" height="20"/>
+            Interoperability Matrix Tool search workflow
+          </a>
+        </li>
+        <span>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+        </span>
+      </span>
+    
+
+  
+
+
+
+    
+      <span class="subfolders" style="display:none;">
+        
+          <div class="n-pdf-section">
+            <span class="n-pdf-section-title">
+              Sections
+            </span>
+          </div>
+        
+        <li>
+          <a target="_blank" 
+            
+              href="/us-en/interoperability-matrix-tool/pdfs/sidebar/Define_and_enter_the_search_criteria.pdf" 
+            
+          >
+            <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="20" height="20"/>
+            Define and enter the search criteria
+          </a>
+        </li>
+        <span>
+          
+
+
+
+
+
+
+
+
+          
+        </span>
+      </span>
+    
+
+  
+
+
+
+    
+      <span class="subfolders" style="display:none;">
+        
+          <div class="n-pdf-section">
+            <span class="n-pdf-section-title">
+              Sections
+            </span>
+          </div>
+        
+        <li>
+          <a target="_blank" 
+            
+              href="/us-en/interoperability-matrix-tool/pdfs/sidebar/Work_with_saved_criteria__recent_searches__and_configurations.pdf" 
+            
+          >
+            <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="20" height="20"/>
+            Work with saved criteria, recent searches, and configurations
+          </a>
+        </li>
+        <span>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="n-pdf-section">
+  <span class="n-pdf-section-title">This page</span>
+</div>
+
+<li class="active">
+  <a target="_blank" href="/us-en/interoperability-matrix-tool/pdfs/pages/unsubscribe-the-subscribed-config.pdf" >
+    <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="20" height="20"/>
+    Unsubscribe the subscribed configurations
+  </a>
+</li>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+        </span>
+      </span>
+    
+
+  
+
+
+
+    
+      <span class="subfolders" style="display:none;">
+        
+          <div class="n-pdf-section">
+            <span class="n-pdf-section-title">
+              Sections
+            </span>
+          </div>
+        
+        <li>
+          <a target="_blank" 
+            
+              href="/us-en/interoperability-matrix-tool/pdfs/sidebar/Find_the_compatibility_using_Refine_Search_Criteria.pdf" 
+            
+          >
+            <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="20" height="20"/>
+            Find the compatibility using Refine Search Criteria
+          </a>
+        </li>
+        <span>
+          
+
+
+
+
+
+
+
+
+
+
+          
+        </span>
+      </span>
+    
+
+  
+
+
+
+    
+      <span class="subfolders" style="display:none;">
+        
+          <div class="n-pdf-section">
+            <span class="n-pdf-section-title">
+              Sections
+            </span>
+          </div>
+        
+        <li>
+          <a target="_blank" 
+            
+              href="/us-en/interoperability-matrix-tool/pdfs/sidebar/Understand_and_use_Interoperability_Matrix_Tool_results.pdf" 
+            
+          >
+            <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="20" height="20"/>
+            Understand and use Interoperability Matrix Tool results
+          </a>
+        </li>
+        <span>
+          
+
+
+
+
+
+
+
+
+
+
+          
+        </span>
+      </span>
+    
+
+  
+
+
+
+    
+      <span class="subfolders" style="display:none;">
+        
+          <div class="n-pdf-section">
+            <span class="n-pdf-section-title">
+              Sections
+            </span>
+          </div>
+        
+        <li>
+          <a target="_blank" 
+            
+              href="/us-en/interoperability-matrix-tool/pdfs/sidebar/How_to_use_What_If.pdf" 
+            
+          >
+            <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="20" height="20"/>
+            How to use What If
+          </a>
+        </li>
+        <span>
+          
+
+
+
+
+          
+        </span>
+      </span>
+    
+
+  
+
+
+
+    
+      <span class="subfolders" style="display:none;">
+        
+          <div class="n-pdf-section">
+            <span class="n-pdf-section-title">
+              Sections
+            </span>
+          </div>
+        
+        <li>
+          <a target="_blank" 
+            
+              href="/us-en/interoperability-matrix-tool/pdfs/sidebar/Subscribe_to_Storage_Solutions__Categories__or_Components.pdf" 
+            
+          >
+            <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="20" height="20"/>
+            Subscribe to Storage Solutions, Categories, or Components
+          </a>
+        </li>
+        <span>
+          
+
+
+
+
+
+
+
+
+          
+        </span>
+      </span>
+    
+
+  
+
+
+
+
+
+
+</ul>
+
+<script>
+  $("#toggleContainerPdf li.active").parents('li').toggle('display');
+  $("#toggleContainerPdf li.active").parents('span.subfolders').toggle('display');
+  $("#toggleButtonPdf").click(function () {
+    $("#toggleContainerPdf").toggle('display');
+  });
+</script><ul id="mysidebar" class="nav"><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/index.html">
+        Interoperability Matrix Tool overview
+      </a></li><li class="subfolders "><a href="/us-en/interoperability-matrix-tool/performing-common-searches.html">
+        <div class="na-navbar-padding"> Perform Common Searches</div>
+      </a>
+      <ul><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/working-with-ontap-san-host-solutions-search.html">
+        Work with ONTAP SAN Host Solutions search
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/working-with-solution-search.html">
+        Work with Solution Search
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/working-with-list-and-find.html">
+        Work with List and Find
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/working-with-advanced-search.html">
+        Work with Advanced Search
+      </a></li></ul></li><li class="subfolders "><a href="/us-en/interoperability-matrix-tool/exploring-the-interoperability-matrix-tool.html">
+        <div class="na-navbar-padding"> Explore the Interoperability Matrix Tool</div>
+      </a>
+      <ul><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/using-subscription.html">
+        Use Subscription
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/using-notifications.html">
+        Use Notifications
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/saved-search-capabilities.html">
+        Saved Search Capabilities
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/use-cannot-find-config.html">
+        Use Can't Find Config
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/tools-available-in-toolbox.html">
+        Tools available in Toolbox
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/solution-reports.html">
+        Solution reports
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/working-with-preferences.html">
+        Work with preferences
+      </a></li></ul></li><li class="subfolders "><a href="/us-en/interoperability-matrix-tool/interoperability-matrix-tool-search-workflow.html">
+        <div class="na-navbar-padding"> Interoperability Matrix Tool search workflow</div>
+      </a>
+      <ul><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/working-with-search-assistant.html">
+        Work with search assistant
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/working-with-search-text-box.html">
+        Work with search text box
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/using-refine-search-criteria.html">
+        Use Refine Search Criteria
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/finding-compatible-host-os.html">
+        Find compatible host operating system for your products
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/finding-compatible-windows-server.html">
+        Find compatible Windows Server host for your products
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/finding-compatible-with-hba-cards.html">
+        Find compatibility with HBA cards
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/finding-specific-config-and-checking-for-product-upgrade.html">
+        Find a specific configuration and checking for product upgrade or downgrade supportability
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/working-with-results.html">
+        Work with results
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/building-end-to-end-compatibility.html">
+        Build end-to-end compatibility across products
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/viewing-policies-and-guidelines.html">
+        View policies and guidelines
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/using-what-if.html">
+        Use What If
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/the-activeiq-interop-advisor-tool.html">
+        The Active IQ Interop Advisor tool to determine compatibility
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/reporting-an-issue.html">
+        Report an issue
+      </a></li></ul></li><li class="subfolders "><a href="/us-en/interoperability-matrix-tool/defining-and-entering-the-search-criteria.html">
+        <div class="na-navbar-padding"> Define and enter the search criteria</div>
+      </a>
+      <ul><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/add-components-to-search-criteria.html">
+        Add components to search criteria
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/add-solutions-to-search-criteria.html">
+        Add solutions to search criteria
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/add-config-names-to-search-criteria.html">
+        Add configuration names to search criteria
+      </a></li></ul></li><li class="subfolders "><a href="/us-en/interoperability-matrix-tool/working-with-saved-criteria-recent-searches-and-config.html">
+        <div class="na-navbar-padding"> Work with saved criteria, recent searches, and configurations</div>
+      </a>
+      <ul><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/saving-the-search-criteria.html">
+        Save the search criteria
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/saved-search-criteria-sharing-with-other-users.html">
+        Saved Search criteria sharing with other users
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/loading-the-saved-criteria.html">
+        Load the saved criteria
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/editing-saved-criteria.html">
+        Edit saved criteria
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/deleting-saved-criteria.html">
+        Delete saved criteria
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/saving-configuration.html">
+        Save configuration
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/subscribing-to-config.html">
+        Subscribe to configurations
+      </a></li><li class="  active "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/unsubscribe-the-subscribed-config.html">
+        Unsubscribe the subscribed configurations
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/loading-the-saved-config.html">
+        Load the saved configuration
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/removing-config-from-saved-tags.html">
+        Remove configuration from saved tags
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/deleting-tag-names.html">
+        Delete tag names
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/saving-a-recent-search.html">
+        Save a recent search
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/viewing-recent-search-criteria.html">
+        View recent search criteria
+      </a></li></ul></li><li class="subfolders "><a href="/us-en/interoperability-matrix-tool/finding-the-compatibility-using-the-refine-search-criteria.html">
+        <div class="na-navbar-padding"> Find the compatibility using Refine Search Criteria</div>
+      </a>
+      <ul><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/refine-serach-page-to-verify-compatibility.html">
+        The Refine Search Criteria page to verify compatibility
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/apply-filters-to-categories.html">
+        Apply filters to categories
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/modify-the-search-criteria.html">
+        Modify the search criteria
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/generate-the-url.html">
+        Generate the URL
+      </a></li></ul></li><li class="subfolders "><a href="/us-en/interoperability-matrix-tool/understanding-and-using-imt-results.html">
+        <div class="na-navbar-padding"> Understand and use Interoperability Matrix Tool results</div>
+      </a>
+      <ul><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/supported-config-searches.html">
+        Supported configuration searches
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/using-row-compare.html">
+        Use row compare
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/create-end-to-end-view-for-selected-config.html">
+        Create an end-to-end view for a selected configuration
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/export-config-results.html">
+        Export configuration results
+      </a></li></ul></li><li class="subfolders "><a href="/us-en/interoperability-matrix-tool/how-to-use-what-if.html">
+        <div class="na-navbar-padding"> How to use What If</div>
+      </a>
+      <ul><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/select-component-to-upgrade-or-downgrade.html">
+        Select a component to upgrade or downgrade
+      </a></li></ul></li><li class="subfolders "><a href="/us-en/interoperability-matrix-tool/subscribing-to-storage-solutions-categories-or-categories.html">
+        <div class="na-navbar-padding"> Subscribe to Storage Solutions, Categories, or Components</div>
+      </a>
+      <ul><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/subscribing-to-storage-solutions.html">
+        Subscribe to Storage Solutions
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/subscribing-to-categories.html">
+        Subscribe to Categories
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/subscribing-to-components.html">
+        Subscribe to Components
+      </a></li></ul></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/troubleshooting-interoperability-matrix-tool-issues.html">
+        Troubleshoot Interoperability Matrix Tool issues
+      </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/get-more-information.html">
+        Get more information
+      </a></li></ul>
+
+<!-- this highlights the active parent class in the navgoco sidebar. this is critical so that the parent expands when you're viewing a page. This must appear below the sidebar code above. Otherwise, if placed inside customscripts.js, the script runs before the sidebar code runs and the class never gets inserted.-->
+<script>$("li.active").parents('li').toggleClass("active");</script>
+
+  </div>
+  
+
+  <div class="ie-content-pane n-doc__component-detail-content n-doc__component-detail-content--show-code">
+    <!-- Begin of page container -->
+    <article class="page-content">
+      <div class="n-doc__component-detail-heading-wrap">
+  <h1 class="n-doc__component-detail-heading">Unsubscribe the subscribed configurations</h1>
+</div>
+
+
+<p class="page-details">
+  
+    
+    <time datetime="2021-08-03 11:29:38 +0000">08/03/2021</time>
+    
+  
+
+<span>Contributors
+  <a target="_blank" href="https://github.com/netapp-ranuk">
+    <img  class="avatar avatar-small"
+          alt="netapp-ranuk"
+          width="20" height="20"
+          src="https://avatars.githubusercontent.com/u/80323433?v=4"
+          style="border-radius: 50%;"/>
+  </a>
+  
+</span>
+
+
+  <span>
+    <a target="_blank" href="/us-en/interoperability-matrix-tool/pdfs/pages/unsubscribe-the-subscribed-config.pdf" role="button">
+      <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="20" height="20"/>Download PDF of this page</a>
+  </span>
+
+
+</p>
+
+
+<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph lead">
+<p>You can unsubscribe the configuration from the <strong>Results</strong> page if you do want to receive any more updates.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="before-you-begin">Before you begin</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>You must have subscribed to the configurations from the <strong>Results</strong> page.</p>
+</div>
+<div class="paragraph">
+<p>To unsubscribe the configuration:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>In the <strong>Results</strong> page, click star to unsubscribe the subscribed configuration. If you remove the configuration from the favorite list, the configuration is automatically unsubscribed.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+    </article>
+    <!-- Page Container -->
+  </div>
+
+  
+  <!-- Start Page Toolbar -->
+  <div class="page-nav-toolbar">
+    <div class="page-nav-contribute"  >
+      <div class="page-nav-contribute-title">CONTRIBUTE</div>
+      <a target="_blank" href="https://github.com/NetAppDocs/interoperability-matrix-tool/blob/main/unsubscribe-the-subscribed-config.adoc" class="btn btn-default githubEditButton" role="button"><img src="/us-en/interoperability-matrix-tool/images/github.png" class="github-icon" />Edit on GitHub</a>
+      <a target="_blank" href="https://github.com/NetAppDocs/interoperability-matrix-tool/issues/new?body=Page%3A%20[Unsubscribe the subscribed configurations](https://docs.netapp.com/us-en/interoperability-matrix-tool/unsubscribe-the-subscribed-config.html)" class="btn btn-default githubEditButton" role="button"><img src="/us-en/interoperability-matrix-tool/images/github.png" class="github-icon" />Request doc changes</a>
+      <a target="_blank" href="https://docs.netapp.com/us-en/contribute/" class="page-nav-contribute-link"  >Contributor's Guide</a>
+    </div>
+    <div class="page-nav-container">
+      <nav class="page-nav-fixed">
+        <div class="page-nav-title">ON THIS PAGE</div>
+        <div class="page-nav-links">
+          <ul class="page-nav-inner" id="page-menu"></ul>
+        </div>
+      </nav>
+    </div>
+  </div>
+  
+  <div style="clear: both"></div><!-- Main needs to have height -->
+</div>
+
+        </main>
+
+        <footer class="n-footer">
+  <div class="n-footer__bottom">
+    <div class="n-container">
+      <div class="n-footer__bottom-left">
+
+        <div class="n-footer__copyright">
+          <ul class="n-footer__copyright-list">
+            <li class="n-footer__copyright-link">
+            <a href="https://www.netapp.com/us/legal/copyright.aspx">© 2021 NetApp, Inc.</a>
+            </li>
+
+</ul>
+</div>
+<div class="n-footer__social-links">
+<ul class="n-footer__social-link-list">
+<li class="n-footer__social-link-list-item">
+<a class="n-footer__social-link" data-ntap-social="follow-blog" href="https://blog.netapp.com" target="_blank" title="blog" alt="blog">
+<span class="n-footer__social-link-text">blog</span>
+<svg class="n-icon-blog n-footer__social-link-icon" aria-labelledby="title">
+  <title>blog@</title>
+  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/us-en/interoperability-matrix-tool/common/svg/sprite.svg#blog"></use>
+</svg>
+
+</a>
+</li>
+<li class="n-footer__social-link-list-item">
+<a class="n-footer__social-link" data-ntap-social="follow-community" href="https://community.netapp.com/" target="_blank" title="community" alt="community">
+<span class="n-footer__social-link-text">community</span>
+<svg class="n-icon-community n-footer__social-link-icon" aria-labelledby="title">
+<title>community@</title>
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/us-en/interoperability-matrix-tool/common/svg/sprite.svg#comments"></use>
+</svg>
+
+</a>
+</li>
+<li class="n-footer__social-link-list-item">
+<a class="n-footer__social-link" data-ntap-social="follow-twitter" href="https://twitter.com/netapp" target="_blank" title="twitter" alt="twitter">
+<span class="n-footer__social-link-text">twitter</span>
+<svg class="n-icon-twitter n-footer__social-link-icon" aria-labelledby="title">
+<title>twitter@</title>
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/us-en/interoperability-matrix-tool/common/svg/sprite.svg#twitter"></use>
+</svg>
+
+</a>
+</li>
+<li class="n-footer__social-link-list-item">
+<a class="n-footer__social-link" data-ntap-social="follow-facebook" href="https://www.facebook.com/NetApp" target="_blank" title="facebook" alt="facebook">
+<span class="n-footer__social-link-text">facebook</span>
+<svg class="n-icon-facebook n-footer__social-link-icon" aria-labelledby="title">
+<title>facebook@</title>
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/us-en/interoperability-matrix-tool/common/svg/sprite.svg#facebook"></use>
+</svg>
+
+</a>
+</li>
+<li class="n-footer__social-link-list-item">
+<a class="n-footer__social-link" data-ntap-social="follow-linkedin" href="https://www.linkedin.com/company/netapp" target="_blank" title="linkedin" alt="linkedin">
+<span class="n-footer__social-link-text">linkedin</span>
+<svg class="n-icon-linkedin n-footer__social-link-icon" aria-labelledby="title">
+<title>linkedin@</title>
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/us-en/interoperability-matrix-tool/common/svg/sprite.svg#linkedin"></use>
+</svg>
+
+</a>
+</li>
+<li class="n-footer__social-link-list-item">
+<a class="n-footer__social-link" data-ntap-social="follow-youtube" href="https://www.youtube.com/user/NetAppTV" target="_blank" title="youtube" alt="youtube">
+<span class="n-footer__social-link-text">youtube</span>
+<svg class="n-icon-youtube n-footer__social-link-icon" aria-labelledby="title">
+<title>youtube@</title>
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/us-en/interoperability-matrix-tool/common/svg/sprite.svg#youtube"></use>
+</svg>
+
+</a>
+</li>
+<li class="n-footer__social-link-list-item">
+<a class="n-footer__social-link" data-ntap-social="follow-slideshare" href="https://www.slideshare.net/NetApp" target="_blank" title="slideshare" alt="slideshare">
+<span class="n-footer__social-link-text">slideshare</span>
+<svg class="n-icon-slideshare n-footer__social-link-icon" aria-labelledby="title">
+<title>slideshare@</title>
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/us-en/interoperability-matrix-tool/common/svg/sprite.svg#slideshare"></use>
+</svg>
+
+</a>
+</li>
+</ul>
+</div>
+
+</div>
+<div class="n-footer__bottom-right">
+  <p class="n-footer__fine-print">Have feedback for our website?<a target="_self" href="javascript:netapp_mailto()" class="n-footer__copyright">Let us know</a>
+  <a href="https://docs.netapp.com/us-en/announcements/" class="n-footer__copyright">Announcements</a>
+  </p>
+</div>
+</div>
+</div>
+</footer>
+
+      </div>
+
+      <!-- Elasticsearch JS -->
+      <script type="text/javascript" src='/us-en/interoperability-matrix-tool/js/bundle.js'></script>
+
+      <!-- Syntax Highlighting -->
+      <script type="text/javascript" src='/us-en/interoperability-matrix-tool/js/prism.js'></script>
+      <script type="text/javascript" src='/us-en/interoperability-matrix-tool/js/prism-curl.js'></script>
+    </div>
+    <script>
+      document.body.offsetWidth=1903;
+      cookieLaw = {}
+      cookieLaw.euCountry = "US";
+      cookieLaw.invoke = function(){return false;}
+    </script>
+    <script src='/us-en/interoperability-matrix-tool/js/www-ntap.js'></script>
+    <script src='/us-en/interoperability-matrix-tool/js/tabbed-blocks.js'></script>
+  </body>
+
+  
+</html>
