@@ -157,7 +157,12 @@
     gtag('config', 'UA-81697994-3');
   }
   </script>
+  <script src='/us-en/interoperability-matrix-tool/js/version-dropdown.js'></script>
   <script src='/us-en/interoperability-matrix-tool/js/product-family.js'></script>
+  <script src='/us-en/interoperability-matrix-tool/js/FileSaver.min.js'></script>
+  <script src='/us-en/interoperability-matrix-tool/js/jszip-utils.min.js'></script>
+  <script src='/us-en/interoperability-matrix-tool/js/jszip.min.js'></script>
+  <script src='/us-en/interoperability-matrix-tool/js/pdf-ux.js'></script>
 </head>
 
 
@@ -261,7 +266,34 @@
     </div>
   </div>
   <div class="n-property-bar__toolbar">
-    <!-- Start Language Selector --><!-- End Language Selector -->
+    <!-- Start Language Selector --><div id="ie-i18n" class="n-property-bar__lang-selector">
+      <div id="ie-i18n-menu">
+      <span class="ie-i18n-lang">English</span>
+        <button class="ie-i18n-icon-container" type="button">
+          <svg class="n-globe__icon" aria-labelledby="title">
+            <title>globe</title>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/us-en/interoperability-matrix-tool/common/svg/sprite.svg#globe"></use>
+          </svg>
+        </button>
+      </div>
+      <div id="n-property-navigation-bar__menu--language-selector" class="ie-i18n-results-container n-menu n-menu--v3 n-menu--is-active" style="display: none;">
+        <div class="n-language-selector-menu">
+          <ul class="n-menu__list">
+            <li class="n-menu__list-column">
+              <ul class="n-menu__list"><li class="n-menu__list-item n-menu__list-item--level-1">
+                  <a href="https://docs.netapp.com/us-en/interoperability-matrix-tool/add-solutions-to-search-criteria.html" class="n-menu__header-text"><span translate="no" class="notranslate">English</span></a>
+                </li><li class="n-menu__list-item n-menu__list-item--level-1">
+                  <a href="https://docs.netapp.com/ja-jp/interoperability-matrix-tool/add-solutions-to-search-criteria.html" class="n-menu__header-text"><span translate="no" class="notranslate">日本語</span></a>
+                </li><li class="n-menu__list-item n-menu__list-item--level-1">
+                  <a href="https://docs.netapp.com/zh-cn/interoperability-matrix-tool/add-solutions-to-search-criteria.html" class="n-menu__header-text"><span translate="no" class="notranslate">简体中文</span></a>
+                </li><li class="n-menu__list-item n-menu__list-item--level-1">
+                  <a href="https://docs.netapp.com/ko-kr/interoperability-matrix-tool/add-solutions-to-search-criteria.html" class="n-menu__header-text"><span translate="no" class="notranslate">한국어</span></a>
+                </li></ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div><!-- End Language Selector -->
 
     <div class="n-property-bar__cta"></div>
   </div>
@@ -295,89 +327,50 @@
   <!-- End property bar -->
 </header>
 
-        <div class="ie-utility">
-  <div class="ie-menu">
-    <div class="n-breadcrumb">
-      <ul class="n-breadcrumb__list">
-        <li class="n-breadcrumb__list-item">
-          <a href="https://www.netapp.com">Home</a>
-        </li>
-        <li class="n-breadcrumb__list-item">
-          <a href="https://docs.netapp.com">Documentation</a>
-        </li>
-        
-
-        <li class="n-breadcrumb__list-item">
-          <a href="/us-en/interoperability-matrix-tool/">Interoperability&nbsp;Matrix&nbsp;Tool</a>
-        </li>
-        <li class="n-breadcrumb__list-item">
-          Add solutions to search criteria
-        </li>
-      </ul>
-    </div>
-
-    <div style="clear: both"></div><!-- Main needs to have height -->
-  </div>
-</div>
-
 
         <main id="n-main-content" class="n-main-content">
           <!-- Start Documentation Content -->
 <div class="ie-main">
   <!-- Sidebar Column -->
   
-  <div class="col-md-3" >
+  <div class="col-md-3" id="sidebar-height">
       <div class="n-pdf-header">
-  <a id="toggleButtonPdf" class="n-pdf-button" type="button">PDFs<span>
+  <a id="toggleButtonPdf" class="n-pdf-button" type="button">
+    <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="16" height="16"/>Available PDFs<span>
     </span>
   </a>
 </div>
-<ul id="toggleContainerPdf" class="n-pdf-body" style="display:none;"><div class="n-pdf-section">
-      <span class="n-pdf-section-title">Site</span>
-    </div>
-    <li>
-      <a target="_blank" href="/us-en/interoperability-matrix-tool/pdfs/fullsite-sidebar/Interoperability_Matrix_Tool_overview.pdf" >
-        <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="20" height="20"/>
-        Interoperability Matrix Tool overview
-      </a>
-    </li>
+<div class="n-pdf-body-container">
+  <ul id="toggleContainerPdf" class="n-pdf-body" style="display:none;"><li class="pdf-ux-container">
+        <a target="_blank" href="/us-en/interoperability-matrix-tool/pdfs/fullsite-sidebar/Interoperability_Matrix_Tool_overview.pdf" >
+          <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="16" height="16"/>PDF of this doc site</a>
 
 
 
     
-      <span class="subfolders" style="display:none;">
-        
-          <div class="n-pdf-section">
-            <span class="n-pdf-section-title">
-              Sections
-            </span>
-          </div>
-        
-        <li>
+      <ul class="subfolders" style="display:none;">
+        <li class="pdf-ux-container">
           <a target="_blank" 
             
               href="/us-en/interoperability-matrix-tool/pdfs/sidebar/Perform_Common_Searches.pdf" 
             
           >
-            <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="20" height="20"/>
+            <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="16" height="16"/>
             Perform Common Searches
           </a>
+          
+
+
+
+
+
+
+
+
+
+          
         </li>
-        <span>
-          
-
-
-
-
-
-
-
-
-
-
-          
-        </span>
-      </span>
+      </ul>
     
 
   
@@ -385,45 +378,35 @@
 
 
     
-      <span class="subfolders" style="display:none;">
-        
-          <div class="n-pdf-section">
-            <span class="n-pdf-section-title">
-              Sections
-            </span>
-          </div>
-        
-        <li>
+      <ul class="subfolders" style="display:none;">
+        <li class="pdf-ux-container">
           <a target="_blank" 
             
               href="/us-en/interoperability-matrix-tool/pdfs/sidebar/Explore_the_Interoperability_Matrix_Tool.pdf" 
             
           >
-            <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="20" height="20"/>
+            <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="16" height="16"/>
             Explore the Interoperability Matrix Tool
           </a>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
         </li>
-        <span>
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-          
-        </span>
-      </span>
+      </ul>
     
 
   
@@ -431,57 +414,47 @@
 
 
     
-      <span class="subfolders" style="display:none;">
-        
-          <div class="n-pdf-section">
-            <span class="n-pdf-section-title">
-              Sections
-            </span>
-          </div>
-        
-        <li>
+      <ul class="subfolders" style="display:none;">
+        <li class="pdf-ux-container">
           <a target="_blank" 
             
               href="/us-en/interoperability-matrix-tool/pdfs/sidebar/Interoperability_Matrix_Tool_search_workflow.pdf" 
             
           >
-            <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="20" height="20"/>
+            <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="16" height="16"/>
             Interoperability Matrix Tool search workflow
           </a>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
         </li>
-        <span>
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-          
-        </span>
-      </span>
+      </ul>
     
 
   
@@ -489,50 +462,36 @@
 
 
     
-      <span class="subfolders" style="display:none;">
-        
-          <div class="n-pdf-section">
-            <span class="n-pdf-section-title">
-              Sections
-            </span>
-          </div>
-        
-        <li>
+      <ul class="subfolders" style="display:none;">
+        <li class="pdf-ux-container">
           <a target="_blank" 
             
               href="/us-en/interoperability-matrix-tool/pdfs/sidebar/Define_and_enter_the_search_criteria.pdf" 
             
           >
-            <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="20" height="20"/>
+            <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="16" height="16"/>
             Define and enter the search criteria
           </a>
-        </li>
-        <span>
           
 
 
-    <div class="n-pdf-section">
-  <span class="n-pdf-section-title">This page</span>
-</div>
-
-<li class="active">
+    <ul class="subfolders" style="display:none;"><li class="active pdf-hide">
   <a target="_blank" href="/us-en/interoperability-matrix-tool/pdfs/pages/add-solutions-to-search-criteria.pdf" >
-    <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="20" height="20"/>
-    Add solutions to search criteria
+    <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="16" height="16"/>
+    PDF of this page
   </a>
 </li>
 
-
+</ul>
   
-
 
 
 
 
 
           
-        </span>
-      </span>
+        </li>
+      </ul>
     
 
   
@@ -540,57 +499,47 @@
 
 
     
-      <span class="subfolders" style="display:none;">
-        
-          <div class="n-pdf-section">
-            <span class="n-pdf-section-title">
-              Sections
-            </span>
-          </div>
-        
-        <li>
+      <ul class="subfolders" style="display:none;">
+        <li class="pdf-ux-container">
           <a target="_blank" 
             
               href="/us-en/interoperability-matrix-tool/pdfs/sidebar/Work_with_saved_criteria__recent_searches__and_configurations.pdf" 
             
           >
-            <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="20" height="20"/>
+            <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="16" height="16"/>
             Work with saved criteria, recent searches, and configurations
           </a>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
         </li>
-        <span>
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-          
-        </span>
-      </span>
+      </ul>
     
 
   
@@ -598,39 +547,29 @@
 
 
     
-      <span class="subfolders" style="display:none;">
-        
-          <div class="n-pdf-section">
-            <span class="n-pdf-section-title">
-              Sections
-            </span>
-          </div>
-        
-        <li>
+      <ul class="subfolders" style="display:none;">
+        <li class="pdf-ux-container">
           <a target="_blank" 
             
               href="/us-en/interoperability-matrix-tool/pdfs/sidebar/Find_the_compatibility_using_Refine_Search_Criteria.pdf" 
             
           >
-            <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="20" height="20"/>
+            <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="16" height="16"/>
             Find the compatibility using Refine Search Criteria
           </a>
+          
+
+
+
+
+
+
+
+
+
+          
         </li>
-        <span>
-          
-
-
-
-
-
-
-
-
-
-
-          
-        </span>
-      </span>
+      </ul>
     
 
   
@@ -638,39 +577,29 @@
 
 
     
-      <span class="subfolders" style="display:none;">
-        
-          <div class="n-pdf-section">
-            <span class="n-pdf-section-title">
-              Sections
-            </span>
-          </div>
-        
-        <li>
+      <ul class="subfolders" style="display:none;">
+        <li class="pdf-ux-container">
           <a target="_blank" 
             
               href="/us-en/interoperability-matrix-tool/pdfs/sidebar/Understand_and_use_Interoperability_Matrix_Tool_results.pdf" 
             
           >
-            <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="20" height="20"/>
+            <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="16" height="16"/>
             Understand and use Interoperability Matrix Tool results
           </a>
+          
+
+
+
+
+
+
+
+
+
+          
         </li>
-        <span>
-          
-
-
-
-
-
-
-
-
-
-
-          
-        </span>
-      </span>
+      </ul>
     
 
   
@@ -678,33 +607,23 @@
 
 
     
-      <span class="subfolders" style="display:none;">
-        
-          <div class="n-pdf-section">
-            <span class="n-pdf-section-title">
-              Sections
-            </span>
-          </div>
-        
-        <li>
+      <ul class="subfolders" style="display:none;">
+        <li class="pdf-ux-container">
           <a target="_blank" 
             
               href="/us-en/interoperability-matrix-tool/pdfs/sidebar/How_to_use_What_If.pdf" 
             
           >
-            <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="20" height="20"/>
+            <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="16" height="16"/>
             How to use What If
           </a>
+          
+
+
+
+          
         </li>
-        <span>
-          
-
-
-
-
-          
-        </span>
-      </span>
+      </ul>
     
 
   
@@ -712,37 +631,27 @@
 
 
     
-      <span class="subfolders" style="display:none;">
-        
-          <div class="n-pdf-section">
-            <span class="n-pdf-section-title">
-              Sections
-            </span>
-          </div>
-        
-        <li>
+      <ul class="subfolders" style="display:none;">
+        <li class="pdf-ux-container">
           <a target="_blank" 
             
               href="/us-en/interoperability-matrix-tool/pdfs/sidebar/Subscribe_to_Storage_Solutions__Categories__or_Components.pdf" 
             
           >
-            <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="20" height="20"/>
+            <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="16" height="16"/>
             Subscribe to Storage Solutions, Categories, or Components
           </a>
+          
+
+
+
+
+
+
+
+          
         </li>
-        <span>
-          
-
-
-
-
-
-
-
-
-          
-        </span>
-      </span>
+      </ul>
     
 
   
@@ -752,15 +661,44 @@
 
 
 
-</ul>
-
+</li></ul>
+  <div class="zip-pdf-link-container" style="display: none;">   
+    <a href="#" id="zipPdf">
+      <img src="/us-en/interoperability-matrix-tool/images/pdf-zip.png" width="16" height="16"/>
+      <pre>Collection of separate PDF docs<span class="zip-size"></span></pre>
+    </a><div id="zip-link-popup" class="hide">
+    <div class="inner-modal">
+        <div class="downloading-progress">
+            <div class="spinner"></div>
+            <h1>Creating your file...</h1>
+            <div>This may take a few minutes. Thanks for your patience.</div>
+            <button class="cancel-download-btn" type="button">Cancel</button>
+        </div>
+        <div class="download-complete hide">
+            <div class="done-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+            </div>
+            <div>Your file is ready</div>
+            <button class="cancel-download-btn" type="button">OK</button>
+        </div>
+    </div>
+</div>
 <script>
-  $("#toggleContainerPdf li.active").parents('li').toggle('display');
-  $("#toggleContainerPdf li.active").parents('span.subfolders').toggle('display');
+    $(".cancel-download-btn").click(function(){
+        $("#zip-link-popup").addClass("hide");
+        $("#zip-link-popup .downloading-progress").removeClass("hide");
+        $("#zip-link-popup .download-complete").addClass("hide");
+    });
+</script></div>
+</div>
+<script>
+  $("#toggleContainerPdf li.active:last-child").parents('ul.subfolders').toggle('display');
   $("#toggleButtonPdf").click(function () {
     $("#toggleContainerPdf").toggle('display');
+    $(".n-pdf-body-container .zip-pdf-link-container").toggle('display');
   });
-</script><ul id="mysidebar" class="nav"><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/index.html">
+</script><div class="sidebar-nav-container">
+  <ul id="mysidebar" class="nav"><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/index.html">
         Interoperability Matrix Tool overview
       </a></li><li class="subfolders "><a href="/us-en/interoperability-matrix-tool/performing-common-searches.html">
         <div class="na-navbar-padding"> Perform Common Searches</div>
@@ -898,7 +836,14 @@
       </a></li><li class=" "><a class="na-navbar-padding" href="/us-en/interoperability-matrix-tool/get-more-information.html">
         Get more information
       </a></li></ul>
-
+</div>
+<script>
+  window.onscroll = () => {
+    const value = -40 - (document.body.scrollHeight - (window.innerHeight + document.scrollingElement.scrollTop));
+    
+    document.getElementById("sidebar-height").style.bottom = Math.max(0,value) + "px";
+};
+</script>
 <!-- this highlights the active parent class in the navgoco sidebar. this is critical so that the parent expands when you're viewing a page. This must appear below the sidebar code above. Otherwise, if placed inside customscripts.js, the script runs before the sidebar code runs and the class never gets inserted.-->
 <script>$("li.active").parents('li').toggleClass("active");</script>
 
@@ -908,6 +853,30 @@
   <div class="ie-content-pane n-doc__component-detail-content n-doc__component-detail-content--show-code">
     <!-- Begin of page container -->
     <article class="page-content">
+      <div class="ie-utility">
+  <div class="ie-menu">
+    <div class="n-breadcrumb">
+      <ul class="n-breadcrumb__list">
+        <li class="n-breadcrumb__list-item">
+          <a href="https://www.netapp.com">Home</a>
+        </li>
+        <li class="n-breadcrumb__list-item">
+          <a href="https://docs.netapp.com">Documentation</a>
+        </li>
+        
+
+        <li class="n-breadcrumb__list-item">
+          <a href="/us-en/interoperability-matrix-tool/">Interoperability&nbsp;Matrix&nbsp;Tool</a>
+        </li>
+        <li class="n-breadcrumb__list-item">
+          Add solutions to search criteria
+        </li>
+      </ul>
+    </div>
+    <div style="clear: both"></div><!-- Main needs to have height -->
+  </div>
+</div>
+
       <div class="n-doc__component-detail-heading-wrap">
   <h1 class="n-doc__component-detail-heading">Add solutions to search criteria</h1>
 </div>
@@ -916,26 +885,12 @@
 <p class="page-details">
   
     
-    <time datetime="2021-05-11 16:47:30 +0000">05/11/2021</time>
+    <time datetime="2022-02-21 07:53:21 +0000">02/21/2022</time>
     
   
 
 <span>Contributors
-  <a target="_blank" href="https://github.com/netapp-ranuk">
-    <img  class="avatar avatar-small"
-          alt="netapp-ranuk"
-          width="20" height="20"
-          src="https://avatars.githubusercontent.com/u/80323433?v=4"
-          style="border-radius: 50%;"/>
-  </a>
-  
 </span>
-
-
-  <span>
-    <a target="_blank" href="/us-en/interoperability-matrix-tool/pdfs/pages/add-solutions-to-search-criteria.pdf" role="button">
-      <img src="/us-en/interoperability-matrix-tool/images/pdf.png" width="20" height="20"/>Download PDF of this page</a>
-  </span>
 
 
 </p>
@@ -1011,11 +966,11 @@ This check box includes Product Variance Request, End of version Support, and ob
   
   <!-- Start Page Toolbar -->
   <div class="page-nav-toolbar">
+    <div id="version-dropdown"></div>
     <div class="page-nav-contribute"  >
-      <div class="page-nav-contribute-title">CONTRIBUTE</div>
-      <a target="_blank" href="https://github.com/NetAppDocs/interoperability-matrix-tool/blob/main/add-solutions-to-search-criteria.adoc" class="btn btn-default githubEditButton" role="button"><img src="/us-en/interoperability-matrix-tool/images/github.png" class="github-icon" />Edit on GitHub</a>
-      <a target="_blank" href="https://github.com/NetAppDocs/interoperability-matrix-tool/issues/new?body=Page%3A%20[Add solutions to search criteria](https://docs.netapp.com/us-en/interoperability-matrix-tool/add-solutions-to-search-criteria.html)" class="btn btn-default githubEditButton" role="button"><img src="/us-en/interoperability-matrix-tool/images/github.png" class="github-icon" />Request doc changes</a>
-      <a target="_blank" href="https://docs.netapp.com/us-en/contribute/" class="page-nav-contribute-link"  >Contributor's Guide</a>
+      <a target="_blank" href="https://github.com/NetAppDocs/interoperability-matrix-tool/issues/new?body=Page%3A%20[Add solutions to search criteria](https://docs.netapp.com/us-en/interoperability-matrix-tool/add-solutions-to-search-criteria.html)" class="page-nav-contribute-link" role="button"><img src="/us-en/interoperability-matrix-tool/images/discuss-sm.svg" class="github-icon" />Request doc changes</a>
+      <a target="_blank" href="https://github.com/NetAppDocs/interoperability-matrix-tool/blob/main/add-solutions-to-search-criteria.adoc" class="page-nav-contribute-link" role="button"><img src="/us-en/interoperability-matrix-tool/images/edit-sm.svg" class="github-icon" />Edit this page</a>
+      <a target="_blank" href="https://docs.netapp.com/us-en/contribute/" class="page-nav-contribute-link"  ><img src="/us-en/interoperability-matrix-tool/images/article-sm.svg" class="github-icon" />Learn how to contribute</a>
     </div>
     <div class="page-nav-container">
       <nav class="page-nav-fixed">
@@ -1040,7 +995,7 @@ This check box includes Product Variance Request, End of version Support, and ob
         <div class="n-footer__copyright">
           <ul class="n-footer__copyright-list">
             <li class="n-footer__copyright-link">
-            <a href="https://www.netapp.com/us/legal/copyright.aspx">© 2021 NetApp, Inc.</a>
+            <a href="https://www.netapp.com/us/legal/copyright.aspx">© 2022 NetApp, Inc.</a>
             </li>
 
 </ul>

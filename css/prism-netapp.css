@@ -1,17 +1,20 @@
 div.listingblock {
-  width: fit-content;
+  max-width: fit-content;
 }
 
 .listingblock *:before {
   display: none !important;
 }
 
-code[class*=language-], pre[class*=language-] {
-  white-space: pre-wrap
-}
 code[class*=language-] {
     padding: 12px 20px 2px;
     margin: 0px !important;
+}
+code {
+  display: block;
+  font-family: "Consolas","Courier New","Droid Sans Mono","DejaVu Sans Mono",monospace;
+  line-height: 24px;
+  padding: 20px;
 }
 
 /* External CSS Custom Overrides */
