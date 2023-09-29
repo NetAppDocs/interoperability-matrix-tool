@@ -1,11 +1,11 @@
 ---
 sidebar: sidebar
 permalink: working-with-ontap-san-host-solutions-search.html
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, storage, area, network
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified solutions, storage, area, network
 summary:  'Check compatibility for ONTAP version and Flash or Fabric storage version combinations. You can further refine your compatibility search for each relevant components'
 ---
 
-= Work with ONTAP SAN Host Solutions search
+= Work with ONTAP SAN Host Simplified solutions search
 :icons: font
 :imagesdir: ./media/
 
@@ -15,10 +15,10 @@ Check the compatibility for ONTAP version and Flash or Fabric storage version co
 == About this task
 You can check the compatibility between your Flash or Fabric storage devices on your SAN with the ONTAP version you want to use and other relevant components. You can choose between *Expert view* or *Novice view*.
 
-NOTE: Click the *Set as default* option to automatically open a *ONTAP SAN Host Solutions* search whenever you open the IMT.
+NOTE: Click the *Set as default* option to automatically open a *ONTAP SAN Host Simplified solutions* search whenever you open the IMT.
 
 == Steps
-. Click *ONTAP SAN Host Solutions* from the home page.
+. Click *ONTAP SAN Host Simplified solutions* from the home page.
 . Select the view you want to use:
 .. Click *Expert view* to see advanced criteria options.
 .. Click *Guided view* to see simplified and guided criteria options.
@@ -28,7 +28,7 @@ NOTE: Click the *Set as default* option to automatically open a *ONTAP SAN Host 
 .. When done, click *View Results* to see the supported configurations for your search criteria.
 . In *Expert view*, select the search criteria you want to use for the various components. We recommend you move from left to right as each selection will refine the remaining criteria. You do not have to make a selection for each component.
 .. When done, click *View Results* to see the supported configurations for your search criteria.
-. You can also do the following as part of the *ONTAP SAN Host Solutions*:
+. You can also do the following as part of the *ONTAP SAN Host Simplified solutions*:
 .. Click the book icon to view the policy and guidelines applicable to your selection.
 .. Click the chain icon to generate a sharable URL for your selections that you can share with others.
 .. Select the undo icon to clear all of your selections and start again.

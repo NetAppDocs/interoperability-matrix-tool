@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: troubleshooting-interoperability-matrix-tool-issues.html
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, Active IQ, Interop, Advisor, tool
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified solutions, Active IQ, Interop, Advisor, tool
 summary:  'You should be aware of some common Interoperability Matrix Tool issues.'
 ---
 

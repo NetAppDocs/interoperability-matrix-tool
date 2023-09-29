@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: deleting-tag-names.html
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, Active IQ, Interop, Advisor, tool
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified solutions, Active IQ, Interop, Advisor, tool
 summary:  'Saved configurations can be deleted by removing the tag name.'
 ---
 

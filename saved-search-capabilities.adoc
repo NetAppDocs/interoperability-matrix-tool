@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: saved-search-capabilities.html
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, storage, area, network, search, criteria, solution , explorer
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified solutions, storage, area, network, search, criteria, solution , explorer
 summary:  'You can load different solutions or configurations using the *Saved Search* menu, which enables you to navigate to previously saved search results, recent search results, and saved configurations.'
 ---
 

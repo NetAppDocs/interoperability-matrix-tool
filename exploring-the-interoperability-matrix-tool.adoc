@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: exploring-the-interoperability-matrix-tool.html
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, storage, area, network,
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified solutions, storage, area, network,
 summary:  'The Interoperability Matrix Tool (IMT) is a web-based application you use to search for compatibility and supported configurations for your NetApp products.'
 ---
 
@@ -19,9 +19,9 @@ You can perform the following tasks:
 |Using this...
 |You can perform these tasks...
 |Home page
-|Search using *ONTAP SAN Host Solutions, Solution Search, List and Find*, and *Advanced Search* for viewing compatibility.
+|Search using *ONTAP SAN Host Simplified solutions, Solution Search, List and Find*, and *Advanced Search* for viewing compatibility.
 Provides a direct link to the *Training* videos and the *Active IQ Interop Advisor*.
-|ONTAP SAN Host Solutions
+|ONTAP SAN Host Simplified solutions
 |Check compatibility for ONTAP version and Flash/Fabric storage version combinations.
 |Solution Search |Search for solution and add criteria to check compatibility.
 |List and Find
