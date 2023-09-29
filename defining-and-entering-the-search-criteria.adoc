@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: defining-and-entering-the-search-criteria.html
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified solutions, Active IQ, Interop, Advisor, tool
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified Solutions, Active IQ, Interop, Advisor, tool
 summary:  'You can define your search criteria using a combination of components, solutions or categories.'
 ---
 

@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: interoperability-matrix-tool-search-workflow.html
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified solutions, workflow
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified Solutions, workflow
 summary:  'As you start using Interoperability Matrix Tool, it is important that you understand some of the general use cases explained using the workflows.'
 ---
 = Interoperability Matrix Tool search workflow

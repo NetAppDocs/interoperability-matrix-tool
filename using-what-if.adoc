@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: using-what-if.html
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified solutions, workflow, host, os
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified Solutions, workflow, host, os
 summary:  'You can explore all possible configurations that are supported with your search criteria.'
 ---
 = Use What If

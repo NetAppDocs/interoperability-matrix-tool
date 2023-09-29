@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: finding-compatible-with-hba-cards.html
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified solutions, workflow, compatible, hba, cards
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified Solutions, workflow, compatible, hba, cards
 summary:  'You can use Interoperability Matrix Tool to view the supported host operating system for a configuration like Cisco UCS P81E card on FCoE.'
 ---
 = Find compatibility with HBA cards
@@ -9,25 +9,31 @@ summary:  'You can use Interoperability Matrix Tool to view the supported host o
 :imagesdir: ./media/
 
 [.lead]
-You can use Interoperability Matrix Tool to view the supported host operating system for a configuration like Cisco UCS P81E card on FCoE.
+With ONTAP SAN Host Simplified solution, the UI has been simplified to three components, compared to 13 earlier. Remaining ten components are implicitly supported by NetApp, provided they are supported by the respective vendors. Notes and Alerts are categorized solution wise and added to each result.
 
-HBA works in two modes:
+The three components supported in IMT are ONTAP, Host OS and Protocol. 
 
-* *Search HBA component by name*: Enter the name of the component in the search box. The search box result drop-down list displays all matching components.
-* *Search HBA component by property values*: You can search for an HBA component by entering the property values of the component, such as Vendors, Specs, and so on. The keyword that you use is highlighted in the search results.
+You can use Interoperability Matrix Tool to view the supported host operating systems support with ONTAP.
 
-When you specify the properties, you can confirm the compatibility with your card. For example, multiple Emulex Light Pulse LP 11000 HBA components have the same bus value, but different firmware values are displayed.
+For example, to validate a Cisco UCS Blade server supportability with ONTAP, a sample configuration would be as follows:
 
-You must review the following considerations about the HBA search:
+*Example sample configuration*
 
-* Only property names applicable for the category are listed.
-* You can select other properties from the pop-up.
-* You cannot clear the searched property. Searched property is selected by default.
-* The selected property search on components should be OR search of values within the same property.
-* The selected property search on components will be AND search of values across properties.
-* When you select a value, incompatible properties are grayed out.
-* It is optional to select properties. In such a scenario, all components with the selected property is added to the search criteria.
+* ONTAP: 9.13.1
+* Host OS: Red Hat Enterprise Linux 9.2
+* Server model: Cisco UCS B200 M6 Blade server
+* HBA adapter
+** Model: Cisco UCSB-MLOM-40G-04: Cisco UCS 1440 Virtual Interface Card
+** Driver version: 1.6.0.53 fnic 
+** firmware version: 5.3(2)
+* UCS Server Firmware: 5.2(0)
+* Protocol: FCoE
 
-The following shows the workflow:
+You can use the following procedure to verify compatibility with Host Bus adapters (HBAs).
 
-image::pg15_imt.png[]
+.Steps
+
+. Check the IMT ONTAP SAN Host Simplified solution to validate ONTAP 9.13.1, Red Hat Enterprise Linux 9.2 and FCoE protocol is listed as supported
+. Since Cisco is one among the supported adapter list, Cisco VIC is supported as well. The HBA vendors supported by NetApp are Broadcom, Marvell and Cisco
+. Check Cisco "UCS Hardware and Software Compatibility" aka HCL to validate this configuration is listed as supported.
+

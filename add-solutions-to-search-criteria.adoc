@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: add-solutions-to-search-criteria.html
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified solutions, Active IQ, Interop, Advisor, tool
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified Solutions, Active IQ, Interop, Advisor, tool
 summary:  'You can add solutions to your search criteria using the search text box or the Solution Search.'
 ---
 = Add solutions to search criteria

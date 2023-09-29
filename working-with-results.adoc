@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: working-with-results.html
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified solutions
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified Solutions
 summary:  'ou can view and export the results for the configurations that meet your product requirements.'
 ---
 = Work with results

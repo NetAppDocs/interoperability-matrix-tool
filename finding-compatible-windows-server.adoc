@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: finding-compatible-windows-server.html
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified solutions, workflow, windows, server
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified Solutions, workflow, windows, server
 summary:  'You can use Interoperability Matrix Tool to view the compatible Windows Server hosts for your
 products.'
 ---

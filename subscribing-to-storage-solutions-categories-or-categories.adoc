@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: subscribing-to-storage-solutions-categories-or-categories.html
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified solutions, storage, area, network,
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified Solutions, storage, area, network,
 summary:  'You can subscribe to single or multiple storage solutions, categories, or components of your choice.'
 ---
 = Subscribe to Storage Solutions, Categories, or Components

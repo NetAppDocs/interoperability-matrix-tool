@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: working-with-preferences.html
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified solutions, list, find, component, explorer
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified Solutions, list, find, component, explorer
 summary:  'You can use the preferences list and find category preferences to save your favorite categories.'
 ---
 = Work with preferences

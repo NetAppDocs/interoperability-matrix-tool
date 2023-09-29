@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: reporting-an-issue.html
-keywords: lash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified solutions
+keywords: lash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified Solutions
 summary:  'If you encounter an issue, then you can report the problem to the support and feedback team.'
 ---
 = Report an issue

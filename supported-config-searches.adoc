@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: supported-config-searches.html
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified solutions, Active IQ, Interop, Advisor, tool
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified Solutions, Active IQ, Interop, Advisor, tool
 summary: 'Interoperability Matrix Tool (IMT) makes it easy for you to view the results for supported configurations.'
 ---
 

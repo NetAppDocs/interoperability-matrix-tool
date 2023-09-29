@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: refine-serach-page-to-verify-compatibility.html
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified solutions, Active IQ, Interop, Advisor, tool
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified Solutions, Active IQ, Interop, Advisor, tool
 summary:  'The Interoperability Matrix Tool allows you to explore the compatible configurations for your product from the *Refine Search Criteria* page.'
 ---
 

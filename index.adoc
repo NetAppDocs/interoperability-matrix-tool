@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: index.html
-keywords: interoperability matrix tool, imt, ONTAP SAN Host Simplified solutions,
+keywords: interoperability matrix tool, imt, ONTAP SAN Host Simplified Solutions,
 summary:  'The NetApp Interoperability Matrix Tool (IMT) is a web-based application. IMT enables you to search for configurations of NetApp products and components that meet the standards and requirements specified by NetApp.'
 ---
 = Interoperability Matrix Tool overview
@@ -43,7 +43,7 @@ You can accomplish the following tasks:
 |Using this page...
 |You can perform these tasks...
 |Enter criteria
-|Enter a search criteria and search for a solution, component, configuration, and category. If you know the solution or a component name, you can search for a solution using the *ONTAP SAN Host Simplified solutions* or the *Solution Search* feature and search for a component using the *List and Find* or *Advanced Search* feature.
+|Enter a search criteria and search for a solution, component, configuration, and category. If you know the solution or a component name, you can search for a solution using the *ONTAP SAN Host Simplified Solutions* or the *Solution Search* feature and search for a component using the *List and Find* or *Advanced Search* feature.
 |Refine Search Criteria
 |Find more definitive yes or no answer to compatible solution, component, configuration, and category for your product.
 You have an option to change the initial criteria that you entered on the first page using *Change Criteria* or *Try a different method*.
@@ -59,7 +59,7 @@ You can view the components, notes, and history details of a configuration, sort
 |===
 
 == Use the Interoperability Matrix Tool home page
-The Interoperability Matrix Tool (IMT) home page enables you to use *ONTAP SAN Host Simplified solutions*, *Solution Search, List and Find*, and *Advanced Search*.
+The Interoperability Matrix Tool (IMT) home page enables you to use *ONTAP SAN Host Simplified Solutions*, *Solution Search, List and Find*, and *Advanced Search*.
 
 You can set any of these options as your default search using the *Set as default* star. When you click any one of the
 options, the relevant page opens to explore the compatible configurations.

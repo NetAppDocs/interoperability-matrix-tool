@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: generate-the-url.html
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified solutions, Active IQ, Interop, Advisor, tool
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified Solutions, Active IQ, Interop, Advisor, tool
 summary:  'In the Refine Search Criteria page, you can generate a URL for compatibility.'
 ---
 = Generate the URL
@@ -11,12 +11,11 @@ summary:  'In the Refine Search Criteria page, you can generate a URL for compat
 [.lead]
 In the *Refine Search Criteria* page, you can generate a URL for compatibility. You can embed the generated URL in other tools, upload it in the NetApp Support Site, or share it through an email. The generated URL can be directly uploaded into the browser.
 
-== Steps
+.Steps
 
 . In the *Refine Search Criteria* page, select the components to filter down the results.
 . Click *Generate URL*.
 . Copy the URL from the URL Share window.
 . Click *Ok*.
 
-NOTE: You can use the URL that you have generated. The URL will show the components
-and the solutions that you have added to the search criteria.
+NOTE: You can use the URL that you have generated. The URL will show the components and the solutions that you have added to the search criteria.
