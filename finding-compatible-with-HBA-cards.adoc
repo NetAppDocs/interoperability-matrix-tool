@@ -42,11 +42,20 @@ You can use the procedure to access *ONTAP SAN Host Simplified Solution* on IMT 
 .Steps
 
 . Choose a web browser (Safari, Mozilla Firefox, or Google Chrome).
-. Open the IMT webpage link:https://imt.netapp.com/matrix/#welcome
+. Open the IMT webpage link:https://imt.netapp.com/matrix/#welcome.
+
 . Select the "Solution Search" tile.
++
+image::Picture1.png[]
 . Search for "Simplified" and select the solution and add it.
++
+image::Picture2.png[]
 . Search for the required component and apply the appropriate filters to view the results.
++
+image::Picture3.png[]
 . View the desired configuration supportability details on the results page.
++
+image::Picture4.png[]
 
 
 //29-Sep-2023 OTHERDOC-31
