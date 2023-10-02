@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar
 permalink: performing-common-searches.html
-keywords: interoperability matrix tool, ONTAP SAN Host Simplified Solutions, Active IQ Advisor
-summary:  'Use the cards on the home page of the Interoperability Matrix Tool (IMT) to perform common searches, including the ONTAP SAN Host Simplified Solutions, Solution Search, List and Find, and Advanced Search.'
+keywords: interoperability matrix tool, ONTAP SAN Host Simplified, Active IQ Advisor
+summary:  'Use the cards on the home page of the Interoperability Matrix Tool (IMT) to perform common searches, including the ONTAP SAN Host Simplified, Solution Search, List and Find, and Advanced Search.'
 ---
 
 = Perform common searches
@@ -10,11 +10,11 @@ summary:  'Use the cards on the home page of the Interoperability Matrix Tool (I
 :imagesdir: ./media/
 
 [.lead]
-Use the cards on the home page of the Interoperability Matrix Tool (IMT) to perform common searches, including the *ONTAP SAN Host Simplified Solutions*, *Solution Search*, *List and Find*, and *Advanced Search*.
+Use the cards on the home page of the Interoperability Matrix Tool (IMT) to perform common searches, including the *ONTAP SAN Host Simplified*, *Solution Search*, *List and Find*, and *Advanced Search*.
 
 When you open the IMT, you see the most common search types on the home page:
 
-* *ONTAP SAN Host Simplified Solutions*
+* *ONTAP SAN Host Simplified*
 * *Solution Search*
 * *List and Find*
 * *Advanced Search*

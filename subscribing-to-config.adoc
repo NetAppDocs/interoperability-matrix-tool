@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: subscribing-to-config.html
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified Solutions, Active IQ, Interop, Advisor, tool
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool
 summary:  'You can subscribe to configurations with any name of your choice for a particular solution or component.'
 ---
 

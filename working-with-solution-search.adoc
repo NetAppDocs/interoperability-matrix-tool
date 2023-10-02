@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: working-with-solution-search.html
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified Solutions, storage, area, network,
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network,
 summary:  'You can search for different storage solutions, and add or remove solutions from your search criteria. You can use the search text box within the Solution Search page to search for a specific solution. Frequently accessed solutions are displayed in the Solution Search field.'
 ---
 

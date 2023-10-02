@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: finding-compatible-with-hba-cards.html
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified Solutions, workflow, compatible, hba, cards
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow, compatible, hba, cards
 summary:  'You can use Interoperability Matrix Tool to view the supported host operating system for a configuration like Cisco UCS P81E card on FCoE.'
 ---
 = Find compatibility with HBA cards
@@ -9,11 +9,11 @@ summary:  'You can use Interoperability Matrix Tool to view the supported host o
 :imagesdir: ./media/
 
 [.lead]
-With the *ONTAP SAN Host Simplified Solution* search, the UI has been simplified to three components as compared to thirteen components present in the earlier versions. The remaining ten components are implicitly supported by NetApp, provided they are supported by the respective vendors. *Notes* and *Alerts* are categorized by solutions and are added to each result.
+With the *ONTAP SAN Host Simplified* feature, the UI has been simplified to three components as compared to thirteen components present in the earlier versions. The remaining ten components are implicitly supported by NetApp, provided they are supported by the respective vendors. *Notes* and *Alerts* are categorized by solutions and are added to each result.
 
 The three components supported in Interoperability Matrix Tool (IMT) are ONTAP, Host OS, and Protocol. 
 
-You can use IMT to view the host OS supportability with ONTAP. For example, to validate a Cisco UCS Blade server supportability with ONTAP, a sample configuration will be as follows:
+You can use IMT to view the host OS supportability with ONTAP. For example, to validate a Cisco UCS Blade server supportability with ONTAP, you can use the following sample configuration:
 
 *Example* 
 
@@ -31,31 +31,11 @@ You can use IMT to view the host OS supportability with ONTAP. For example, to v
 
 *Validate the sample configuration*
 
-* Verify in IMT using the *SAN Host Simplified Solution* search to validate ONTAP 9.13.1, Red Hat Enterprise Linux 9.2, and FCoE protocol are listed as supported.
+* Verify in IMT using the *ONTAP SAN Host Simplified* feature to validate ONTAP 9.13.1, Red Hat Enterprise Linux 9.2, and FCoE protocol are listed as supported configurations.
 +
-The HBA vendors supported by NetApp are Broadcom, Marvell, and Cisco. Because Cisco is one among the supported adapter list, Cisco Virtual Interface Card is supported as well. 
+The HBA vendors supported by NetApp are Broadcom, Marvell, and Cisco. Because Cisco is in the supported adapter list, it implies that the Cisco Virtual Interface Card (VIC) is supported as well. 
 
 * Verify Cisco "UCS Hardware and Software Compatibility" aka HCL to validate this configuration is listed as supported.
-
-You can use the procedure to access *ONTAP SAN Host Simplified Solution* on IMT using a web browser on your computer.
-
-.Steps
-
-. Choose a web browser (Safari, Mozilla Firefox, or Google Chrome).
-. Open the IMT webpage link:https://imt.netapp.com/matrix/#welcome.
-
-. Select the "Solution Search" tile.
-+
-image::Picture1.png[]
-. Search for "Simplified" and select the solution and add it.
-+
-image::Picture2.png[]
-. Search for the required component and apply the appropriate filters to view the results.
-+
-image::Picture3.png[]
-. View the desired configuration supportability details on the results page.
-+
-image::Picture4.png[]
 
 
 //29-Sep-2023 OTHERDOC-31
