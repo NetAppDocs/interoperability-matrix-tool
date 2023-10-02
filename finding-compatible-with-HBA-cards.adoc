@@ -9,7 +9,7 @@ summary:  'You can use Interoperability Matrix Tool to view the supported host o
 :imagesdir: ./media/
 
 [.lead]
-With the *ONTAP SAN Host Simplified* feature, the UI has been simplified to three components as compared to thirteen components present in the earlier versions. The remaining ten components are implicitly supported by NetApp, provided they are supported by the respective vendors. *Notes* and *Alerts* are categorized by solutions and are added to each result.
+With the *ONTAP SAN Host Simplified* feature, the UI has been simplified and is condensed into three components; there were thirteen components in the earlier versions. The remaining ten components are implicitly supported by NetApp, provided they are supported by the respective vendors. *Notes* and *Alerts* are categorized by solutions and are added to each result.
 
 The three components supported in Interoperability Matrix Tool (IMT) are ONTAP, Host OS, and Protocol. 
 
@@ -21,9 +21,9 @@ You can use IMT to view the host OS supportability with ONTAP. For example, to v
 
 * ONTAP: 9.13.1
 * Host OS: Red Hat Enterprise Linux 9.2
-* Server model: Cisco UCS B200 M6 Blade server
-* HBA adapter
-** Model: Cisco UCSB-MLOM-40G-04: Cisco UCS 1440 Virtual Interface Card
+* Server model: Cisco Unified Computing System (Cisco UCS) B200 M6 Blade server
+* Host bus adapter (HBA) 
+** Model: Cisco UCSB-MLOM-40G-04: Cisco Unified Computing System (Cisco UCS) 1440 Virtual Interface Card
 ** Driver version: 1.6.0.53 fnic 
 ** Firmware version: 5.3(2)
 * UCS Server Firmware: 5.2(0)
@@ -35,7 +35,7 @@ You can use IMT to view the host OS supportability with ONTAP. For example, to v
 +
 The HBA vendors supported by NetApp are Broadcom, Marvell, and Cisco. Because Cisco is in the supported adapter list, it implies that the Cisco Virtual Interface Card (VIC) is supported as well. 
 
-* Verify Cisco "UCS Hardware and Software Compatibility" aka HCL to validate this configuration is listed as supported.
+* Verify Cisco "UCS Hardware and Software Compatibility" (aka HCL) to validate this configuration is listed as supported.
 
 
 //29-Sep-2023 OTHERDOC-31
