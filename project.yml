@@ -50,7 +50,7 @@ sidebar:
           url: /finding-compatible-host-os.html
         - title: Find compatible Windows Server host for your products
           url: /finding-compatible-windows-server.html
-        - title: Find compatibility with host bus adapter cards
+        - title: Find compatibility with HBA cards
           url: /finding-compatible-with-hba-cards.html
         - title: Find a specific configuration and checking for product upgrade or downgrade supportability
           url: /finding-specific-config-and-checking-for-product-upgrade.html
