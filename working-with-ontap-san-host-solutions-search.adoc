@@ -24,7 +24,7 @@ NOTE: Click the *Set as default* option to automatically open a *ONTAP SAN Host 
 .. Click *Guided view* to see simplified and guided criteria options.
 . In *Novice view*, select the search criteria options as they display.
 .. Click *Skip* to move to the next component without making a selection. You can return to the component by clicking *Unskip* as needed.
-.. After the first five selections, click *Show More* to continue refining your search criteria.
+
 .. When done, click *View Results* to see the supported configurations for your search criteria.
 . In *Expert view*, select the search criteria you want to use for the various components. We recommend you move from left to right as each selection will refine the remaining criteria. You do not have to make a selection for each component.
 .. When done, click *View Results* to see the supported configurations for your search criteria.
