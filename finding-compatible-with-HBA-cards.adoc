@@ -4,12 +4,12 @@ permalink: finding-compatible-with-hba-cards.html
 keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow, compatible, hba, cards
 summary:  'You can use Interoperability Matrix Tool to view the supported host operating system for a configuration like Cisco UCS P81E card on FCoE.'
 ---
-= Find compatibility with HBA cards
+= Find compatibility with host bus adapter cards
 :icons: font
 :imagesdir: ./media/
 
 [.lead]
-With the *ONTAP SAN Host Simplified* feature, the UI has been simplified and is condensed into three components; there were thirteen components in the earlier versions. The remaining ten components are implicitly supported by NetApp, provided they are supported by the respective vendors. *Notes* and *Alerts* are categorized by solutions and are added to each result.
+With the *ONTAP SAN Host Simplified* feature, the UI is simplified and is condensed into three components; there were thirteen components in the earlier versions. The remaining ten components are implicitly supported by NetApp, provided they are supported by the respective vendors. *Notes* and *Alerts* are categorized by solutions and are added to each result.
 
 The three components supported in Interoperability Matrix Tool (IMT) are ONTAP, Host OS, and Protocol. 
 
