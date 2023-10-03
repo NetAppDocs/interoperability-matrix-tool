@@ -9,7 +9,7 @@ summary:  'You can use Interoperability Matrix Tool to view the supported host o
 :imagesdir: ./media/
 
 [.lead]
-With the *ONTAP SAN Host Simplified* feature, the UI is simplified and is condensed into three components; there were thirteen components in the earlier versions. The remaining ten components are implicitly supported by NetApp, provided they are supported by the respective vendors. *Notes* and *Alerts* are categorized by solutions and are added to each result.
+With the *ONTAP SAN Host Simplified* feature, the UI is simplified and condensed into three components; there were thirteen components in earlier versions of the UI. The remaining ten components are implicitly supported by NetApp, provided they are supported by the respective vendors. *Notes* and *Alerts* are categorized by solutions and are added to each result.
 
 The three components supported in Interoperability Matrix Tool (IMT) are ONTAP, Host OS, and Protocol. 
 
