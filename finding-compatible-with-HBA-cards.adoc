@@ -31,11 +31,11 @@ For example, validate Cisco Unified Computing System (Cisco UCS) Blade server su
 
 *Validate Cisco UCS Blade server supportability*
 
-* Use the *ONTAP SAN Host Simplified* feature in IMT to verify ONTAP 9.13.1, Red Hat Enterprise Linux 9.2, and FCoE protocol are listed as supported configurations.
+* Use the *ONTAP SAN Host Simplified* feature in IMT to verify that ONTAP 9.13.1, Red Hat Enterprise Linux 9.2, and FCoE protocol are listed as supported configurations.
 
-* The HBA vendors supported by NetApp are Broadcom, Marvell, and Cisco. Cisco is included in the supported adapter list which implies the Cisco Virtual Interface Card (VIC) is also supported. 
+* The HBA vendors supported by NetApp are Broadcom, Marvell, and Cisco. Cisco is included in the supported adapter list which implies that the Cisco Virtual Interface Card (VIC) is also supported. 
 
-* Use the vendor Hardware Compatibility list (HCL) to verify Cisco "UCS Hardware and Software Compatibility". As mentioned in the preceding list, verify the HBA adapter model, the UCS server firmware version, and the HBA driver and firmware versions are supported with Red Hat Enterprise Linux 9.2. 
+* Use the vendor Hardware Compatibility list (HCL) to verify Cisco "UCS Hardware and Software Compatibility". As mentioned in the preceding list, verify that the HBA adapter model, the UCS server firmware version, and the HBA driver and firmware versions are supported with Red Hat Enterprise Linux 9.2. 
 
 
 //29-Sep-2023 OTHERDOC-31
