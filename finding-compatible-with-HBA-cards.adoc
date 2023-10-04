@@ -31,8 +31,6 @@ For example, validate Cisco Unified Computing System (Cisco UCS) Blade server su
 
 *Validate Cisco UCS Blade server supportability*
 
-The Cisco UCS Blade server supportability will be validated successfully if the following criteria are met.
-
 * Use the *ONTAP SAN Host Simplified* feature in IMT to verify ONTAP 9.13.1, Red Hat Enterprise Linux 9.2, and FCoE protocol are listed as supported configurations.
 
 * The HBA vendors supported by NetApp are Broadcom, Marvell, and Cisco. Cisco is included in the supported adapter list which implies the Cisco Virtual Interface Card (VIC) is also supported. 
