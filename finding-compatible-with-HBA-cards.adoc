@@ -11,13 +11,15 @@ summary:  'You can use Interoperability Matrix Tool to view the supported host o
 [.lead]
 With the *ONTAP SAN Host Simplified* feature, the UI is simplified and condensed into three components; there were thirteen components in earlier versions of the UI. The remaining ten components are implicitly supported by NetApp, provided they are supported by the respective vendors. *Notes* and *Alerts* are categorized by solutions and are added to each result.
 
-The three components supported in Interoperability Matrix Tool (IMT) are ONTAP, Host OS, and Protocol. 
+The three components supported in Interoperability Matrix Tool (IMT) are ONTAP OS, Host OS, and Protocol. 
 
-You can use IMT to validate the host OS supportability with ONTAP. For example, to validate Cisco Unified Computing System (Cisco UCS) Blade server supportability with ONTAP, you can use the following configuration:
+You can use IMT to validate the host OS supportability with ONTAP. 
+
+For example, validate Cisco Unified Computing System (Cisco UCS) Blade server supportability with ONTAP using the following configuration:
 
 *Example Cisco UCS Blade server configuration* 
 
-* ONTAP: 9.13.1
+* ONTAP OS: 9.13.1
 * Host OS: Red Hat Enterprise Linux 9.2
 * Server model: Cisco UCS B200 M6 Blade server
 * Host bus adapter (HBA) 
@@ -29,13 +31,13 @@ You can use IMT to validate the host OS supportability with ONTAP. For example, 
 
 *Validate Cisco UCS Blade server supportability*
 
-Use the *ONTAP SAN Host Simplified* feature in IMT, to validate the following:
+The Cisco UCS Blade server supportability will be validated successfully if the following criteria are met.
 
-* Verify ONTAP 9.13.1, Red Hat Enterprise Linux 9.2, and FCoE protocol are listed as supported configurations.
-+
-The HBA vendors supported by NetApp are Broadcom, Marvell, and Cisco. Because Cisco is in the supported adapter list, it implies that the Cisco Virtual Interface Card (VIC) is also supported. 
+* Use the *ONTAP SAN Host Simplified* feature in IMT to verify ONTAP 9.13.1, Red Hat Enterprise Linux 9.2, and FCoE protocol are listed as supported configurations.
 
-* Verify Cisco "UCS Hardware and Software Compatibility" (aka HCL) is listed as a supported configuration.
+* The HBA vendors supported by NetApp are Broadcom, Marvell, and Cisco. Cisco is included in the supported adapter list which implies the Cisco Virtual Interface Card (VIC) is also supported. 
+
+* Use the vendor Hardware Compatibility list (HCL) to verify Cisco "UCS Hardware and Software Compatibility". As mentioned in the preceding list, verify the HBA adapter model, the UCS server firmware version, and the HBA driver and firmware versions are supported with Red Hat Enterprise Linux 9.2. 
 
 
 //29-Sep-2023 OTHERDOC-31
