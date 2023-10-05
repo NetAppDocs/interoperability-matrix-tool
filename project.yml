@@ -12,6 +12,7 @@ sidebar:
     - title: Perform Common Searches
       url: /performing-common-searches.html
       entries:
+
         - title: Work with ONTAP SAN Host Simplified search
           url: /working-with-ontap-san-host-solutions-search.html
         - title: Work with Solution Search
