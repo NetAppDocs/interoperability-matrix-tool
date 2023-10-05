@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: modify-the-search-criteria.html
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, Active IQ, Interop, Advisor, tool
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool
 summary:  'From the Refine Search Criteria page, you can choose to modify the search criteria to add a solution, component, or category to the criteria.'
 ---
 = Modify the search criteria

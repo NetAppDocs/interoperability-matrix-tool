@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: use-cannot-find-config.html
-keywords: interoperability matrix tool, imt, ONTAP SAN Host Solutions,cannot, find, configuration
+keywords: interoperability matrix tool, imt, ONTAP SAN Host Simplified,cannot, find, configuration
 summary:  The NetApp Interoperability Matrix Tool (IMT) is a web-based application. IMT enables you to search for configurations of NetApp products and components that meet the standards and requirements specified by NetApp
 ---
 
