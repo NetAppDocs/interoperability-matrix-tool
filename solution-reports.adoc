@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: solution-reports.html
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Solutions, component, EOVS, Summary
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, component, EOVS, Summary
 summary:  'You can view and download Excel or PDF versions of solution reports.'
 ---
 = Solution reports
