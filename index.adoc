@@ -43,7 +43,7 @@ You can accomplish the following tasks:
 |Using this page...
 |You can perform these tasks...
 |Enter criteria
-|Enter a search criteria and search for a solution, component, configuration, and category. If you know the solution or a component name, you can search for a solution using the *ONTAP SAN Host Simplified* or the *Solution Search* feature and search for a component using the *List and Find* or *Advanced Search* feature.
+|Enter a search criteria and search for a solution, component, configuration, and category. If you know the solution name, you can search for a solution using the *ONTAP SAN Host Simplified* or the *Solution Search* feature. If you know a component name, you can search for a component using the *List and Find* or *Advanced Search* feature.
 |Refine Search Criteria
 |Find more definitive yes or no answer to compatible solution, component, configuration, and category for your product.
 You have an option to change the initial criteria that you entered on the first page using *Change Criteria* or *Try a different method*.
