@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar
 permalink: using-notifications.html
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network,
-summary:  'The Notifications menu displays your current notifications.'
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network
+summary: "The Notifications menu displays your current notifications."
 ---
 
 
