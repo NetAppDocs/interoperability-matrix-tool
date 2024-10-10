@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar
 permalink: exploring-the-interoperability-matrix-tool.html
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network,
-summary:  'The Interoperability Matrix Tool (IMT) is a web-based application you use to search for compatibility and supported configurations for your NetApp products.'
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network
+summary: "The Interoperability Matrix Tool (IMT) is a web-based application you use to search for compatibility and supported configurations for your NetApp products."
 ---
 
 = Explore the Interoperability Matrix Tool
